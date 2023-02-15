@@ -4,7 +4,7 @@ This widget pulls my top artist for the week off of my lastfm profile & using Gi
 
 This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown). That repo pulls the users's top albums for the week and displayed images of each album cover. In this fork, I modified the code so that I could instead display the names (no images) of my top artists for the week as while as some listening stats. If you're interested, definately go check out the original repo! It's well documented and makes integrating with Last.fm a breeze.
 
-## Example output
+## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
@@ -19,12 +19,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 * [Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl) - Mickey Darling (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
-## What you'll need
-* A README.md file.
-* Last.fm API key (you can get one [here](https://www.last.fm/api/account/create))
-* Set up a GitHub Secret called ```LASTFM_API_KEY``` with the value given by last.fm.
-* add another GitHub Secret, ```LASTFM_USER```, with your last.fm username.
-* Add the following markdown text to your README.md file. 
+
+# Want to Use This Widget? Here's How:
+
+### Setting up your README:
+If you don't already have a README.md file for the repo you want to use this widget in, start by creating one. Then, add the following markdown text to your README.md file. 
 ```
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
@@ -41,8 +40,14 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-TRACK:END -->
 ```
 You can modify the headers for the above text, but make sure that the tags remain. Additionally, because of the way that this widget updates the markdown file, the proper space (e.g. 5 spaces for top artist & 1 space for top song) must be added to the markdown file. Your lastfm data will be populated here!
-## Instructions
-To use this release, add a ```lastfm.yml``` workflow file to the ```.github/workflows``` folder in your repository with the following code:
+
+### Get an API key & setup your GitHub Secrets
+1. Get a Last.fm API key (you can generate one [here](https://www.last.fm/api/account/create))
+2. Set up a GitHub Secret called ```LASTFM_API_KEY``` with the value given by last.fm.
+3. add another GitHub Secret, ```LASTFM_USER```, with your last.fm username.
+
+### Create a workflow
+Add a ```lastfm.yml``` workflow file to the ```.github/workflows``` folder in your repository with the following code:
 ```diff
 name: lastfm-to-markdown
 
@@ -78,3 +83,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}\
           branch: main
 ```
+
+If all of this was done correctly, you should see your last.fm data populate in your README.md file!
