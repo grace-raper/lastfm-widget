@@ -55,7 +55,7 @@ jobs:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
 2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 17 times this week
-3. [Colony House](https://www.last.fm/music/Colony+House) - listened to 7 times this week
+3. [Colony House](https://www.last.fm/music/Colony+House) - listened to 10 times this week
 4. [YUNGBLUD](https://www.last.fm/music/YUNGBLUD) - listened to 6 times this week
 5. [Barns Courtney](https://www.last.fm/music/Barns+Courtney) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
