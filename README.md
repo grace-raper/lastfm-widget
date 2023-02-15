@@ -1,16 +1,10 @@
-# last.fm to markdown
+# Lastfm Widget for GitHub Profile
 
-![banner](banner.png)
+This widget pulls my top artist for the week off of my lastfm profile & using Github workflows, automatically update my profile readme.
 
-## 🤖 About this repo
-This is a small project that I started because I wanted to have my last.fm weekly chart on my GitHub profile. I used GitHub Actions because they can be scheduled with cron jobs and you won't need to pass any sensitive information to modify the README.md file.
-
-## 🎵 Example output, automatically updated every day
-<!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Janelle+Mon%C3%A1e/The+ArchAndroid+(Suites+II+and+III)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a5ab84b1f7214178a3862961896c7c1f.png" title="Janelle Monáe - The ArchAndroid (Suites II and III)"></a> <a href="https://www.last.fm/music/Janis+Joplin/Greatest+Hits"><img src="https://lastfm.freetls.fastly.net/i/u/64s/26cf2e294502477eb432344ed60ef136.jpg" title="Janis Joplin - Greatest Hits"></a> <a href="https://www.last.fm/music/Japandroids/Celebration+Rock"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a8718e11c970d7f25e3a5abf363298cf.jpg" title="Japandroids - Celebration Rock"></a> <a href="https://www.last.fm/music/Japandroids/Post-Nothing"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e23c0e495c7a4de7a7261a35743f59c2.png" title="Japandroids - Post-Nothing"></a> </p>
-
+This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown). That repo pulls the users's top albums for the week and displayed images of each album cover. In this fork, I modified the code so that I could instead display the names (no images) of my top artists for the week as while as some listening stats. If you're interested, definately go check out the original repo! It's well documented and makes integrating with Last.fm a breeze.
           
-## 👩🏽‍💻 What you'll need
+## What you'll need
 * A README.md file.
 * Last.fm API key
   * Fill [this form](https://www.last.fm/api/account/create) to instantly get one. Requires a last.fm account.
@@ -55,8 +49,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}\
           branch: main
 ```
-The cron job is scheduled to run once a day because Last.fm's API updates weekly chart data daily at 00:00, it's useless to make more than 1 request per day because you'll get the same information back every time. You can manually run the workflow in case Last.fm's API was down at the time, going to the Actions tab in your repository.
 
-## 🚧 To do
-* Allow users to choose the image size for the album covers.
-* Feel free to open an issue or send a pull request for anything you believe would be useful.
+## Example output
+<!-- lastfm -->
+<p align="center"><a href="https://www.last.fm/music/Janelle+Mon%C3%A1e/The+ArchAndroid+(Suites+II+and+III)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a5ab84b1f7214178a3862961896c7c1f.png" title="Janelle Monáe - The ArchAndroid (Suites II and III)"></a> <a href="https://www.last.fm/music/Janis+Joplin/Greatest+Hits"><img src="https://lastfm.freetls.fastly.net/i/u/64s/26cf2e294502477eb432344ed60ef136.jpg" title="Janis Joplin - Greatest Hits"></a> <a href="https://www.last.fm/music/Japandroids/Celebration+Rock"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a8718e11c970d7f25e3a5abf363298cf.jpg" title="Japandroids - Celebration Rock"></a> <a href="https://www.last.fm/music/Japandroids/Post-Nothing"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e23c0e495c7a4de7a7261a35743f59c2.png" title="Japandroids - Post-Nothing"></a> </p>
