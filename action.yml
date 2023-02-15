@@ -1,6 +1,6 @@
 name: 'lastfm to markdown'
-author: 'melipass'
-description: 'Adds your Last.fm Weekly Chart to your GitHub Profile or any repo with a README.md'
+author: 'grace-raper'
+description: 'Adds your Last.fm top artist & top songs to your GitHub Profile or any repo with a README.md'
 inputs:
   LASTFM_API_KEY:
     description: 'Last.fm API Key. Store it as a GitHub Secret.'
@@ -17,6 +17,16 @@ inputs:
     required: false
     default: '10'
 
+  ARTIST_COUNT:
+    description: 'How many artist will be listed.'
+    required: false
+    default: '5'
+
+  SONG_COUNT:
+    description: 'How many songs will be listed.'
+    required: false
+    default: '1'
+
   INCLUDE_LINK:
     description: 'Include a link to the album on Last.fm.'
     required: false
@@ -29,6 +39,8 @@ runs:
         LASTFM_API_KEY: ${{ inputs.LASTFM_API_KEY }}
         LASTFM_USER: ${{ inputs.LASTFM_USER }}
         IMAGE_COUNT: ${{ inputs.IMAGE_COUNT }}
+        ARTIST_COUNT: ${{ inputs.ARTIST_COUNT }}
+        SONG_COUNT: ${{ inputs.SONG_COUNT }}
         INCLUDE_LINK: ${{ inputs.INCLUDE_LINK }}
       run: python ${{ github.action_path }}/lastfm.py
       shell: bash

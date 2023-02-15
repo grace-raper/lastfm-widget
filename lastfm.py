@@ -2,6 +2,7 @@ import requests
 import os
 import sys
 
+
 def lastfm_request(payload):
     headers = {'user-agent': os.getenv('LASTFM_USER')}
     payload['api_key'] = os.getenv('LASTFM_API_KEY')
@@ -15,53 +16,68 @@ def lastfm_request(payload):
 def get_weekly_album_chart():
     payload = {'method': 'user.getweeklyalbumchart'}
     data = lastfm_request(payload).json()['weeklyalbumchart']['album']
+    print(lastfm_request(payload).json())
     artist_and_album = []
     for i in range(len(data)):
         artist_and_album.append([data[i]['artist']['#text'],
-                                data[i]['name']])
+                                 data[i]['name']])
+    print(artist_and_album)
     return artist_and_album
 
 
-def get_album_covers(artist_and_album):
-    images = []
-    for album in artist_and_album:
-        payload = {'method': 'album.getinfo',
-                   'artist': album[0],
-                   'album': album[1]}
-        request_response = lastfm_request(payload).json()
-        url = request_response['album']['image'][1]['#text']
-        link_to_album = request_response['album']['url']
-        if (url != ''):
-            images.append([album[0], album[1], url, link_to_album])
-    return images
+def get_weekly_artist_chart(limit):
+    payload = {'method': 'user.getTopArtists', 'period': '7day', 'limit': str(limit)}
+    data = lastfm_request(payload).json()['topartists']['artist']
+    top_artists = []
+    for i in range(len(data)):
+        top_artists.append([data[i]['name'],
+                            data[i]['playcount'],
+                            data[i]['url']])
+    return top_artists
 
 
-def update_readme(images):
+def get_weekly_track_chart(limit):
+    payload = {'method': 'user.getTopTracks', 'period': '7day', 'limit': str(limit)}
+    data = lastfm_request(payload).json()['toptracks']['track']
+    top_tracks = []
+    for i in range(len(data)):
+        top_tracks.append([data[i]['artist']['name'],
+                           data[i]['name'],
+                           data[i]['playcount'],
+                           data[i]['url']])
+    return top_tracks
+
+
+def update_readme_top_artists(artists):
     with open('README.md', 'r', encoding='utf-8') as file:
         readme = file.readlines()
-    lastfm_line_index = readme.index('<!-- lastfm -->\n') + 1
-    lastfm_line = '<p align="center">'
-    i = 0
-    for img in images:
-        if (i < int(os.getenv('IMAGE_COUNT'))):
-            if (requests.get(img[2]).status_code == 200):
-                if os.getenv('INCLUDE_LINK') == 'false':
-                    lastfm_line += f'<img src="{img[2]}" title="{img[0]} - {img[1]}"> '
-                else:
-                    lastfm_line += f'<a href="{img[3]}"><img src="{img[2]}" title="{img[0]} - {img[1]}"></a> '
-                # lastfm_line = lastfm_line + '![' + img[0] + ' - ' + img[1] + '](' + img[2] + ') '
-                i = i + 1
-            else:
-                pass
-        else:
-            break
-    if (readme[lastfm_line_index] == lastfm_line):
-        sys.exit(0)
-    else:
-        lastfm_line = lastfm_line + '</p>\n'
+    lastfm_line_index = readme.index('<!-- LASTFM-TOP-ARTIST:START -->\n')
+    for rank, artist in enumerate(artists):
+        lastfm_line = str(rank + 1) + '. [' + artist[0] + '](' + artist[2] + ") - listened to " + str(
+            artist[1]) + " times this week\n"
+        lastfm_line_index += 1
         readme[lastfm_line_index] = lastfm_line
+
     with open('README.md', 'w', encoding='utf-8') as file:
         file.writelines(readme)
 
 
-update_readme(get_album_covers(get_weekly_album_chart()))
+def update_readme_top_track(tracks):
+    with open('README.md', 'r', encoding='utf-8') as file:
+        readme = file.readlines()
+    lastfm_line_index = readme.index('<!-- LASTFM-TOP-TRACK:START -->\n')
+    for track in tracks:
+        lastfm_line = '* [' + track[1] + '](' + track[3] + ') - ' + track[0] + ' (' + str(
+            track[2]) + " plays in the last 30 days)\n"
+        lastfm_line_index += 1
+        readme[lastfm_line_index] = lastfm_line
+
+    with open('README.md', 'w', encoding='utf-8') as file:
+        file.writelines(readme)
+
+
+artist = get_weekly_artist_chart(os.getenv('ARTIST_COUNT'))
+update_readme_top_artists(artist)
+
+tracks = get_weekly_track_chart(os.getenv('SONG_COUNT'))
+update_readme_top_track(tracks)
