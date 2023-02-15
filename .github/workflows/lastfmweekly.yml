@@ -29,6 +29,8 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
           IMAGE_COUNT: 10
+          ARTIST_COUNT: 5
+          SONG_COUNT: 1
         run: python lastfm.py
 
       - name: commit changes

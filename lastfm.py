@@ -26,7 +26,6 @@ def get_weekly_album_chart():
 
 
 def get_weekly_artist_chart(limit):
-    print(limit)
     payload = {'method': 'user.getTopArtists', 'period': '7day', 'limit': limit}
     data = lastfm_request(payload).json()['topartists']['artist']
     top_artists = []
@@ -38,7 +37,6 @@ def get_weekly_artist_chart(limit):
 
 
 def get_weekly_track_chart(limit):
-    print(limit)
     payload = {'method': 'user.getTopTracks', 'period': '7day', 'limit': limit}
     data = lastfm_request(payload).json()['toptracks']['track']
     top_tracks = []
@@ -58,7 +56,7 @@ def update_readme_top_artists(artists):
         lastfm_line = str(rank + 1) + '. [' + artist[0] + '](' + artist[2] + ") - listened to " + str(
             artist[1]) + " times this week\n"
         lastfm_line_index += 1
-        #print(str(rank) + " " + str(lastfm_line_index))
+        # print(str(rank) + " " + str(lastfm_line_index))
         readme[lastfm_line_index] = lastfm_line
 
     with open('README.md', 'w', encoding='utf-8') as file:
@@ -78,10 +76,9 @@ def update_readme_top_track(tracks):
     with open('README.md', 'w', encoding='utf-8') as file:
         file.writelines(readme)
 
-#artist = get_weekly_artist_chart(5)
+
 artist = get_weekly_artist_chart(os.getenv('ARTIST_COUNT'))
 update_readme_top_artists(artist)
 
-#tracks = get_weekly_track_chart(1)
 tracks = get_weekly_track_chart(os.getenv('SONG_COUNT'))
 update_readme_top_track(tracks)
