@@ -53,14 +53,14 @@ jobs:
 ## Example output
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. hi
-2. hi
-3. hi
-4. hi
-5. hi
+1. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 17 times this week
+3. [Colony House](https://www.last.fm/music/Colony+House) - listened to 7 times this week
+4. [YUNGBLUD](https://www.last.fm/music/YUNGBLUD) - listened to 6 times this week
+5. [Barns Courtney](https://www.last.fm/music/Barns+Courtney) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* hi
+* [Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl) - Mickey Darling (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
