@@ -7,9 +7,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 22 times this week
-2. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 17 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 38 times this week
+2. [Colony House](https://www.last.fm/music/Colony+House) - listened to 22 times this week
+3. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
 4. [Leon Bridges](https://www.last.fm/music/Leon+Bridges) - listened to 15 times this week
 5. [YUNGBLUD](https://www.last.fm/music/YUNGBLUD) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
