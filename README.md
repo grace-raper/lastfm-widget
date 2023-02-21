@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Mandy Moore](https://www.last.fm/music/Mandy+Moore) - listened to 42 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 38 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 39 times this week
 3. [Colony House](https://www.last.fm/music/Colony+House) - listened to 22 times this week
 4. [Rihanna](https://www.last.fm/music/Rihanna) - listened to 20 times this week
-5. [Leon Bridges](https://www.last.fm/music/Leon+Bridges) - listened to 15 times this week
+5. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 16 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl) - Mickey Darling (7 plays in the last 30 days)
+* [Your Looks Can't Save You](https://www.last.fm/music/Mickey+Darling/_/Your+Looks+Can%27t+Save+You) - Mickey Darling (9 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
