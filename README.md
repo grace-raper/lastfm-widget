@@ -11,12 +11,12 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 39 times this week
 3. [Colony House](https://www.last.fm/music/Colony+House) - listened to 22 times this week
 4. [Rihanna](https://www.last.fm/music/Rihanna) - listened to 20 times this week
-5. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 16 times this week
+5. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 19 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Your Looks Can't Save You](https://www.last.fm/music/Mickey+Darling/_/Your+Looks+Can%27t+Save+You) - Mickey Darling (9 plays in the last 30 days)
+* [Your Looks Can't Save You](https://www.last.fm/music/Mickey+Darling/_/Your+Looks+Can%27t+Save+You) - Mickey Darling (11 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
