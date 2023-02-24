@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Mandy Moore](https://www.last.fm/music/Mandy+Moore) - listened to 42 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 22 times this week
-3. [Rihanna](https://www.last.fm/music/Rihanna) - listened to 20 times this week
-4. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 16 times this week
-5. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 10 times this week
+2. [Rihanna](https://www.last.fm/music/Rihanna) - listened to 20 times this week
+3. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 16 times this week
+4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 16 times this week
+5. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Your Looks Can't Save You](https://www.last.fm/music/Mickey+Darling/_/Your+Looks+Can%27t+Save+You) - Mickey Darling (9 plays in the last 30 days)
+* [Forever After All](https://www.last.fm/music/Luke+Combs/_/Forever+After+All) - Luke Combs (11 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
