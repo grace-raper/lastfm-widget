@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Mandy Moore](https://www.last.fm/music/Mandy+Moore) - listened to 42 times this week
-2. [Rihanna](https://www.last.fm/music/Rihanna) - listened to 20 times this week
-3. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 16 times this week
-4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 16 times this week
-5. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 13 times this week
+1. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 48 times this week
+2. [Mandy Moore](https://www.last.fm/music/Mandy+Moore) - listened to 42 times this week
+3. [Rihanna](https://www.last.fm/music/Rihanna) - listened to 20 times this week
+4. [Lorde](https://www.last.fm/music/Lorde) - listened to 16 times this week
+5. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 16 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Forever After All](https://www.last.fm/music/Luke+Combs/_/Forever+After+All) - Luke Combs (11 plays in the last 30 days)
+* [Ribs](https://www.last.fm/music/Lorde/_/Ribs) - Lorde (16 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
