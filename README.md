@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 48 times this week
-2. [Mandy Moore](https://www.last.fm/music/Mandy+Moore) - listened to 42 times this week
-3. [Lorde](https://www.last.fm/music/Lorde) - listened to 16 times this week
-4. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 16 times this week
-5. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 16 times this week
+2. [Lorde](https://www.last.fm/music/Lorde) - listened to 16 times this week
+3. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 16 times this week
+4. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 13 times this week
+5. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
