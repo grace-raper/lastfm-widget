@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 42 times this week
 2. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 25 times this week
-3. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 20 times this week
-4. [Lorde](https://www.last.fm/music/Lorde) - listened to 17 times this week
-5. [Tyler Childers](https://www.last.fm/music/Tyler+Childers) - listened to 17 times this week
+3. [Lorde](https://www.last.fm/music/Lorde) - listened to 17 times this week
+4. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 16 times this week
+5. [Flipturn](https://www.last.fm/music/Flipturn) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
