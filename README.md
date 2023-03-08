@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 15 times this week
-2. [Stephen Day](https://www.last.fm/music/Stephen+Day) - listened to 11 times this week
-3. [Flipturn](https://www.last.fm/music/Flipturn) - listened to 10 times this week
-4. [Galantis, Ship Wrek & Pink Sweat$](https://www.last.fm/music/Galantis,+Ship+Wrek+&+Pink+Sweat$) - listened to 8 times this week
-5. [Peach Pit](https://www.last.fm/music/Peach+Pit) - listened to 8 times this week
+1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 16 times this week
+2. [Galantis, Ship Wrek & Pink Sweat$](https://www.last.fm/music/Galantis,+Ship+Wrek+&+Pink+Sweat$) - listened to 8 times this week
+3. [Carrie Underwood](https://www.last.fm/music/Carrie+Underwood) - listened to 7 times this week
+4. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 6 times this week
+5. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
