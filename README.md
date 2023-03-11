@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 16 times this week
+1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 11 times this week
 2. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 6 times this week
 3. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 4 times this week
-4. [Vista Kicks](https://www.last.fm/music/Vista+Kicks) - listened to 4 times this week
-5. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 3 times this week
+4. [Smallpools](https://www.last.fm/music/Smallpools) - listened to 3 times this week
+5. [Childish Gambino](https://www.last.fm/music/Childish+Gambino) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Good Kisser](https://www.last.fm/music/Lake+Street+Dive/_/Good+Kisser) - Lake Street Dive (3 plays in the last 30 days)
+* [L.E.S.](https://www.last.fm/music/Childish+Gambino/_/L.E.S.) - Childish Gambino (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
