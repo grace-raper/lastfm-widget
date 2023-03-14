@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 5 times this week
-2. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 3 times this week
-3. [Childish Gambino](https://www.last.fm/music/Childish+Gambino) - listened to 2 times this week
-4. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 2 times this week
-5. [Amy Winehouse](https://www.last.fm/music/Amy+Winehouse) - listened to 1 times this week
+1. [Daisy Jones & The Six](https://www.last.fm/music/Daisy+Jones+&+The+Six) - listened to 24 times this week
+2. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 11 times this week
+3. [Paramore](https://www.last.fm/music/Paramore) - listened to 10 times this week
+4. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 9 times this week
+5. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [L.E.S.](https://www.last.fm/music/Childish+Gambino/_/L.E.S.) - Childish Gambino (2 plays in the last 30 days)
+* [Look At Us Now (Honeycomb)](https://www.last.fm/music/Daisy+Jones+&+The+Six/_/Look+At+Us+Now+(Honeycomb)) - Daisy Jones & The Six (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
