@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Daisy Jones & The Six](https://www.last.fm/music/Daisy+Jones+&+The+Six) - listened to 29 times this week
-2. [Paramore](https://www.last.fm/music/Paramore) - listened to 18 times this week
-3. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 17 times this week
-4. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 15 times this week
-5. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 14 times this week
+1. [Paramore](https://www.last.fm/music/Paramore) - listened to 18 times this week
+2. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 15 times this week
+3. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 14 times this week
+4. [Daisy Jones & The Six](https://www.last.fm/music/Daisy+Jones+&+The+Six) - listened to 14 times this week
+5. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Look At Us Now (Honeycomb)](https://www.last.fm/music/Daisy+Jones+&+The+Six/_/Look+At+Us+Now+(Honeycomb)) - Daisy Jones & The Six (8 plays in the last 30 days)
+* [Good Kisser](https://www.last.fm/music/Lake+Street+Dive/_/Good+Kisser) - Lake Street Dive (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
