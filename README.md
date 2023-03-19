@@ -11,12 +11,12 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Paramore](https://www.last.fm/music/Paramore) - listened to 18 times this week
 3. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 15 times this week
 4. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 14 times this week
-5. [Carrie Underwood](https://www.last.fm/music/Carrie+Underwood) - listened to 12 times this week
+5. [Carrie Underwood](https://www.last.fm/music/Carrie+Underwood) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Good Kisser](https://www.last.fm/music/Lake+Street+Dive/_/Good+Kisser) - Lake Street Dive (5 plays in the last 30 days)
+* [Sex, Drugs, Etc.](https://www.last.fm/music/Beach+Weather/_/Sex,+Drugs,+Etc.) - Beach Weather (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
