@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Daisy Jones & The Six](https://www.last.fm/music/Daisy+Jones+&+The+Six) - listened to 29 times this week
-2. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 27 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 22 times this week
-4. [Paramore](https://www.last.fm/music/Paramore) - listened to 19 times this week
-5. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 19 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 22 times this week
+3. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 19 times this week
+4. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 13 times this week
+5. [Flipturn](https://www.last.fm/music/Flipturn) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Sex, Drugs, Etc.](https://www.last.fm/music/Beach+Weather/_/Sex,+Drugs,+Etc.) - Beach Weather (6 plays in the last 30 days)
+* [Hard Feelings](https://www.last.fm/music/Beach+Weather/_/Hard+Feelings) - Beach Weather (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
