@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Daisy Jones & The Six](https://www.last.fm/music/Daisy+Jones+&+The+Six) - listened to 31 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 24 times this week
-3. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 18 times this week
-4. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 16 times this week
-5. [Peach Pit](https://www.last.fm/music/Peach+Pit) - listened to 11 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 23 times this week
+2. [Daisy Jones & The Six](https://www.last.fm/music/Daisy+Jones+&+The+Six) - listened to 16 times this week
+3. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 15 times this week
+4. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 11 times this week
+5. [Suki Waterhouse](https://www.last.fm/music/Suki+Waterhouse) - listened to 10 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
