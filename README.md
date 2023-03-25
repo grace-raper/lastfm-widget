@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 27 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 23 times this week
-3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 22 times this week
-4. [Daisy Jones & The Six](https://www.last.fm/music/Daisy+Jones+&+The+Six) - listened to 16 times this week
-5. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 15 times this week
+2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 22 times this week
+3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 12 times this week
+4. [Suki Waterhouse](https://www.last.fm/music/Suki+Waterhouse) - listened to 10 times this week
+5. [Tyler Childers](https://www.last.fm/music/Tyler+Childers) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
