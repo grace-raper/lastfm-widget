@@ -9,14 +9,14 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 27 times this week
 2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 22 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 12 times this week
+3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 17 times this week
 4. [Suki Waterhouse](https://www.last.fm/music/Suki+Waterhouse) - listened to 10 times this week
-5. [Tyler Childers](https://www.last.fm/music/Tyler+Childers) - listened to 8 times this week
+5. [Whiskey Myers](https://www.last.fm/music/Whiskey+Myers) - listened to 9 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [In Love With A Camera](https://www.last.fm/music/The+Struts/_/In+Love+With+A+Camera) - The Struts (6 plays in the last 30 days)
+* [All My Love](https://www.last.fm/music/Noah+Kahan/_/All+My+Love) - Noah Kahan (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
