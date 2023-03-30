@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 28 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 17 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 16 times this week
-4. [Suki Waterhouse](https://www.last.fm/music/Suki+Waterhouse) - listened to 10 times this week
-5. [Coin](https://www.last.fm/music/Coin) - listened to 8 times this week
+2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 16 times this week
+3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 10 times this week
+4. [Coin](https://www.last.fm/music/Coin) - listened to 8 times this week
+5. [Grouplove](https://www.last.fm/music/Grouplove) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
