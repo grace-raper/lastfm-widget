@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 28 times this week
-2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 16 times this week
-3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 10 times this week
-4. [Coin](https://www.last.fm/music/Coin) - listened to 8 times this week
-5. [Grouplove](https://www.last.fm/music/Grouplove) - listened to 8 times this week
+1. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 16 times this week
+2. [Grouplove](https://www.last.fm/music/Grouplove) - listened to 7 times this week
+3. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 7 times this week
+4. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 5 times this week
+5. [Coin](https://www.last.fm/music/Coin) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Landlocked Surf Rock](https://www.last.fm/music/Colony+House/_/Landlocked+Surf+Rock) - Colony House (3 plays in the last 30 days)
+* [Heaven Is Here](https://www.last.fm/music/Florence+%252B+the+Machine/_/Heaven+Is+Here) - Florence + the Machine (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
