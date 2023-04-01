@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 16 times this week
-2. [Grouplove](https://www.last.fm/music/Grouplove) - listened to 7 times this week
-3. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 7 times this week
-4. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 5 times this week
-5. [Coin](https://www.last.fm/music/Coin) - listened to 4 times this week
+1. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 11 times this week
+2. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 10 times this week
+3. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 9 times this week
+4. [Smallpools](https://www.last.fm/music/Smallpools) - listened to 8 times this week
+5. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Heaven Is Here](https://www.last.fm/music/Florence+%252B+the+Machine/_/Heaven+Is+Here) - Florence + the Machine (3 plays in the last 30 days)
+* [All or Nothing](https://www.last.fm/music/Ripe/_/All+or+Nothing) - Ripe (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
