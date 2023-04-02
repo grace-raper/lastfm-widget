@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 11 times this week
-2. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 10 times this week
-3. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 9 times this week
-4. [Smallpools](https://www.last.fm/music/Smallpools) - listened to 8 times this week
-5. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 7 times this week
+1. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 18 times this week
+2. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 17 times this week
+3. [Paramore](https://www.last.fm/music/Paramore) - listened to 15 times this week
+4. [Mt. Joy](https://www.last.fm/music/Mt.+Joy) - listened to 14 times this week
+5. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
