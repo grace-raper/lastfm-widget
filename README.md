@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 18 times this week
-2. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 17 times this week
-3. [Paramore](https://www.last.fm/music/Paramore) - listened to 15 times this week
-4. [Mt. Joy](https://www.last.fm/music/Mt.+Joy) - listened to 14 times this week
-5. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 14 times this week
+1. [Paramore](https://www.last.fm/music/Paramore) - listened to 26 times this week
+2. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 26 times this week
+3. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 24 times this week
+4. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 17 times this week
+5. [Grouplove](https://www.last.fm/music/Grouplove) - listened to 16 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [All or Nothing](https://www.last.fm/music/Ripe/_/All+or+Nothing) - Ripe (6 plays in the last 30 days)
+* [All or Nothing](https://www.last.fm/music/Ripe/_/All+or+Nothing) - Ripe (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
