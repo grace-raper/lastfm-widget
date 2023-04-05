@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Paramore](https://www.last.fm/music/Paramore) - listened to 26 times this week
-2. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 26 times this week
-3. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 24 times this week
-4. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 17 times this week
-5. [Grouplove](https://www.last.fm/music/Grouplove) - listened to 16 times this week
+1. [Paramore](https://www.last.fm/music/Paramore) - listened to 20 times this week
+2. [Mt. Joy](https://www.last.fm/music/Mt.+Joy) - listened to 16 times this week
+3. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 16 times this week
+4. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 14 times this week
+5. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Never Goes Away](https://www.last.fm/music/Claire+Rosinkranz/_/Never+Goes+Away) - Claire Rosinkranz (6 plays in the last 30 days)
+* [Dive](https://www.last.fm/music/Olivia+Dean/_/Dive) - Olivia Dean (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
