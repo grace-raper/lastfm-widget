@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 40 times this week
-2. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 23 times this week
-3. [Paramore](https://www.last.fm/music/Paramore) - listened to 22 times this week
-4. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 19 times this week
-5. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 18 times this week
+1. [Colony House](https://www.last.fm/music/Colony+House) - listened to 33 times this week
+2. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 16 times this week
+3. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 12 times this week
+4. [Daisy Jones & The Six](https://www.last.fm/music/Daisy+Jones+&+The+Six) - listened to 11 times this week
+5. [Paramore](https://www.last.fm/music/Paramore) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Sex, Drugs, Etc.](https://www.last.fm/music/Beach+Weather/_/Sex,+Drugs,+Etc.) - Beach Weather (6 plays in the last 30 days)
+* [Strangers](https://www.last.fm/music/Mt.+Joy/_/Strangers) - Mt. Joy (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
