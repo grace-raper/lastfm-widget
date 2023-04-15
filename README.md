@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 1 times this week
-2. [Father John Misty](https://www.last.fm/music/Father+John+Misty) - listened to 1 times this week
-3. [Hailee Steinfeld](https://www.last.fm/music/Hailee+Steinfeld) - listened to 1 times this week
-4. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 1 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 1 times this week
+1. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 7 times this week
+2. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 4 times this week
+3. [Smallpools](https://www.last.fm/music/Smallpools) - listened to 4 times this week
+4. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 4 times this week
+5. [The 1975](https://www.last.fm/music/The+1975) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Swoon](https://www.last.fm/music/Beach+Weather/_/Swoon) - Beach Weather (1 plays in the last 30 days)
+* [Swoon](https://www.last.fm/music/Beach+Weather/_/Swoon) - Beach Weather (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
