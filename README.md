@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 19 times this week
-2. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 15 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 15 times this week
-4. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 13 times this week
-5. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 11 times this week
+1. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 26 times this week
+2. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 18 times this week
+3. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 17 times this week
+4. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 14 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Mary Jane's Last Dance](https://www.last.fm/music/Tom+Petty+and+The+Heartbreakers/_/Mary+Jane%27s+Last+Dance) - Tom Petty and The Heartbreakers (6 plays in the last 30 days)
+* [Strangers](https://www.last.fm/music/Mt.+Joy/_/Strangers) - Mt. Joy (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
