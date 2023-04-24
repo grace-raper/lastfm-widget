@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 38 times this week
-2. [Dawes](https://www.last.fm/music/Dawes) - listened to 18 times this week
-3. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 14 times this week
-4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 11 times this week
-5. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 10 times this week
+1. [Dawes](https://www.last.fm/music/Dawes) - listened to 56 times this week
+2. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 38 times this week
+3. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 19 times this week
+4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 17 times this week
+5. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Mary Jane's Last Dance](https://www.last.fm/music/Tom+Petty+and+The+Heartbreakers/_/Mary+Jane%27s+Last+Dance) - Tom Petty and The Heartbreakers (6 plays in the last 30 days)
+* [Moderation](https://www.last.fm/music/Florence+%252B+the+Machine/_/Moderation) - Florence + the Machine (17 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
