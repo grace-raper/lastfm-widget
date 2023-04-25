@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dawes](https://www.last.fm/music/Dawes) - listened to 56 times this week
+1. [Dawes](https://www.last.fm/music/Dawes) - listened to 59 times this week
 2. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 38 times this week
-3. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 19 times this week
-4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 17 times this week
-5. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 17 times this week
+3. [Mandy Moore](https://www.last.fm/music/Mandy+Moore) - listened to 37 times this week
+4. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 19 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
