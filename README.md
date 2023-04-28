@@ -10,13 +10,13 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 1. [Dawes](https://www.last.fm/music/Dawes) - listened to 65 times this week
 2. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 39 times this week
 3. [Mandy Moore](https://www.last.fm/music/Mandy+Moore) - listened to 38 times this week
-4. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 23 times this week
-5. [Young the Giant](https://www.last.fm/music/Young+the+Giant) - listened to 18 times this week
+4. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 10 times this week
+5. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Sex, Drugs, Etc.](https://www.last.fm/music/Beach+Weather/_/Sex,+Drugs,+Etc.) - Beach Weather (5 plays in the last 30 days)
+* [All Your Favorite Bands](https://www.last.fm/music/Dawes/_/All+Your+Favorite+Bands) - Dawes (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
