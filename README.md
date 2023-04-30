@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dawes](https://www.last.fm/music/Dawes) - listened to 65 times this week
+1. [Dawes](https://www.last.fm/music/Dawes) - listened to 47 times this week
 2. [Mandy Moore](https://www.last.fm/music/Mandy+Moore) - listened to 38 times this week
-3. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 10 times this week
-4. [Peach Pit](https://www.last.fm/music/Peach+Pit) - listened to 7 times this week
-5. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 6 times this week
+3. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 12 times this week
+4. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 10 times this week
+5. [Peach Pit](https://www.last.fm/music/Peach+Pit) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [All Your Favorite Bands](https://www.last.fm/music/Dawes/_/All+Your+Favorite+Bands) - Dawes (5 plays in the last 30 days)
+* [All Your Favorite Bands](https://www.last.fm/music/Dawes/_/All+Your+Favorite+Bands) - Dawes (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
