@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 9 times this week
-2. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 8 times this week
-3. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 6 times this week
-4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 6 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 6 times this week
+1. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 13 times this week
+2. [Whiskey Myers](https://www.last.fm/music/Whiskey+Myers) - listened to 12 times this week
+3. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 10 times this week
+4. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 8 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
