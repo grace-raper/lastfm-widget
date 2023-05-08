@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dawes](https://www.last.fm/music/Dawes) - listened to 149 times this week
-2. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 43 times this week
-3. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 13 times this week
-4. [Whiskey Myers](https://www.last.fm/music/Whiskey+Myers) - listened to 12 times this week
-5. [Colony House](https://www.last.fm/music/Colony+House) - listened to 11 times this week
+1. [Dawes](https://www.last.fm/music/Dawes) - listened to 150 times this week
+2. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 60 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 13 times this week
+4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 13 times this week
+5. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
