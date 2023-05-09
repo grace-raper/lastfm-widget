@@ -9,8 +9,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Dawes](https://www.last.fm/music/Dawes) - listened to 150 times this week
 2. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 60 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 13 times this week
-4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 13 times this week
+3. [The 1975](https://www.last.fm/music/The+1975) - listened to 23 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 13 times this week
 5. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
