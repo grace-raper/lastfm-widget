@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dawes](https://www.last.fm/music/Dawes) - listened to 150 times this week
+1. [Dawes](https://www.last.fm/music/Dawes) - listened to 143 times this week
 2. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 60 times this week
-3. [The 1975](https://www.last.fm/music/The+1975) - listened to 40 times this week
-4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 38 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 19 times this week
+3. [The 1975](https://www.last.fm/music/The+1975) - listened to 39 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 36 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 18 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Meltdown](https://www.last.fm/music/Niall+Horan/_/Meltdown) - Niall Horan (6 plays in the last 30 days)
+* [505](https://www.last.fm/music/Arctic+Monkeys/_/505) - Arctic Monkeys (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
