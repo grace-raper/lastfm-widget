@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dawes](https://www.last.fm/music/Dawes) - listened to 94 times this week
-2. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 60 times this week
-3. [The 1975](https://www.last.fm/music/The+1975) - listened to 39 times this week
-4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 36 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 18 times this week
+1. [The 1975](https://www.last.fm/music/The+1975) - listened to 39 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 35 times this week
+3. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 21 times this week
+4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 18 times this week
+5. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 10 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Vienna](https://www.last.fm/music/Billy+Joel/_/Vienna) - Billy Joel (4 plays in the last 30 days)
+* [Sweet Creature](https://www.last.fm/music/Harry+Styles/_/Sweet+Creature) - Harry Styles (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
