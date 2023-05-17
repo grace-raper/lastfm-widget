@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 24 times this week
-2. [The 1975](https://www.last.fm/music/The+1975) - listened to 16 times this week
-3. [Omar Apollo](https://www.last.fm/music/Omar+Apollo) - listened to 4 times this week
-4. [The Cardigans](https://www.last.fm/music/The+Cardigans) - listened to 4 times this week
-5. [Ambar Lucid](https://www.last.fm/music/Ambar+Lucid) - listened to 3 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 28 times this week
+2. [Omar Apollo](https://www.last.fm/music/Omar+Apollo) - listened to 4 times this week
+3. [Ambar Lucid](https://www.last.fm/music/Ambar+Lucid) - listened to 3 times this week
+4. [Frank Ocean](https://www.last.fm/music/Frank+Ocean) - listened to 3 times this week
+5. [Glass Animals](https://www.last.fm/music/Glass+Animals) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Lovefool](https://www.last.fm/music/The+Cardigans/_/Lovefool) - The Cardigans (4 plays in the last 30 days)
+* [All My Love](https://www.last.fm/music/Noah+Kahan/_/All+My+Love) - Noah Kahan (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
