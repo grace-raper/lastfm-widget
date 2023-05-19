@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 28 times this week
-2. [Omar Apollo](https://www.last.fm/music/Omar+Apollo) - listened to 4 times this week
-3. [Vance Joy](https://www.last.fm/music/Vance+Joy) - listened to 4 times this week
-4. [Ambar Lucid](https://www.last.fm/music/Ambar+Lucid) - listened to 3 times this week
-5. [Dean Lewis](https://www.last.fm/music/Dean+Lewis) - listened to 3 times this week
+2. [Vance Joy](https://www.last.fm/music/Vance+Joy) - listened to 4 times this week
+3. [Dean Lewis](https://www.last.fm/music/Dean+Lewis) - listened to 3 times this week
+4. [James Bay](https://www.last.fm/music/James+Bay) - listened to 3 times this week
+5. [Mt. Joy](https://www.last.fm/music/Mt.+Joy) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
