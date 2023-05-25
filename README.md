@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 105 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 6 times this week
-3. [Vance Joy](https://www.last.fm/music/Vance+Joy) - listened to 4 times this week
-4. [Faith Hill](https://www.last.fm/music/Faith+Hill) - listened to 3 times this week
-5. [Kenny Chesney](https://www.last.fm/music/Kenny+Chesney) - listened to 3 times this week
+2. [Faith Hill](https://www.last.fm/music/Faith+Hill) - listened to 3 times this week
+3. [Kenny Chesney](https://www.last.fm/music/Kenny+Chesney) - listened to 3 times this week
+4. [Martina McBride](https://www.last.fm/music/Martina+McBride) - listened to 3 times this week
+5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
