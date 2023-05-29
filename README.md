@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 105 times this week
-2. [Faith Hill](https://www.last.fm/music/Faith+Hill) - listened to 3 times this week
-3. [Kenny Chesney](https://www.last.fm/music/Kenny+Chesney) - listened to 3 times this week
-4. [Martina McBride](https://www.last.fm/music/Martina+McBride) - listened to 3 times this week
-5. [Tim McGraw](https://www.last.fm/music/Tim+McGraw) - listened to 3 times this week
+1. [Faith Hill](https://www.last.fm/music/Faith+Hill) - listened to 3 times this week
+2. [Kenny Chesney](https://www.last.fm/music/Kenny+Chesney) - listened to 3 times this week
+3. [Martina McBride](https://www.last.fm/music/Martina+McBride) - listened to 3 times this week
+4. [Tim McGraw](https://www.last.fm/music/Tim+McGraw) - listened to 3 times this week
+5. [Alan Jackson](https://www.last.fm/music/Alan+Jackson) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [All My Love](https://www.last.fm/music/Noah+Kahan/_/All+My+Love) - Noah Kahan (8 plays in the last 30 days)
+* [Little Bitty](https://www.last.fm/music/Alan+Jackson/_/Little+Bitty) - Alan Jackson (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
