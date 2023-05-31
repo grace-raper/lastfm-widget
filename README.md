@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Faith Hill](https://www.last.fm/music/Faith+Hill) - listened to 1 times this week
-2. [Jo Dee Messina](https://www.last.fm/music/Jo+Dee+Messina) - listened to 1 times this week
-3. [Lee Ann Womack](https://www.last.fm/music/Lee+Ann+Womack) - listened to 1 times this week
-4. [Lonestar](https://www.last.fm/music/Lonestar) - listened to 1 times this week
-5. [Rascal Flatts](https://www.last.fm/music/Rascal+Flatts) - listened to 1 times this week
+1. [Lonestar](https://www.last.fm/music/Lonestar) - listened to 4 times this week
+2. [Ambar Lucid](https://www.last.fm/music/Ambar+Lucid) - listened to 3 times this week
+3. [Faith Hill](https://www.last.fm/music/Faith+Hill) - listened to 3 times this week
+4. [Kenny Chesney](https://www.last.fm/music/Kenny+Chesney) - listened to 3 times this week
+5. [Lee Ann Womack](https://www.last.fm/music/Lee+Ann+Womack) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [This Kiss](https://www.last.fm/music/Faith+Hill/_/This+Kiss) - Faith Hill (1 plays in the last 30 days)
+* [Little Bitty](https://www.last.fm/music/Alan+Jackson/_/Little+Bitty) - Alan Jackson (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
