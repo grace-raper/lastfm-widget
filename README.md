@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 6 times this week
-2. [Ambar Lucid](https://www.last.fm/music/Ambar+Lucid) - listened to 3 times this week
-3. [Glass Animals](https://www.last.fm/music/Glass+Animals) - listened to 3 times this week
-4. [Lonestar](https://www.last.fm/music/Lonestar) - listened to 3 times this week
-5. [Martina McBride](https://www.last.fm/music/Martina+McBride) - listened to 3 times this week
+2. [arlie](https://www.last.fm/music/arlie) - listened to 1 times this week
+3. [Big Wild](https://www.last.fm/music/Big+Wild) - listened to 1 times this week
+4. [Glass Animals](https://www.last.fm/music/Glass+Animals) - listened to 1 times this week
+5. [King Princess](https://www.last.fm/music/King+Princess) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
