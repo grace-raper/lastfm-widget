@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 6 times this week
-2. [arlie](https://www.last.fm/music/arlie) - listened to 1 times this week
-3. [Big Wild](https://www.last.fm/music/Big+Wild) - listened to 1 times this week
-4. [Glass Animals](https://www.last.fm/music/Glass+Animals) - listened to 1 times this week
-5. [King Princess](https://www.last.fm/music/King+Princess) - listened to 1 times this week
+1. [Childish Gambino](https://www.last.fm/music/Childish+Gambino) - listened to 10 times this week
+2. [Remi Wolf](https://www.last.fm/music/Remi+Wolf) - listened to 10 times this week
+3. [Drake](https://www.last.fm/music/Drake) - listened to 9 times this week
+4. [Calvin Harris, Dua Lipa & Young Thug](https://www.last.fm/music/Calvin+Harris,+Dua+Lipa+&+Young+Thug) - listened to 6 times this week
+5. [Doja Cat](https://www.last.fm/music/Doja+Cat) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Hits Different](https://www.last.fm/music/Taylor+Swift/_/Hits+Different) - Taylor Swift (2 plays in the last 30 days)
+* [Potion](https://www.last.fm/music/Calvin+Harris,+Dua+Lipa+&+Young+Thug/_/Potion) - Calvin Harris, Dua Lipa & Young Thug (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
