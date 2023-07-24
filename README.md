@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 123 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 36 times this week
 2. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 24 times this week
 3. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 8 times this week
 4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 4 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Haunted (Taylor's Version)](https://www.last.fm/music/Taylor+Swift/_/Haunted+(Taylor%27s+Version)) - Taylor Swift (8 plays in the last 30 days)
+* [Mean (Taylor's Version)](https://www.last.fm/music/Taylor+Swift/_/Mean+(Taylor%27s+Version)) - Taylor Swift (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
