@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 22 times this week
-2. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 5 times this week
-3. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 4 times this week
-4. [Flipturn](https://www.last.fm/music/Flipturn) - listened to 3 times this week
-5. [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey) - listened to 3 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 22 times this week
+2. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 10 times this week
+3. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 5 times this week
+4. [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey) - listened to 4 times this week
+5. [Flipturn](https://www.last.fm/music/Flipturn) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Hard Feelings](https://www.last.fm/music/Beach+Weather/_/Hard+Feelings) - Beach Weather (4 plays in the last 30 days)
+* [Empty June](https://www.last.fm/music/Elias+Hix/_/Empty+June) - Elias Hix (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
