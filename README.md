@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 22 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 21 times this week
 2. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 12 times this week
 3. [Holly Humberstone](https://www.last.fm/music/Holly+Humberstone) - listened to 9 times this week
 4. [Grace Carter](https://www.last.fm/music/Grace+Carter) - listened to 7 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Empty June](https://www.last.fm/music/Elias+Hix/_/Empty+June) - Elias Hix (2 plays in the last 30 days)
+* [Blue Jeans (Remastered)](https://www.last.fm/music/Lana+Del+Rey/_/Blue+Jeans+(Remastered)) - Lana Del Rey (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
