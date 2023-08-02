@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 62 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 74 times this week
 2. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 26 times this week
 3. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 12 times this week
-4. [Lord Huron](https://www.last.fm/music/Lord+Huron) - listened to 11 times this week
-5. [SZA](https://www.last.fm/music/SZA) - listened to 11 times this week
+4. [SZA](https://www.last.fm/music/SZA) - listened to 12 times this week
+5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Stick Season](https://www.last.fm/music/Noah+Kahan/_/Stick+Season) - Noah Kahan (4 plays in the last 30 days)
+* [Call Your Mom](https://www.last.fm/music/Noah+Kahan/_/Call+Your+Mom) - Noah Kahan (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
