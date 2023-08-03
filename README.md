@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 74 times this week
 2. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 26 times this week
-3. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 12 times this week
-4. [SZA](https://www.last.fm/music/SZA) - listened to 12 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 12 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 14 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 12 times this week
+5. [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
