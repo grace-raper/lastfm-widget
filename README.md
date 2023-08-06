@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 74 times this week
-2. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 26 times this week
-3. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 17 times this week
-4. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 15 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 15 times this week
+2. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 17 times this week
+3. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 15 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 15 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
