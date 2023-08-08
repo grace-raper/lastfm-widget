@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 51 times this week
-2. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 16 times this week
-3. [Hozier](https://www.last.fm/music/Hozier) - listened to 13 times this week
-4. [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey) - listened to 13 times this week
-5. [Caamp](https://www.last.fm/music/Caamp) - listened to 12 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 33 times this week
+2. [Hozier](https://www.last.fm/music/Hozier) - listened to 10 times this week
+3. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 10 times this week
+4. [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey) - listened to 10 times this week
+5. [Halsey](https://www.last.fm/music/Halsey) - listened to 9 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Daylight](https://www.last.fm/music/David+Kushner/_/Daylight) - David Kushner (4 plays in the last 30 days)
+* [Daylight](https://www.last.fm/music/David+Kushner/_/Daylight) - David Kushner (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
