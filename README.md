@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 33 times this week
-2. [Hozier](https://www.last.fm/music/Hozier) - listened to 10 times this week
-3. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 10 times this week
-4. [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey) - listened to 10 times this week
-5. [Halsey](https://www.last.fm/music/Halsey) - listened to 9 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 37 times this week
+2. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 9 times this week
+3. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 8 times this week
+4. [Imagine Dragons](https://www.last.fm/music/Imagine+Dragons) - listened to 7 times this week
+5. [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Daylight](https://www.last.fm/music/David+Kushner/_/Daylight) - David Kushner (3 plays in the last 30 days)
+* [Bruises](https://www.last.fm/music/Lewis+Capaldi/_/Bruises) - Lewis Capaldi (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
