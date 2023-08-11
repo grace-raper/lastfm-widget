@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 23 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 43 times this week
 2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 21 times this week
-3. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 10 times this week
-4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 9 times this week
-5. [Imagine Dragons](https://www.last.fm/music/Imagine+Dragons) - listened to 6 times this week
+3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 4 times this week
+4. [Kelsea Ballerini](https://www.last.fm/music/Kelsea+Ballerini) - listened to 4 times this week
+5. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [What Was I Made For?](https://www.last.fm/music/Billie+Eilish/_/What+Was+I+Made+For%3F) - Billie Eilish (2 plays in the last 30 days)
+* [New Year’s Day](https://www.last.fm/music/Taylor+Swift/_/New+Year%E2%80%99s+Day) - Taylor Swift (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
