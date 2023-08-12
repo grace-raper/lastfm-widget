@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 43 times this week
 2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 21 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 4 times this week
-4. [Kelsea Ballerini](https://www.last.fm/music/Kelsea+Ballerini) - listened to 4 times this week
-5. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 4 times this week
+3. [Kelsea Ballerini](https://www.last.fm/music/Kelsea+Ballerini) - listened to 6 times this week
+4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 5 times this week
+5. [Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
