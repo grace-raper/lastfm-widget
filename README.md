@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 43 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 21 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 7 times this week
-4. [Kelsea Ballerini](https://www.last.fm/music/Kelsea+Ballerini) - listened to 6 times this week
-5. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 4 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 59 times this week
+2. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 24 times this week
+3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 21 times this week
+4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 16 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [New Year’s Day](https://www.last.fm/music/Taylor+Swift/_/New+Year%E2%80%99s+Day) - Taylor Swift (3 plays in the last 30 days)
+* [Sex on Fire](https://www.last.fm/music/Kings+of+Leon/_/Sex+on+Fire) - Kings of Leon (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
