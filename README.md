@@ -7,10 +7,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 54 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 38 times this week
-3. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 24 times this week
-4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 8 times this week
+1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 53 times this week
+2. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 24 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 17 times this week
+4. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 15 times this week
 5. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
