@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 54 times this week
-2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 42 times this week
-3. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 39 times this week
-4. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 11 times this week
-5. [Hozier](https://www.last.fm/music/Hozier) - listened to 8 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 71 times this week
+2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 45 times this week
+3. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 43 times this week
+4. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 39 times this week
+5. [Hozier](https://www.last.fm/music/Hozier) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Baby Don't Leave Me Alone With My Thoughts](https://www.last.fm/music/Lake+Street+Dive/_/Baby+Don%27t+Leave+Me+Alone+With+My+Thoughts) - Lake Street Dive (4 plays in the last 30 days)
+* [Homesick](https://www.last.fm/music/Noah+Kahan/_/Homesick) - Noah Kahan (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
