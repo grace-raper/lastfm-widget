@@ -7,10 +7,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 71 times this week
-2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 45 times this week
-3. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 43 times this week
-4. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 39 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 72 times this week
+2. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 55 times this week
+3. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 39 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 12 times this week
 5. [Hozier](https://www.last.fm/music/Hozier) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
