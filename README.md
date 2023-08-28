@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 44 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 41 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 10 times this week
-4. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 10 times this week
-5. [Dawes](https://www.last.fm/music/Dawes) - listened to 9 times this week
+2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 17 times this week
+3. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 10 times this week
+4. [Dawes](https://www.last.fm/music/Dawes) - listened to 9 times this week
+5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 9 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Homesick](https://www.last.fm/music/Noah+Kahan/_/Homesick) - Noah Kahan (3 plays in the last 30 days)
+* [1 step forward, 3 steps back](https://www.last.fm/music/Olivia+Rodrigo/_/1+step+forward,+3+steps+back) - Olivia Rodrigo (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
