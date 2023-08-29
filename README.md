@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 44 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 17 times this week
-3. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 10 times this week
-4. [Dawes](https://www.last.fm/music/Dawes) - listened to 9 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 9 times this week
+1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 12 times this week
+2. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 10 times this week
+3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 6 times this week
+4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 5 times this week
+5. [Neon Trees](https://www.last.fm/music/Neon+Trees) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [1 step forward, 3 steps back](https://www.last.fm/music/Olivia+Rodrigo/_/1+step+forward,+3+steps+back) - Olivia Rodrigo (3 plays in the last 30 days)
+* [Slow Down](https://www.last.fm/music/Chase+Atlantic/_/Slow+Down) - Chase Atlantic (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
