@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 4 times this week
-2. [Dreamers](https://www.last.fm/music/Dreamers) - listened to 3 times this week
-3. [Neon Trees](https://www.last.fm/music/Neon+Trees) - listened to 3 times this week
-4. [The Band CAMINO](https://www.last.fm/music/The+Band+CAMINO) - listened to 3 times this week
-5. [YUNGBLUD](https://www.last.fm/music/YUNGBLUD) - listened to 3 times this week
+1. [Dreamers](https://www.last.fm/music/Dreamers) - listened to 2 times this week
+2. [Neon Trees](https://www.last.fm/music/Neon+Trees) - listened to 2 times this week
+3. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 2 times this week
+4. [YUNGBLUD](https://www.last.fm/music/YUNGBLUD) - listened to 2 times this week
+5. [arlie](https://www.last.fm/music/arlie) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [A Love Like War (feat. Vic Fuentes)](https://www.last.fm/music/All+Time+Low/_/A+Love+Like+War+(feat.+Vic+Fuentes)) - All Time Low (1 plays in the last 30 days)
+* [barcelona boots](https://www.last.fm/music/arlie/_/barcelona+boots) - arlie (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
