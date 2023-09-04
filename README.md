@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dreamers](https://www.last.fm/music/Dreamers) - listened to 2 times this week
-2. [Neon Trees](https://www.last.fm/music/Neon+Trees) - listened to 2 times this week
-3. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 2 times this week
-4. [YUNGBLUD](https://www.last.fm/music/YUNGBLUD) - listened to 2 times this week
-5. [arlie](https://www.last.fm/music/arlie) - listened to 1 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 155 times this week
+2. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 21 times this week
+3. [Flipturn](https://www.last.fm/music/Flipturn) - listened to 17 times this week
+4. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 17 times this week
+5. [Mt. Joy](https://www.last.fm/music/Mt.+Joy) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [barcelona boots](https://www.last.fm/music/arlie/_/barcelona+boots) - arlie (1 plays in the last 30 days)
+* [All My Love](https://www.last.fm/music/Noah+Kahan/_/All+My+Love) - Noah Kahan (11 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
