@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 84 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 57 times this week
 2. [The Backseat Lovers](https://www.last.fm/music/The+Backseat+Lovers) - listened to 21 times this week
 3. [Flipturn](https://www.last.fm/music/Flipturn) - listened to 17 times this week
 4. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 17 times this week
