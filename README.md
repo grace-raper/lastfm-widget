@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 8 times this week
-2. [Mt. Joy](https://www.last.fm/music/Mt.+Joy) - listened to 8 times this week
-3. [Melt](https://www.last.fm/music/Melt) - listened to 7 times this week
-4. [The Dip](https://www.last.fm/music/The+Dip) - listened to 7 times this week
-5. [Vista Kicks](https://www.last.fm/music/Vista+Kicks) - listened to 7 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 10 times this week
+2. [The Struts](https://www.last.fm/music/The+Struts) - listened to 10 times this week
+3. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 8 times this week
+4. [The Dip](https://www.last.fm/music/The+Dip) - listened to 6 times this week
+5. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Good Kisser](https://www.last.fm/music/Lake+Street+Dive/_/Good+Kisser) - Lake Street Dive (8 plays in the last 30 days)
+* [Gloria](https://www.last.fm/music/The+Lumineers/_/Gloria) - The Lumineers (8 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
