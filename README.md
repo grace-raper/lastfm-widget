@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 10 times this week
-2. [The Dip](https://www.last.fm/music/The+Dip) - listened to 6 times this week
-3. [The Struts](https://www.last.fm/music/The+Struts) - listened to 6 times this week
-4. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 5 times this week
-5. [Melt](https://www.last.fm/music/Melt) - listened to 5 times this week
+1. [The Dip](https://www.last.fm/music/The+Dip) - listened to 6 times this week
+2. [The Struts](https://www.last.fm/music/The+Struts) - listened to 6 times this week
+3. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 5 times this week
+4. [Melt](https://www.last.fm/music/Melt) - listened to 5 times this week
+5. [Mt. Joy](https://www.last.fm/music/Mt.+Joy) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
