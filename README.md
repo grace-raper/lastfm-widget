@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Dip](https://www.last.fm/music/The+Dip) - listened to 6 times this week
-2. [The Struts](https://www.last.fm/music/The+Struts) - listened to 6 times this week
+1. [The Struts](https://www.last.fm/music/The+Struts) - listened to 6 times this week
+2. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 1 times this week
 3. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 5 times this week
 4. [Melt](https://www.last.fm/music/Melt) - listened to 5 times this week
 5. [Mt. Joy](https://www.last.fm/music/Mt.+Joy) - listened to 5 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Sure Don't Miss You](https://www.last.fm/music/The+Dip/_/Sure+Don%27t+Miss+You) - The Dip (6 plays in the last 30 days)
+* [In Love With A Camera](https://www.last.fm/music/The+Struts/_/In+Love+With+A+Camera) - The Struts (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
