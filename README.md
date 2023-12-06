@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Mt. Joy](https://www.last.fm/music/Mt.+Joy) - listened to 10 times this week
-2. [The Dip](https://www.last.fm/music/The+Dip) - listened to 9 times this week
-3. [The Struts](https://www.last.fm/music/The+Struts) - listened to 9 times this week
-4. [Vista Kicks](https://www.last.fm/music/Vista+Kicks) - listened to 9 times this week
+1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 25 times this week
+2. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 9 times this week
+3. [SZA](https://www.last.fm/music/SZA) - listened to 9 times this week
+4. [Holly Humberstone](https://www.last.fm/music/Holly+Humberstone) - listened to 8 times this week
 5. [Jung Kook](https://www.last.fm/music/Jung+Kook) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Silver Lining](https://www.last.fm/music/Mt.+Joy/_/Silver+Lining) - Mt. Joy (10 plays in the last 30 days)
+* [New Rules](https://www.last.fm/music/Dua+Lipa/_/New+Rules) - Dua Lipa (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
