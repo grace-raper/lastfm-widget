@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 14 times this week
 3. [SZA](https://www.last.fm/music/SZA) - listened to 14 times this week
 4. [Holly Humberstone](https://www.last.fm/music/Holly+Humberstone) - listened to 13 times this week
-5. [Sam Smith](https://www.last.fm/music/Sam+Smith) - listened to 12 times this week
+5. [Sam Smith](https://www.last.fm/music/Sam+Smith) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
