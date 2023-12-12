@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 37 times this week
+1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 35 times this week
 2. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 14 times this week
 3. [SZA](https://www.last.fm/music/SZA) - listened to 14 times this week
 4. [Holly Humberstone](https://www.last.fm/music/Holly+Humberstone) - listened to 13 times this week
