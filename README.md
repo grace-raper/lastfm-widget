@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 35 times this week
-2. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 14 times this week
-3. [SZA](https://www.last.fm/music/SZA) - listened to 14 times this week
-4. [Holly Humberstone](https://www.last.fm/music/Holly+Humberstone) - listened to 13 times this week
-5. [Sam Smith](https://www.last.fm/music/Sam+Smith) - listened to 13 times this week
+1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 12 times this week
+2. [Kelly Clarkson](https://www.last.fm/music/Kelly+Clarkson) - listened to 9 times this week
+3. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 5 times this week
+4. [Holly Humberstone](https://www.last.fm/music/Holly+Humberstone) - listened to 5 times this week
+5. [James Smith](https://www.last.fm/music/James+Smith) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [New Rules](https://www.last.fm/music/Dua+Lipa/_/New+Rules) - Dua Lipa (4 plays in the last 30 days)
+* [Count On Christmas](https://www.last.fm/music/Bebe+Rexha/_/Count+On+Christmas) - Bebe Rexha (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
