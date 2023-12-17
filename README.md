@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Kelly Clarkson](https://www.last.fm/music/Kelly+Clarkson) - listened to 5 times this week
-2. [Bebe Rexha](https://www.last.fm/music/Bebe+Rexha) - listened to 4 times this week
-3. [Alicia Keys](https://www.last.fm/music/Alicia+Keys) - listened to 3 times this week
-4. [Britney Spears](https://www.last.fm/music/Britney+Spears) - listened to 3 times this week
-5. [Gwen Stefani](https://www.last.fm/music/Gwen+Stefani) - listened to 3 times this week
+1. [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen) - listened to 4 times this week
+2. [Gwen Stefani](https://www.last.fm/music/Gwen+Stefani) - listened to 3 times this week
+3. [Justin Bieber](https://www.last.fm/music/Justin+Bieber) - listened to 3 times this week
+4. [Michael Bublé](https://www.last.fm/music/Michael+Bubl%C3%A9) - listened to 3 times this week
+5. [Bebe Rexha](https://www.last.fm/music/Bebe+Rexha) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
