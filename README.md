@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen) - listened to 4 times this week
-2. [Gwen Stefani](https://www.last.fm/music/Gwen+Stefani) - listened to 3 times this week
-3. [Justin Bieber](https://www.last.fm/music/Justin+Bieber) - listened to 3 times this week
-4. [Michael Bublé](https://www.last.fm/music/Michael+Bubl%C3%A9) - listened to 3 times this week
-5. [Bebe Rexha](https://www.last.fm/music/Bebe+Rexha) - listened to 2 times this week
+1. [Hozier](https://www.last.fm/music/Hozier) - listened to 8 times this week
+2. [Macklemore](https://www.last.fm/music/Macklemore) - listened to 8 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 7 times this week
+4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 7 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Count On Christmas](https://www.last.fm/music/Bebe+Rexha/_/Count+On+Christmas) - Bebe Rexha (2 plays in the last 30 days)
+* [It's Not Christmas Till Somebody Cries](https://www.last.fm/music/Carly+Rae+Jepsen/_/It%27s+Not+Christmas+Till+Somebody+Cries) - Carly Rae Jepsen (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
