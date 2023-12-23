@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Hozier](https://www.last.fm/music/Hozier) - listened to 8 times this week
-2. [Macklemore](https://www.last.fm/music/Macklemore) - listened to 8 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 7 times this week
-4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 7 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 5 times this week
+1. [Macklemore](https://www.last.fm/music/Macklemore) - listened to 14 times this week
+2. [Hozier](https://www.last.fm/music/Hozier) - listened to 8 times this week
+3. [Tones and I](https://www.last.fm/music/Tones+and+I) - listened to 8 times this week
+4. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 7 times this week
+5. [Macklemore & Ryan Lewis, Macklemore & Ryan Lewis](https://www.last.fm/music/Macklemore+&+Ryan+Lewis,+Macklemore+&+Ryan+Lewis) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [It's Not Christmas Till Somebody Cries](https://www.last.fm/music/Carly+Rae+Jepsen/_/It%27s+Not+Christmas+Till+Somebody+Cries) - Carly Rae Jepsen (2 plays in the last 30 days)
+* [Nina Cried Power (feat. Mavis Staples)](https://www.last.fm/music/Hozier/_/Nina+Cried+Power+(feat.+Mavis+Staples)) - Hozier (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
