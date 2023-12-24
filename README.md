@@ -8,9 +8,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Macklemore](https://www.last.fm/music/Macklemore) - listened to 14 times this week
-2. [Hozier](https://www.last.fm/music/Hozier) - listened to 8 times this week
-3. [Tones and I](https://www.last.fm/music/Tones+and+I) - listened to 8 times this week
-4. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 7 times this week
+2. [Tones and I](https://www.last.fm/music/Tones+and+I) - listened to 8 times this week
+3. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 7 times this week
+4. [Hozier](https://www.last.fm/music/Hozier) - listened to 7 times this week
 5. [Macklemore & Ryan Lewis, Macklemore & Ryan Lewis](https://www.last.fm/music/Macklemore+&+Ryan+Lewis,+Macklemore+&+Ryan+Lewis) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
