@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Macklemore](https://www.last.fm/music/Macklemore) - listened to 14 times this week
-2. [Tones and I](https://www.last.fm/music/Tones+and+I) - listened to 8 times this week
-3. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 7 times this week
-4. [Hozier](https://www.last.fm/music/Hozier) - listened to 7 times this week
-5. [Macklemore & Ryan Lewis, Macklemore & Ryan Lewis](https://www.last.fm/music/Macklemore+&+Ryan+Lewis,+Macklemore+&+Ryan+Lewis) - listened to 7 times this week
+1. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 27 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 25 times this week
+3. [Macklemore](https://www.last.fm/music/Macklemore) - listened to 14 times this week
+4. [Tones and I](https://www.last.fm/music/Tones+and+I) - listened to 8 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Nina Cried Power (feat. Mavis Staples)](https://www.last.fm/music/Hozier/_/Nina+Cried+Power+(feat.+Mavis+Staples)) - Hozier (2 plays in the last 30 days)
+* ['tis the damn season](https://www.last.fm/music/Taylor+Swift/_/%27tis+the+damn+season) - Taylor Swift (11 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
