@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 27 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 25 times this week
-3. [Macklemore](https://www.last.fm/music/Macklemore) - listened to 14 times this week
-4. [Tones and I](https://www.last.fm/music/Tones+and+I) - listened to 8 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 7 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 92 times this week
+2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 27 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 25 times this week
+4. [Macklemore](https://www.last.fm/music/Macklemore) - listened to 14 times this week
+5. [Tones and I](https://www.last.fm/music/Tones+and+I) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
