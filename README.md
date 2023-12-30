@@ -10,8 +10,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 88 times this week
 2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 59 times this week
 3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 19 times this week
-4. [Tom Grennan](https://www.last.fm/music/Tom+Grennan) - listened to 7 times this week
-5. [Tones and I](https://www.last.fm/music/Tones+and+I) - listened to 7 times this week
+4. [Tom Grennan](https://www.last.fm/music/Tom+Grennan) - listened to 6 times this week
+5. [James Bay](https://www.last.fm/music/James+Bay) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
