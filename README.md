@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 88 times this week
-2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 59 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 19 times this week
-4. [Tom Grennan](https://www.last.fm/music/Tom+Grennan) - listened to 6 times this week
-5. [James Bay](https://www.last.fm/music/James+Bay) - listened to 4 times this week
+2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 58 times this week
+3. [Tom Grennan](https://www.last.fm/music/Tom+Grennan) - listened to 5 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 4 times this week
+5. [Lauryn Hill](https://www.last.fm/music/Lauryn+Hill) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* ['tis the damn season](https://www.last.fm/music/Taylor+Swift/_/%27tis+the+damn+season) - Taylor Swift (11 plays in the last 30 days)
+* [Something In the Water](https://www.last.fm/music/Tom+Grennan/_/Something+In+the+Water) - Tom Grennan (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
