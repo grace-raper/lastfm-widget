@@ -9,14 +9,14 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 88 times this week
 2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 58 times this week
-3. [Tom Grennan](https://www.last.fm/music/Tom+Grennan) - listened to 5 times this week
-4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 4 times this week
-5. [Lauryn Hill](https://www.last.fm/music/Lauryn+Hill) - listened to 3 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 4 times this week
+4. [Chelsea Cutler & Noah Kahan](https://www.last.fm/music/Chelsea+Cutler+&+Noah+Kahan) - listened to 2 times this week
+5. [Gryffin, Seven Lions & Noah Kahan](https://www.last.fm/music/Gryffin,+Seven+Lions+&+Noah+Kahan) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Something In the Water](https://www.last.fm/music/Tom+Grennan/_/Something+In+the+Water) - Tom Grennan (5 plays in the last 30 days)
+* [Christmas Tree Farm](https://www.last.fm/music/Taylor+Swift/_/Christmas+Tree+Farm) - Taylor Swift (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
