@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 88 times this week
-2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 58 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 86 times this week
+2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 36 times this week
 3. [Chelsea Cutler & Noah Kahan](https://www.last.fm/music/Chelsea+Cutler+&+Noah+Kahan) - listened to 2 times this week
 4. [Gryffin, Seven Lions & Noah Kahan](https://www.last.fm/music/Gryffin,+Seven+Lions+&+Noah+Kahan) - listened to 2 times this week
 5. [Joy Oladokun & Noah Kahan](https://www.last.fm/music/Joy+Oladokun+&+Noah+Kahan) - listened to 2 times this week
