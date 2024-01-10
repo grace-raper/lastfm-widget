@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 37 times this week
-2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 36 times this week
-3. [Chelsea Cutler & Noah Kahan](https://www.last.fm/music/Chelsea+Cutler+&+Noah+Kahan) - listened to 2 times this week
-4. [Gryffin, Seven Lions & Noah Kahan](https://www.last.fm/music/Gryffin,+Seven+Lions+&+Noah+Kahan) - listened to 2 times this week
-5. [Joy Oladokun & Noah Kahan](https://www.last.fm/music/Joy+Oladokun+&+Noah+Kahan) - listened to 2 times this week
+1. [Nicki Minaj](https://www.last.fm/music/Nicki+Minaj) - listened to 2 times this week
+2. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 2 times this week
+3. [Drake](https://www.last.fm/music/Drake) - listened to 1 times this week
+4. [Jack Harlow](https://www.last.fm/music/Jack+Harlow) - listened to 1 times this week
+5. [Morgan Wallen](https://www.last.fm/music/Morgan+Wallen) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [A.M. RADIO](https://www.last.fm/music/The+Lumineers/_/A.M.+RADIO) - The Lumineers (1 plays in the last 30 days)
+* [Rich Baby Daddy (feat. Sexyy Red & SZA)](https://www.last.fm/music/Drake/_/Rich+Baby+Daddy+(feat.+Sexyy+Red+&+SZA)) - Drake (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
