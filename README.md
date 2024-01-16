@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Nicki Minaj](https://www.last.fm/music/Nicki+Minaj) - listened to 2 times this week
-2. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 2 times this week
-3. [Drake](https://www.last.fm/music/Drake) - listened to 1 times this week
-4. [Jack Harlow](https://www.last.fm/music/Jack+Harlow) - listened to 1 times this week
-5. [Morgan Wallen](https://www.last.fm/music/Morgan+Wallen) - listened to 1 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 14 times this week
+2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 7 times this week
+3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 6 times this week
+4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 5 times this week
+5. [Camila Cabello](https://www.last.fm/music/Camila+Cabello) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Rich Baby Daddy (feat. Sexyy Red & SZA)](https://www.last.fm/music/Drake/_/Rich+Baby+Daddy+(feat.+Sexyy+Red+&+SZA)) - Drake (1 plays in the last 30 days)
+* [Dress](https://www.last.fm/music/Taylor+Swift/_/Dress) - Taylor Swift (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
