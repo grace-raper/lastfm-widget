@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 13 times this week
-2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 7 times this week
-3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 6 times this week
-4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 5 times this week
-5. [Camila Cabello](https://www.last.fm/music/Camila+Cabello) - listened to 5 times this week
+1. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 63 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 13 times this week
+3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 12 times this week
+4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 9 times this week
+5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Dress](https://www.last.fm/music/Taylor+Swift/_/Dress) - Taylor Swift (3 plays in the last 30 days)
+* [The Break](https://www.last.fm/music/Blame+My+Youth/_/The+Break) - Blame My Youth (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
