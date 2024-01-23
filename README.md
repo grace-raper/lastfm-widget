@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 160 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 157 times this week
 2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 100 times this week
 3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 97 times this week
 4. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 78 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 52 times this week
+5. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 50 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
