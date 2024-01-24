@@ -9,14 +9,14 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 157 times this week
 2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 100 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 97 times this week
+3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 96 times this week
 4. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 78 times this week
-5. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 50 times this week
+5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 59 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Homesick](https://www.last.fm/music/Noah+Kahan/_/Homesick) - Noah Kahan (9 plays in the last 30 days)
+* [wherever u r](https://www.last.fm/music/UMI+&+V/_/wherever+u+r) - UMI & V (10 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
