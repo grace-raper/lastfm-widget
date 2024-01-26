@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 184 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 166 times this week
-3. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 100 times this week
-4. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 81 times this week
-5. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 50 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 185 times this week
+2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 162 times this week
+3. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 81 times this week
+4. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 16 times this week
+5. [UMI & V](https://www.last.fm/music/UMI+&+V) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Clean (Taylor's Version)](https://www.last.fm/music/Taylor+Swift/_/Clean+(Taylor%27s+Version)) - Taylor Swift (19 plays in the last 30 days)
+* [Clean (Taylor's Version)](https://www.last.fm/music/Taylor+Swift/_/Clean+(Taylor%27s+Version)) - Taylor Swift (20 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
