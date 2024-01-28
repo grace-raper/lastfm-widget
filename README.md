@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 181 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 132 times this week
+2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 57 times this week
 3. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 25 times this week
-4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 12 times this week
-5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 11 times this week
+4. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 15 times this week
+5. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
