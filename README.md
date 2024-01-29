@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 181 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 57 times this week
-3. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 25 times this week
-4. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 15 times this week
-5. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 13 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 148 times this week
+2. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 18 times this week
+3. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 16 times this week
+4. [Alfie Jukes](https://www.last.fm/music/Alfie+Jukes) - listened to 11 times this week
+5. [Lola Young](https://www.last.fm/music/Lola+Young) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Clean (Taylor's Version)](https://www.last.fm/music/Taylor+Swift/_/Clean+(Taylor%27s+Version)) - Taylor Swift (16 plays in the last 30 days)
+* [Clean (Taylor's Version)](https://www.last.fm/music/Taylor+Swift/_/Clean+(Taylor%27s+Version)) - Taylor Swift (14 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
