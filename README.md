@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 16 times this week
-2. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 13 times this week
-3. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 12 times this week
-4. [Alfie Jukes](https://www.last.fm/music/Alfie+Jukes) - listened to 11 times this week
-5. [Brenn!](https://www.last.fm/music/Brenn!) - listened to 10 times this week
+1. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 17 times this week
+2. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 14 times this week
+3. [Alfie Jukes](https://www.last.fm/music/Alfie+Jukes) - listened to 12 times this week
+4. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 12 times this week
+5. [Brenn!](https://www.last.fm/music/Brenn!) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Eyes Wide](https://www.last.fm/music/Alfie+Jukes/_/Eyes+Wide) - Alfie Jukes (11 plays in the last 30 days)
+* [Eyes Wide](https://www.last.fm/music/Alfie+Jukes/_/Eyes+Wide) - Alfie Jukes (12 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
