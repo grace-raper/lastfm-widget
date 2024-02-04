@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 12 times this week
-2. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 11 times this week
-3. [Alfie Jukes](https://www.last.fm/music/Alfie+Jukes) - listened to 10 times this week
-4. [Between Friends](https://www.last.fm/music/Between+Friends) - listened to 10 times this week
-5. [Brenn!](https://www.last.fm/music/Brenn!) - listened to 10 times this week
+1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 46 times this week
+2. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 8 times this week
+3. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 6 times this week
+4. [Mac Saturn](https://www.last.fm/music/Mac+Saturn) - listened to 6 times this week
+5. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Eyes Wide](https://www.last.fm/music/Alfie+Jukes/_/Eyes+Wide) - Alfie Jukes (10 plays in the last 30 days)
+* [Someone I Could Die For](https://www.last.fm/music/Lewis+Capaldi/_/Someone+I+Could+Die+For) - Lewis Capaldi (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
