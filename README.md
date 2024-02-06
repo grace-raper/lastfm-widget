@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 46 times this week
 2. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 5 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 3 times this week
-4. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 3 times this week
-5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 3 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 3 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 3 times this week
+5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
