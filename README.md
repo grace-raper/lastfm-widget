@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 46 times this week
-2. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 5 times this week
+1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 43 times this week
+2. [Megan Thee Stallion & Big Mouth Cast](https://www.last.fm/music/Megan+Thee+Stallion+&+Big+Mouth+Cast) - listened to 4 times this week
 3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 3 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 3 times this week
-5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 3 times this week
+4. [Lewis Capaldi](https://www.last.fm/music/Lewis+Capaldi) - listened to 3 times this week
+5. [Alfie Jukes](https://www.last.fm/music/Alfie+Jukes) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Someone I Could Die For](https://www.last.fm/music/Lewis+Capaldi/_/Someone+I+Could+Die+For) - Lewis Capaldi (3 plays in the last 30 days)
+* [Pussy Don't Lie (From the Netflix Series "Big Mouth")](https://www.last.fm/music/Megan+Thee+Stallion+&+Big+Mouth+Cast/_/Pussy+Don%27t+Lie+(From+the+Netflix+Series+%22Big+Mouth%22)) - Megan Thee Stallion & Big Mouth Cast (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
