@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 66 times this week
-2. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 46 times this week
-3. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 8 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 6 times this week
-5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 4 times this week
+2. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 47 times this week
+3. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 36 times this week
+4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 8 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Pussy Don't Lie (From the Netflix Series "Big Mouth")](https://www.last.fm/music/Megan+Thee+Stallion+&+Big+Mouth+Cast/_/Pussy+Don%27t+Lie+(From+the+Netflix+Series+%22Big+Mouth%22)) - Megan Thee Stallion & Big Mouth Cast (4 plays in the last 30 days)
+* [Bad Blood (Taylor's Version) [feat. Kendrick Lamar]](https://www.last.fm/music/Taylor+Swift/_/Bad+Blood+(Taylor%27s+Version)+%5Bfeat.+Kendrick+Lamar%5D) - Taylor Swift (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
