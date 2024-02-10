@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 66 times this week
-2. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 47 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 70 times this week
+2. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 43 times this week
 3. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 36 times this week
-4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 8 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 6 times this week
+4. [Usher](https://www.last.fm/music/Usher) - listened to 25 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 20 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Bad Blood (Taylor's Version) [feat. Kendrick Lamar]](https://www.last.fm/music/Taylor+Swift/_/Bad+Blood+(Taylor%27s+Version)+%5Bfeat.+Kendrick+Lamar%5D) - Taylor Swift (4 plays in the last 30 days)
+* [Is It Over Now? (Taylor's Version) [From the Vault]](https://www.last.fm/music/Taylor+Swift/_/Is+It+Over+Now%3F+(Taylor%27s+Version)+%5BFrom+the+Vault%5D) - Taylor Swift (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
