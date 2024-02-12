@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 36 times this week
 3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 31 times this week
 4. [Usher](https://www.last.fm/music/Usher) - listened to 25 times this week
-5. [Childish Gambino](https://www.last.fm/music/Childish+Gambino) - listened to 6 times this week
+5. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
