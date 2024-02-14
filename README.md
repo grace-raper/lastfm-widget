@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 72 times this week
-2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 36 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 31 times this week
-4. [Usher](https://www.last.fm/music/Usher) - listened to 25 times this week
-5. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 6 times this week
+1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 49 times this week
+2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 35 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 30 times this week
+4. [Usher](https://www.last.fm/music/Usher) - listened to 27 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Is It Over Now? (Taylor's Version) [From the Vault]](https://www.last.fm/music/Taylor+Swift/_/Is+It+Over+Now%3F+(Taylor%27s+Version)+%5BFrom+the+Vault%5D) - Taylor Swift (5 plays in the last 30 days)
+* [Sleeping Alone](https://www.last.fm/music/West+22nD/_/Sleeping+Alone) - West 22nD (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
