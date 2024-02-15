@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 49 times this week
 2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 35 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 30 times this week
-4. [Usher](https://www.last.fm/music/Usher) - listened to 27 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 11 times this week
+3. [Usher](https://www.last.fm/music/Usher) - listened to 26 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 25 times this week
+5. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
