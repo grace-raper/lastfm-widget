@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 35 times this week
-2. [Usher](https://www.last.fm/music/Usher) - listened to 26 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 24 times this week
-4. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 13 times this week
-5. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 11 times this week
+1. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 16 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 16 times this week
+3. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 13 times this week
+4. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 9 times this week
+5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
