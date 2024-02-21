@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 19 times this week
-2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 13 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 11 times this week
-4. [Sam Smith](https://www.last.fm/music/Sam+Smith) - listened to 10 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 9 times this week
+1. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 15 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 11 times this week
+3. [Vance Joy](https://www.last.fm/music/Vance+Joy) - listened to 9 times this week
+4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 8 times this week
+5. [Maren Morris](https://www.last.fm/music/Maren+Morris) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Vienna](https://www.last.fm/music/Billy+Joel/_/Vienna) - Billy Joel (3 plays in the last 30 days)
+* [Training Season](https://www.last.fm/music/Dua+Lipa/_/Training+Season) - Dua Lipa (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
