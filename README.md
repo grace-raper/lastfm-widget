@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 15 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 11 times this week
-3. [Vance Joy](https://www.last.fm/music/Vance+Joy) - listened to 9 times this week
-4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 8 times this week
+1. [Dawes](https://www.last.fm/music/Dawes) - listened to 17 times this week
+2. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 16 times this week
+3. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 13 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 11 times this week
 5. [Maren Morris](https://www.last.fm/music/Maren+Morris) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Training Season](https://www.last.fm/music/Dua+Lipa/_/Training+Season) - Dua Lipa (3 plays in the last 30 days)
+* [Training Season](https://www.last.fm/music/Dua+Lipa/_/Training+Season) - Dua Lipa (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
