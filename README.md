@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 19 times this week
-2. [Dawes](https://www.last.fm/music/Dawes) - listened to 17 times this week
-3. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 16 times this week
-4. [The Wrecks](https://www.last.fm/music/The+Wrecks) - listened to 9 times this week
-5. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 8 times this week
+1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 19 times this week
+2. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 19 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 18 times this week
+4. [Dawes](https://www.last.fm/music/Dawes) - listened to 17 times this week
+5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 15 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Home](https://www.last.fm/music/Edward+Sharpe+&+The+Magnetic+Zeros/_/Home) - Edward Sharpe & The Magnetic Zeros (5 plays in the last 30 days)
+* [Home](https://www.last.fm/music/Edward+Sharpe+&+The+Magnetic+Zeros/_/Home) - Edward Sharpe & The Magnetic Zeros (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
