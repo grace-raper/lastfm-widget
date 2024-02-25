@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 19 times this week
 2. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 19 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 18 times this week
-4. [Dawes](https://www.last.fm/music/Dawes) - listened to 17 times this week
-5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 15 times this week
+3. [Dawes](https://www.last.fm/music/Dawes) - listened to 17 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 17 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 9 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
