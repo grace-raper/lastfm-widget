@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 19 times this week
-2. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 19 times this week
-3. [Dawes](https://www.last.fm/music/Dawes) - listened to 17 times this week
-4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 17 times this week
+2. [Dawes](https://www.last.fm/music/Dawes) - listened to 17 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 17 times this week
+4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 17 times this week
 5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Home](https://www.last.fm/music/Edward+Sharpe+&+The+Magnetic+Zeros/_/Home) - Edward Sharpe & The Magnetic Zeros (4 plays in the last 30 days)
+* [STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+(feat.+HUH+YUNJIN+of+LE+SSERAFIM)) - MAX (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
