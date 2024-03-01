@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 19 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 15 times this week
-3. [Alicia Keys](https://www.last.fm/music/Alicia+Keys) - listened to 8 times this week
-4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 8 times this week
-5. [Adele](https://www.last.fm/music/Adele) - listened to 6 times this week
+1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 37 times this week
+2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 19 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 15 times this week
+4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 13 times this week
+5. [Adele](https://www.last.fm/music/Adele) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [If I Ain't Got You](https://www.last.fm/music/Alicia+Keys/_/If+I+Ain%27t+Got+You) - Alicia Keys (4 plays in the last 30 days)
+* [STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+(feat.+HUH+YUNJIN+of+LE+SSERAFIM)) - MAX (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
