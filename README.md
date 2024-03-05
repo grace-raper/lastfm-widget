@@ -8,9 +8,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 37 times this week
-2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 12 times this week
-3. [Adele](https://www.last.fm/music/Adele) - listened to 10 times this week
-4. [Alicia Keys](https://www.last.fm/music/Alicia+Keys) - listened to 9 times this week
+2. [Alicia Keys](https://www.last.fm/music/Alicia+Keys) - listened to 12 times this week
+3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 12 times this week
+4. [Adele](https://www.last.fm/music/Adele) - listened to 10 times this week
 5. [Amy Winehouse](https://www.last.fm/music/Amy+Winehouse) - listened to 9 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
