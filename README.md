@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 37 times this week
-2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 25 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 22 times this week
-4. [Maisie Peters](https://www.last.fm/music/Maisie+Peters) - listened to 21 times this week
-5. [Adele](https://www.last.fm/music/Adele) - listened to 20 times this week
+1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 27 times this week
+2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 23 times this week
+3. [Ashe](https://www.last.fm/music/Ashe) - listened to 21 times this week
+4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 21 times this week
+5. [Maisie Peters](https://www.last.fm/music/Maisie+Peters) - listened to 21 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+(feat.+HUH+YUNJIN+of+LE+SSERAFIM)) - MAX (13 plays in the last 30 days)
+* [STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+(feat.+HUH+YUNJIN+of+LE+SSERAFIM)) - MAX (9 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
