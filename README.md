@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 40 times this week
+1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 41 times this week
 2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 32 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 22 times this week
-4. [Ashe](https://www.last.fm/music/Ashe) - listened to 21 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 21 times this week
+3. [Miley Cyrus](https://www.last.fm/music/Miley+Cyrus) - listened to 24 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 23 times this week
+5. [Ashe](https://www.last.fm/music/Ashe) - listened to 21 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+(feat.+HUH+YUNJIN+of+LE+SSERAFIM)) - MAX (9 plays in the last 30 days)
+* [Get off My Phone](https://www.last.fm/music/The+Driver+Era,+Ross+Lynch+&+Rocky/_/Get+off+My+Phone) - The Driver Era, Ross Lynch & Rocky (8 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
