@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 67 times this week
+1. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 66 times this week
 2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 66 times this week
 3. [The Driver Era, Ross Lynch & Rocky](https://www.last.fm/music/The+Driver+Era,+Ross+Lynch+&+Rocky) - listened to 45 times this week
-4. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 8 times this week
-5. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 7 times this week
+4. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 7 times this week
+5. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
