@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 74 times this week
-2. [The Driver Era, Ross Lynch & Rocky](https://www.last.fm/music/The+Driver+Era,+Ross+Lynch+&+Rocky) - listened to 44 times this week
-3. [Kacey Musgraves](https://www.last.fm/music/Kacey+Musgraves) - listened to 15 times this week
-4. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 15 times this week
-5. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 7 times this week
+1. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 52 times this week
+2. [The Driver Era, Ross Lynch & Rocky](https://www.last.fm/music/The+Driver+Era,+Ross+Lynch+&+Rocky) - listened to 43 times this week
+3. [Kacey Musgraves](https://www.last.fm/music/Kacey+Musgraves) - listened to 16 times this week
+4. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 8 times this week
+5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Get off My Phone](https://www.last.fm/music/The+Driver+Era,+Ross+Lynch+&+Rocky/_/Get+off+My+Phone) - The Driver Era, Ross Lynch & Rocky (44 plays in the last 30 days)
+* [Get off My Phone](https://www.last.fm/music/The+Driver+Era,+Ross+Lynch+&+Rocky/_/Get+off+My+Phone) - The Driver Era, Ross Lynch & Rocky (43 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
