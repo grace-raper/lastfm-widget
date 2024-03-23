@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 52 times this week
-2. [The Driver Era, Ross Lynch & Rocky](https://www.last.fm/music/The+Driver+Era,+Ross+Lynch+&+Rocky) - listened to 43 times this week
-3. [Kacey Musgraves](https://www.last.fm/music/Kacey+Musgraves) - listened to 16 times this week
-4. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 8 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 7 times this week
+1. [Kacey Musgraves](https://www.last.fm/music/Kacey+Musgraves) - listened to 16 times this week
+2. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 10 times this week
+3. [Mac Saturn](https://www.last.fm/music/Mac+Saturn) - listened to 10 times this week
+4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 10 times this week
+5. [Alana Springsteen](https://www.last.fm/music/Alana+Springsteen) - listened to 9 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Get off My Phone](https://www.last.fm/music/The+Driver+Era,+Ross+Lynch+&+Rocky/_/Get+off+My+Phone) - The Driver Era, Ross Lynch & Rocky (43 plays in the last 30 days)
+* [goodbye looks good on you (Apple Music Sessions)](https://www.last.fm/music/Alana+Springsteen/_/goodbye+looks+good+on+you+(Apple+Music+Sessions)) - Alana Springsteen (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
