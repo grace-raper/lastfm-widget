@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Dawes](https://www.last.fm/music/Dawes) - listened to 110 times this week
-2. [Mac Saturn](https://www.last.fm/music/Mac+Saturn) - listened to 23 times this week
-3. [Alana Springsteen](https://www.last.fm/music/Alana+Springsteen) - listened to 22 times this week
-4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 22 times this week
-5. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 21 times this week
+2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 43 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 22 times this week
+4. [Alana Springsteen](https://www.last.fm/music/Alana+Springsteen) - listened to 20 times this week
+5. [Anson](https://www.last.fm/music/Anson) - listened to 20 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
