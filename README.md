@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Dawes](https://www.last.fm/music/Dawes) - listened to 110 times this week
-2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 43 times this week
-3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 22 times this week
-4. [Alana Springsteen](https://www.last.fm/music/Alana+Springsteen) - listened to 20 times this week
-5. [Anson](https://www.last.fm/music/Anson) - listened to 20 times this week
+2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 62 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 35 times this week
+4. [Hands Like Houses](https://www.last.fm/music/Hands+Like+Houses) - listened to 21 times this week
+5. [Alana Springsteen](https://www.last.fm/music/Alana+Springsteen) - listened to 20 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [goodbye looks good on you (Apple Music Sessions)](https://www.last.fm/music/Alana+Springsteen/_/goodbye+looks+good+on+you+(Apple+Music+Sessions)) - Alana Springsteen (20 plays in the last 30 days)
+* [the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine) - Ariana Grande (21 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
