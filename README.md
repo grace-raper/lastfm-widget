@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dawes](https://www.last.fm/music/Dawes) - listened to 110 times this week
-2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 62 times this week
-3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 16 times this week
-4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 3 times this week
-5. [Hands Like Houses](https://www.last.fm/music/Hands+Like+Houses) - listened to 3 times this week
+1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 62 times this week
+2. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 16 times this week
+3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 3 times this week
+4. [Hands Like Houses](https://www.last.fm/music/Hands+Like+Houses) - listened to 3 times this week
+5. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Give Me Time](https://www.last.fm/music/Dawes/_/Give+Me+Time) - Dawes (11 plays in the last 30 days)
+* [Hypersonic Missiles (Live From Finsbury Park)](https://www.last.fm/music/Sam+Fender/_/Hypersonic+Missiles+(Live+From+Finsbury+Park)) - Sam Fender (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
