@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 62 times this week
-2. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 16 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 3 times this week
-4. [Hands Like Houses](https://www.last.fm/music/Hands+Like+Houses) - listened to 3 times this week
-5. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 3 times this week
+2. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 17 times this week
+3. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 11 times this week
+4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 4 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
