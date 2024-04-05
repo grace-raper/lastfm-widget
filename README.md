@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 28 times this week
-2. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 19 times this week
-3. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 18 times this week
-4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 16 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 5 times this week
+2. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 18 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 5 times this week
+4. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 4 times this week
+5. [Holly Humberstone](https://www.last.fm/music/Holly+Humberstone) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
