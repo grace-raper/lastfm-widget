@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Flowers in Your Hair](https://www.last.fm/music/The+Lumineers/_/Flowers+in+Your+Hair) - The Lumineers (3 plays in the last 30 days)
+* [16 CARRIAGES](https://www.last.fm/music/Beyonc%C3%A9/_/16+CARRIAGES) - Beyoncé (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
