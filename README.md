@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 18 times this week
-2. [Beyoncé & Rumi Carter](https://www.last.fm/music/Beyonc%C3%A9+&+Rumi+Carter) - listened to 2 times this week
+1. [KONGOS](https://www.last.fm/music/KONGOS) - listened to 1 times this week
+2. [Mother Mother](https://www.last.fm/music/Mother+Mother) - listened to 1 times this week
 3. [Beyoncé & Willie Nelson](https://www.last.fm/music/Beyonc%C3%A9+&+Willie+Nelson) - listened to 2 times this week
 4. [Beyoncé, Tanner Adell, Brittney Spencer, Tiera Kennedy & Reyna Roberts](https://www.last.fm/music/Beyonc%C3%A9,+Tanner+Adell,+Brittney+Spencer,+Tiera+Kennedy+&+Reyna+Roberts) - listened to 2 times this week
 5. [Beyoncé & Miley Cyrus](https://www.last.fm/music/Beyonc%C3%A9+&+Miley+Cyrus) - listened to 1 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [16 CARRIAGES](https://www.last.fm/music/Beyonc%C3%A9/_/16+CARRIAGES) - Beyoncé (2 plays in the last 30 days)
+* [Come With Me Now](https://www.last.fm/music/KONGOS/_/Come+With+Me+Now) - KONGOS (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
