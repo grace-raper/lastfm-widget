@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [KONGOS](https://www.last.fm/music/KONGOS) - listened to 1 times this week
+1. [Mother Mother](https://www.last.fm/music/Mother+Mother) - listened to 1 times this week
 2. [Mother Mother](https://www.last.fm/music/Mother+Mother) - listened to 1 times this week
 3. [Beyoncé & Willie Nelson](https://www.last.fm/music/Beyonc%C3%A9+&+Willie+Nelson) - listened to 2 times this week
 4. [Beyoncé, Tanner Adell, Brittney Spencer, Tiera Kennedy & Reyna Roberts](https://www.last.fm/music/Beyonc%C3%A9,+Tanner+Adell,+Brittney+Spencer,+Tiera+Kennedy+&+Reyna+Roberts) - listened to 2 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Come With Me Now](https://www.last.fm/music/KONGOS/_/Come+With+Me+Now) - KONGOS (1 plays in the last 30 days)
+* [Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft) - Mother Mother (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
