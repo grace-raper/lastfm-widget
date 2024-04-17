@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Mother Mother](https://www.last.fm/music/Mother+Mother) - listened to 1 times this week
-2. [Mother Mother](https://www.last.fm/music/Mother+Mother) - listened to 1 times this week
-3. [Beyoncé & Willie Nelson](https://www.last.fm/music/Beyonc%C3%A9+&+Willie+Nelson) - listened to 2 times this week
-4. [Beyoncé, Tanner Adell, Brittney Spencer, Tiera Kennedy & Reyna Roberts](https://www.last.fm/music/Beyonc%C3%A9,+Tanner+Adell,+Brittney+Spencer,+Tiera+Kennedy+&+Reyna+Roberts) - listened to 2 times this week
-5. [Beyoncé & Miley Cyrus](https://www.last.fm/music/Beyonc%C3%A9+&+Miley+Cyrus) - listened to 1 times this week
+1. [Jonas Brothers](https://www.last.fm/music/Jonas+Brothers) - listened to 19 times this week
+2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 3 times this week
+3. [Colbie Caillat](https://www.last.fm/music/Colbie+Caillat) - listened to 2 times this week
+4. [Faith Hill](https://www.last.fm/music/Faith+Hill) - listened to 2 times this week
+5. [Sara Bareilles](https://www.last.fm/music/Sara+Bareilles) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft) - Mother Mother (1 plays in the last 30 days)
+* [Brighter Than the Sun](https://www.last.fm/music/Colbie+Caillat/_/Brighter+Than+the+Sun) - Colbie Caillat (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
