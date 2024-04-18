@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Jonas Brothers](https://www.last.fm/music/Jonas+Brothers) - listened to 19 times this week
-2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 3 times this week
-3. [Colbie Caillat](https://www.last.fm/music/Colbie+Caillat) - listened to 2 times this week
-4. [Faith Hill](https://www.last.fm/music/Faith+Hill) - listened to 2 times this week
-5. [Sara Bareilles](https://www.last.fm/music/Sara+Bareilles) - listened to 2 times this week
+2. [Sara Bareilles](https://www.last.fm/music/Sara+Bareilles) - listened to 5 times this week
+3. [Colbie Caillat](https://www.last.fm/music/Colbie+Caillat) - listened to 4 times this week
+4. [Sixpence None the Richer](https://www.last.fm/music/Sixpence+None+the+Richer) - listened to 4 times this week
+5. [Audrey Mika](https://www.last.fm/music/Audrey+Mika) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Brighter Than the Sun](https://www.last.fm/music/Colbie+Caillat/_/Brighter+Than+the+Sun) - Colbie Caillat (2 plays in the last 30 days)
+* [Brighter Than the Sun](https://www.last.fm/music/Colbie+Caillat/_/Brighter+Than+the+Sun) - Colbie Caillat (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
