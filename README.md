@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Jonas Brothers](https://www.last.fm/music/Jonas+Brothers) - listened to 19 times this week
-2. [Sara Bareilles](https://www.last.fm/music/Sara+Bareilles) - listened to 5 times this week
-3. [Colbie Caillat](https://www.last.fm/music/Colbie+Caillat) - listened to 4 times this week
-4. [Sixpence None the Richer](https://www.last.fm/music/Sixpence+None+the+Richer) - listened to 4 times this week
-5. [Audrey Mika](https://www.last.fm/music/Audrey+Mika) - listened to 3 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 21 times this week
+2. [Jonas Brothers](https://www.last.fm/music/Jonas+Brothers) - listened to 19 times this week
+3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 10 times this week
+4. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 7 times this week
+5. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
