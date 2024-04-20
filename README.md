@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 21 times this week
-2. [Jonas Brothers](https://www.last.fm/music/Jonas+Brothers) - listened to 19 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 10 times this week
-4. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 7 times this week
-5. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 5 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 129 times this week
+2. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 26 times this week
+3. [Jonas Brothers](https://www.last.fm/music/Jonas+Brothers) - listened to 20 times this week
+4. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 15 times this week
+5. [Hozier](https://www.last.fm/music/Hozier) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Brighter Than the Sun](https://www.last.fm/music/Colbie+Caillat/_/Brighter+Than+the+Sun) - Colbie Caillat (4 plays in the last 30 days)
+* [All’s fair in love and poetry...](https://www.last.fm/music/Taylor+Swift/_/All%E2%80%99s+fair+in+love+and+poetry...) - Taylor Swift (18 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
