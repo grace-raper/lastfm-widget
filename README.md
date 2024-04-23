@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 127 times this week
-2. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 26 times this week
+2. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 28 times this week
 3. [Jonas Brothers](https://www.last.fm/music/Jonas+Brothers) - listened to 19 times this week
 4. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 15 times this week
-5. [Hozier](https://www.last.fm/music/Hozier) - listened to 13 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
