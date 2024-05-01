@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 15 times this week
-2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 11 times this week
-3. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 3 times this week
-4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 3 times this week
-5. [Hozier](https://www.last.fm/music/Hozier) - listened to 2 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 73 times this week
+2. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 33 times this week
+3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 30 times this week
+4. [Hozier](https://www.last.fm/music/Hozier) - listened to 29 times this week
+5. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 22 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Ok Love You Bye](https://www.last.fm/music/Olivia+Dean/_/Ok+Love+You+Bye) - Olivia Dean (2 plays in the last 30 days)
+* [Too Sweet](https://www.last.fm/music/Hozier/_/Too+Sweet) - Hozier (12 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
