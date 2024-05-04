@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 64 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 56 times this week
 2. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 33 times this week
 3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 29 times this week
-4. [Hozier](https://www.last.fm/music/Hozier) - listened to 26 times this week
-5. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 22 times this week
+4. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 22 times this week
+5. [Hozier](https://www.last.fm/music/Hozier) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Too Sweet](https://www.last.fm/music/Hozier/_/Too+Sweet) - Hozier (12 plays in the last 30 days)
+* [Clara Bow](https://www.last.fm/music/Taylor+Swift/_/Clara+Bow) - Taylor Swift (8 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
