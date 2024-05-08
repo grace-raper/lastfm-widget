@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 33 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 31 times this week
-3. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 22 times this week
-4. [Hozier](https://www.last.fm/music/Hozier) - listened to 14 times this week
-5. [Kings of Leon](https://www.last.fm/music/Kings+of+Leon) - listened to 14 times this week
+1. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 32 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 29 times this week
+3. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 12 times this week
+4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 7 times this week
+5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [IDGAF](https://www.last.fm/music/Dua+Lipa/_/IDGAF) - Dua Lipa (4 plays in the last 30 days)
+* [we can't be friends (wait for your love)](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+(wait+for+your+love)) - Ariana Grande (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
