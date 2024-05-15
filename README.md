@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 50 times this week
-2. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 16 times this week
-3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 10 times this week
-4. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 8 times this week
-5. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 8 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 41 times this week
+2. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 14 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 8 times this week
+4. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 7 times this week
+5. [Hozier](https://www.last.fm/music/Hozier) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Empire Now](https://www.last.fm/music/Hozier/_/Empire+Now) - Hozier (5 plays in the last 30 days)
+* [Make It Look Easy](https://www.last.fm/music/Avery+Anna/_/Make+It+Look+Easy) - Avery Anna (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
