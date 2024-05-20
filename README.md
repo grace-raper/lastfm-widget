@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 58 times this week
 2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 29 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 17 times this week
-4. [Paul Cauthen](https://www.last.fm/music/Paul+Cauthen) - listened to 11 times this week
-5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 7 times this week
+3. [Paul Cauthen](https://www.last.fm/music/Paul+Cauthen) - listened to 11 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 9 times this week
+5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
