@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 57 times this week
-2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 51 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 12 times this week
-4. [Paul Cauthen](https://www.last.fm/music/Paul+Cauthen) - listened to 11 times this week
-5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 9 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 54 times this week
+2. [Lauryn Hill](https://www.last.fm/music/Lauryn+Hill) - listened to 16 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 15 times this week
+4. [SZA](https://www.last.fm/music/SZA) - listened to 15 times this week
+5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 15 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Suburban Legends (Taylor's Version) [From the Vault]](https://www.last.fm/music/Taylor+Swift/_/Suburban+Legends+(Taylor%27s+Version)+%5BFrom+the+Vault%5D) - Taylor Swift (5 plays in the last 30 days)
+* [Lunch](https://www.last.fm/music/Billie+Eilish/_/Lunch) - Billie Eilish (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
