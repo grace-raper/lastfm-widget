@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 54 times this week
-2. [Lauryn Hill](https://www.last.fm/music/Lauryn+Hill) - listened to 16 times this week
-3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 15 times this week
-4. [SZA](https://www.last.fm/music/SZA) - listened to 15 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 15 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 17 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 16 times this week
+4. [Lauryn Hill](https://www.last.fm/music/Lauryn+Hill) - listened to 16 times this week
+5. [SZA](https://www.last.fm/music/SZA) - listened to 15 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
