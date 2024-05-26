@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 28 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 25 times this week
 2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 23 times this week
-3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 17 times this week
-4. [Lauryn Hill](https://www.last.fm/music/Lauryn+Hill) - listened to 16 times this week
-5. [The Kid LAROI](https://www.last.fm/music/The+Kid+LAROI) - listened to 15 times this week
+3. [Lauryn Hill](https://www.last.fm/music/Lauryn+Hill) - listened to 16 times this week
+4. [The Kid LAROI](https://www.last.fm/music/The+Kid+LAROI) - listened to 15 times this week
+5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [IDGAF](https://www.last.fm/music/Dua+Lipa/_/IDGAF) - Dua Lipa (4 plays in the last 30 days)
+* [Lunch](https://www.last.fm/music/Billie+Eilish/_/Lunch) - Billie Eilish (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
