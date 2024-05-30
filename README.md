@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 23 times this week
-2. [Lauryn Hill](https://www.last.fm/music/Lauryn+Hill) - listened to 16 times this week
-3. [The Kid LAROI](https://www.last.fm/music/The+Kid+LAROI) - listened to 15 times this week
-4. [Michael Jackson](https://www.last.fm/music/Michael+Jackson) - listened to 11 times this week
-5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 10 times this week
+2. [The Kid LAROI](https://www.last.fm/music/The+Kid+LAROI) - listened to 15 times this week
+3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 11 times this week
+4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 9 times this week
+5. [Imagine Dragons](https://www.last.fm/music/Imagine+Dragons) - listened to 9 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
