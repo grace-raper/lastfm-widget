@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 23 times this week
-2. [The Kid LAROI](https://www.last.fm/music/The+Kid+LAROI) - listened to 15 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 11 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 33 times this week
+2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 23 times this week
+3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 14 times this week
 4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 9 times this week
 5. [Imagine Dragons](https://www.last.fm/music/Imagine+Dragons) - listened to 9 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Tighten Up](https://www.last.fm/music/The+Black+Keys/_/Tighten+Up) - The Black Keys (3 plays in the last 30 days)
+* [Live in the Moment](https://www.last.fm/music/Portugal.+The+Man/_/Live+in+the+Moment) - Portugal. The Man (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
