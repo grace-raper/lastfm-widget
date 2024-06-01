@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 33 times this week
-2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 23 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 14 times this week
-4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 9 times this week
-5. [Imagine Dragons](https://www.last.fm/music/Imagine+Dragons) - listened to 9 times this week
+2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 16 times this week
+3. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 15 times this week
+4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 15 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Live in the Moment](https://www.last.fm/music/Portugal.+The+Man/_/Live+in+the+Moment) - Portugal. The Man (3 plays in the last 30 days)
+* [Kiwi](https://www.last.fm/music/Harry+Styles/_/Kiwi) - Harry Styles (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
