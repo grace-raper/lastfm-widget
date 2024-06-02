@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 33 times this week
-2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 16 times this week
-3. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 15 times this week
-4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 15 times this week
-5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 11 times this week
+1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 104 times this week
+2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 86 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 37 times this week
+4. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 28 times this week
+5. [Hozier](https://www.last.fm/music/Hozier) - listened to 22 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Kiwi](https://www.last.fm/music/Harry+Styles/_/Kiwi) - Harry Styles (3 plays in the last 30 days)
+* [LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH) - Billie Eilish (15 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
