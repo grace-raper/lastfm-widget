@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 117 times this week
+1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 102 times this week
 2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 61 times this week
-3. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 39 times this week
+3. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 36 times this week
 4. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 33 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 31 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 27 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [I Had Some Help (feat. Morgan Wallen)](https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)) - Post Malone (14 plays in the last 30 days)
+* [After Midnight](https://www.last.fm/music/Chappell+Roan/_/After+Midnight) - Chappell Roan (11 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
