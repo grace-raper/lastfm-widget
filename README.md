@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 102 times this week
-2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 61 times this week
-3. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 36 times this week
-4. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 33 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 27 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 55 times this week
+2. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 33 times this week
+3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 25 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 25 times this week
+5. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 24 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [After Midnight](https://www.last.fm/music/Chappell+Roan/_/After+Midnight) - Chappell Roan (11 plays in the last 30 days)
+* [LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH) - Billie Eilish (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
