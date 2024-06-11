@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 59 times this week
-2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 35 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 21 times this week
-4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 20 times this week
-5. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 20 times this week
+1. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 99 times this week
+2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 36 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 30 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 27 times this week
+5. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 25 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH) - Billie Eilish (4 plays in the last 30 days)
+* [Malibu](https://www.last.fm/music/Miley+Cyrus/_/Malibu) - Miley Cyrus (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
