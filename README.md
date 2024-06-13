@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 99 times this week
-2. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 35 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 31 times this week
-4. [Miley Cyrus](https://www.last.fm/music/Miley+Cyrus) - listened to 30 times this week
-5. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 27 times this week
+1. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 102 times this week
+2. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 39 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 35 times this week
+4. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 34 times this week
+5. [Miley Cyrus](https://www.last.fm/music/Miley+Cyrus) - listened to 34 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [break up with your girlfriend, i'm bored](https://www.last.fm/music/Ariana+Grande/_/break+up+with+your+girlfriend,+i%27m+bored) - Ariana Grande (5 plays in the last 30 days)
+* [7 rings](https://www.last.fm/music/Ariana+Grande/_/7+rings) - Ariana Grande (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
