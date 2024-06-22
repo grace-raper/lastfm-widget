@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 85 times this week
-2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 47 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 35 times this week
-4. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 35 times this week
-5. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 27 times this week
+2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 35 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 29 times this week
+4. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 27 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 24 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
