@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 64 times this week
-2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 23 times this week
-3. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 20 times this week
-4. [Hozier](https://www.last.fm/music/Hozier) - listened to 19 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 18 times this week
+1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 58 times this week
+2. [Hozier](https://www.last.fm/music/Hozier) - listened to 20 times this week
+3. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 17 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 17 times this week
+5. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
