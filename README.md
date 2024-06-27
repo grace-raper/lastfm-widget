@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 45 times this week
-2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 44 times this week
-3. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 17 times this week
-4. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 16 times this week
-5. [Hozier](https://www.last.fm/music/Hozier) - listened to 16 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 44 times this week
+2. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 26 times this week
+3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 20 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 20 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 18 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [After Midnight](https://www.last.fm/music/Chappell+Roan/_/After+Midnight) - Chappell Roan (7 plays in the last 30 days)
+* [Nothing Matters](https://www.last.fm/music/The+Last+Dinner+Party/_/Nothing+Matters) - The Last Dinner Party (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
