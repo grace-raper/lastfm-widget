@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 44 times this week
-2. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 26 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 20 times this week
-4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 20 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 18 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 41 times this week
+2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 32 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 32 times this week
+4. [Khalid](https://www.last.fm/music/Khalid) - listened to 30 times this week
+5. [Train](https://www.last.fm/music/Train) - listened to 28 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Nothing Matters](https://www.last.fm/music/The+Last+Dinner+Party/_/Nothing+Matters) - The Last Dinner Party (6 plays in the last 30 days)
+* [Talk (feat. Disclosure)](https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)) - Khalid (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
