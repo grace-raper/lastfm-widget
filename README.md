@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 41 times this week
-2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 32 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 32 times this week
-4. [Khalid](https://www.last.fm/music/Khalid) - listened to 30 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 33 times this week
+3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 32 times this week
+4. [Khalid](https://www.last.fm/music/Khalid) - listened to 31 times this week
 5. [Train](https://www.last.fm/music/Train) - listened to 28 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Talk (feat. Disclosure)](https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)) - Khalid (5 plays in the last 30 days)
+* [Lover](https://www.last.fm/music/Taylor+Swift/_/Lover) - Taylor Swift (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
