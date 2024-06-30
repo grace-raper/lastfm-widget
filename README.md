@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 33 times this week
 3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 32 times this week
 4. [Khalid](https://www.last.fm/music/Khalid) - listened to 31 times this week
-5. [Train](https://www.last.fm/music/Train) - listened to 28 times this week
+5. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 28 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
