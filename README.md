@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Train](https://www.last.fm/music/Train) - listened to 28 times this week
-2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 27 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 27 times this week
-4. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 26 times this week
-5. [Khalid](https://www.last.fm/music/Khalid) - listened to 26 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 15 times this week
+2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 14 times this week
+3. [Khalid](https://www.last.fm/music/Khalid) - listened to 14 times this week
+4. [Train](https://www.last.fm/music/Train) - listened to 14 times this week
+5. [Ed Sheeran](https://www.last.fm/music/Ed+Sheeran) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Lover](https://www.last.fm/music/Taylor+Swift/_/Lover) - Taylor Swift (5 plays in the last 30 days)
+* [Lover](https://www.last.fm/music/Taylor+Swift/_/Lover) - Taylor Swift (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
