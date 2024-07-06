@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Khalid](https://www.last.fm/music/Khalid) - listened to 1 times this week
+1. [I Hate Myself Because](https://www.last.fm/music/I+Hate+Myself+Because) - listened to 1 times this week
 2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 1 times this week
 3. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 1 times this week
 4. [Train](https://www.last.fm/music/Train) - listened to 14 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Young Dumb & Broke](https://www.last.fm/music/Khalid/_/Young+Dumb+&+Broke) - Khalid (1 plays in the last 30 days)
+* [I Feel Bad](https://www.last.fm/music/I+Hate+Myself+Because/_/I+Feel+Bad) - I Hate Myself Because (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
