@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 26 times this week
-2. [Hozier](https://www.last.fm/music/Hozier) - listened to 3 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 3 times this week
-4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 2 times this week
-5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 2 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 34 times this week
+2. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 11 times this week
+3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 10 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 10 times this week
+5. [Camila Cabello](https://www.last.fm/music/Camila+Cabello) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Mind Is a Prison](https://www.last.fm/music/Alec+Benjamin/_/Mind+Is+a+Prison) - Alec Benjamin (1 plays in the last 30 days)
+* [My Oh My (feat. DaBaby)](https://www.last.fm/music/Camila+Cabello/_/My+Oh+My+(feat.+DaBaby)) - Camila Cabello (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
