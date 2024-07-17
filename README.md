@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 34 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 47 times this week
 2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 17 times this week
 3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 11 times this week
 4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 10 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [My Oh My (feat. DaBaby)](https://www.last.fm/music/Camila+Cabello/_/My+Oh+My+(feat.+DaBaby)) - Camila Cabello (3 plays in the last 30 days)
+* [LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH) - Billie Eilish (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
