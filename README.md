@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 25 times this week
-2. [Childish Gambino](https://www.last.fm/music/Childish+Gambino) - listened to 17 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 17 times this week
-4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 15 times this week
-5. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 8 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 26 times this week
+2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 20 times this week
+3. [Childish Gambino](https://www.last.fm/music/Childish+Gambino) - listened to 17 times this week
+4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 17 times this week
+5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 15 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
