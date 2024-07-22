@@ -10,8 +10,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 26 times this week
 2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 20 times this week
 3. [Childish Gambino](https://www.last.fm/music/Childish+Gambino) - listened to 17 times this week
-4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 17 times this week
-5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 15 times this week
+4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 15 times this week
+5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
