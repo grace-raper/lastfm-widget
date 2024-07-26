@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 29 times this week
 2. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 26 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 24 times this week
-4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 19 times this week
-5. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 19 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 26 times this week
+4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 19 times this week
+5. [Childish Gambino](https://www.last.fm/music/Childish+Gambino) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
