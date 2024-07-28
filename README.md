@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 59 times this week
-2. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 25 times this week
-3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 20 times this week
-4. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 18 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 15 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 56 times this week
+2. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 23 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 14 times this week
+4. [Thomas Rhett](https://www.last.fm/music/Thomas+Rhett) - listened to 14 times this week
+5. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Work Song](https://www.last.fm/music/Hozier/_/Work+Song) - Hozier (3 plays in the last 30 days)
+* [But Daddy I Love Him](https://www.last.fm/music/Taylor+Swift/_/But+Daddy+I+Love+Him) - Taylor Swift (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
