@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 56 times this week
-2. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 23 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 14 times this week
-4. [Thomas Rhett](https://www.last.fm/music/Thomas+Rhett) - listened to 14 times this week
-5. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 14 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 57 times this week
+2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 16 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 13 times this week
+4. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 12 times this week
+5. [Thomas Rhett](https://www.last.fm/music/Thomas+Rhett) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [But Daddy I Love Him](https://www.last.fm/music/Taylor+Swift/_/But+Daddy+I+Love+Him) - Taylor Swift (3 plays in the last 30 days)
+* [Fortnight (feat. Post Malone)](https://www.last.fm/music/Taylor+Swift/_/Fortnight+(feat.+Post+Malone)) - Taylor Swift (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
