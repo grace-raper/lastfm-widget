@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 48 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 34 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 18 times this week
-4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 9 times this week
-5. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 8 times this week
+1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 44 times this week
+2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 18 times this week
+3. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 14 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 4 times this week
+5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [vampire](https://www.last.fm/music/Olivia+Rodrigo/_/vampire) - Olivia Rodrigo (4 plays in the last 30 days)
+* [all-american bitch](https://www.last.fm/music/Olivia+Rodrigo/_/all-american+bitch) - Olivia Rodrigo (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
