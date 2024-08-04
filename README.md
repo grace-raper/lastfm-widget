@@ -10,8 +10,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 44 times this week
 2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 18 times this week
 3. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 14 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 4 times this week
-5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 3 times this week
+4. [Hozier](https://www.last.fm/music/Hozier) - listened to 11 times this week
+5. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
