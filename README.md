@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 45 times this week
-2. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 32 times this week
+1. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 39 times this week
+2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 24 times this week
 3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 18 times this week
 4. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 14 times this week
 5. [Hozier](https://www.last.fm/music/Hozier) - listened to 11 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [vampire](https://www.last.fm/music/Olivia+Rodrigo/_/vampire) - Olivia Rodrigo (4 plays in the last 30 days)
+* [so american](https://www.last.fm/music/Olivia+Rodrigo/_/so+american) - Olivia Rodrigo (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
