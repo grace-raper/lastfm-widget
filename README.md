@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 39 times this week
-2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 24 times this week
-3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 18 times this week
-4. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 14 times this week
+2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 26 times this week
+3. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 14 times this week
+4. [Tyler Childers](https://www.last.fm/music/Tyler+Childers) - listened to 12 times this week
 5. [Hozier](https://www.last.fm/music/Hozier) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [so american](https://www.last.fm/music/Olivia+Rodrigo/_/so+american) - Olivia Rodrigo (3 plays in the last 30 days)
+* [Preacher Man (Live)](https://www.last.fm/music/The+Driver+Era/_/Preacher+Man+(Live)) - The Driver Era (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
