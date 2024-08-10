@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 39 times this week
 2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 26 times this week
-3. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 14 times this week
-4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 12 times this week
-5. [Tyler Childers](https://www.last.fm/music/Tyler+Childers) - listened to 12 times this week
+3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 12 times this week
+4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 11 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 10 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
