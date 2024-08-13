@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 39 times this week
-2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 26 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 12 times this week
-4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 11 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 10 times this week
+1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 25 times this week
+2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 14 times this week
+3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 14 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 13 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Preacher Man (Live)](https://www.last.fm/music/The+Driver+Era/_/Preacher+Man+(Live)) - The Driver Era (3 plays in the last 30 days)
+* [Kryptonite](https://www.last.fm/music/3+Doors+Down/_/Kryptonite) - 3 Doors Down (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
