@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 23 times this week
-2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 12 times this week
-3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 12 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 11 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 11 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 6 times this week
+2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 6 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 6 times this week
+4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 5 times this week
+5. [Benson Boone](https://www.last.fm/music/Benson+Boone) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [bad guy](https://www.last.fm/music/Billie+Eilish/_/bad+guy) - Billie Eilish (2 plays in the last 30 days)
+* [Skin](https://www.last.fm/music/Sabrina+Carpenter/_/Skin) - Sabrina Carpenter (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
