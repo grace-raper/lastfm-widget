@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Post Malone](https://www.last.fm/music/Post+Malone) - listened to 21 times this week
-2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 4 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 4 times this week
-4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 4 times this week
-5. [Benson Boone](https://www.last.fm/music/Benson+Boone) - listened to 3 times this week
+1. [Post Malone](https://www.last.fm/music/Post+Malone) - listened to 23 times this week
+2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 8 times this week
+3. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 6 times this week
+4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 6 times this week
+5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [California Sober (feat. Chris Stapleton)](https://www.last.fm/music/Post+Malone/_/California+Sober+(feat.+Chris+Stapleton)) - Post Malone (2 plays in the last 30 days)
+* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
