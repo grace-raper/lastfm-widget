@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 27 times this week
+1. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 39 times this week
 2. [Post Malone](https://www.last.fm/music/Post+Malone) - listened to 22 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 7 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 8 times this week
 4. [Felicity](https://www.last.fm/music/Felicity) - listened to 7 times this week
-5. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 6 times this week
+5. [Hozier](https://www.last.fm/music/Hozier) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH) - Billie Eilish (3 plays in the last 30 days)
+* [My Lady of Mercy](https://www.last.fm/music/The+Last+Dinner+Party/_/My+Lady+of+Mercy) - The Last Dinner Party (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
