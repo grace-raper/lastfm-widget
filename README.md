@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 51 times this week
-2. [Post Malone](https://www.last.fm/music/Post+Malone) - listened to 22 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 19 times this week
-4. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 12 times this week
-5. [Hozier](https://www.last.fm/music/Hozier) - listened to 8 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 29 times this week
+3. [Post Malone](https://www.last.fm/music/Post+Malone) - listened to 22 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 20 times this week
+5. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
