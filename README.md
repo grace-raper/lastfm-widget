@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 94 times this week
-2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 51 times this week
-3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 37 times this week
-4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 29 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 26 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 100 times this week
+2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 56 times this week
+3. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 51 times this week
+4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 31 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 29 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [deja vu](https://www.last.fm/music/Olivia+Rodrigo/_/deja+vu) - Olivia Rodrigo (6 plays in the last 30 days)
+* [deja vu](https://www.last.fm/music/Olivia+Rodrigo/_/deja+vu) - Olivia Rodrigo (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
