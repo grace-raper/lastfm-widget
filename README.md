@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 58 times this week
 3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 27 times this week
 4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 27 times this week
-5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 26 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 25 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
