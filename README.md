@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 64 times this week
-2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 50 times this week
-3. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 23 times this week
-4. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 21 times this week
-5. [Benson Boone](https://www.last.fm/music/Benson+Boone) - listened to 17 times this week
+1. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 33 times this week
+2. [Benson Boone](https://www.last.fm/music/Benson+Boone) - listened to 17 times this week
+3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 15 times this week
+4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 12 times this week
+5. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste) - Sabrina Carpenter (6 plays in the last 30 days)
+* [Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste) - Sabrina Carpenter (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
