@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 33 times this week
-2. [Benson Boone](https://www.last.fm/music/Benson+Boone) - listened to 17 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 15 times this week
-4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 12 times this week
-5. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 11 times this week
+1. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 15 times this week
+2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 14 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 12 times this week
+4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 11 times this week
+5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 10 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste) - Sabrina Carpenter (5 plays in the last 30 days)
+* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
