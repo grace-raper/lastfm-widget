@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 15 times this week
-2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 14 times this week
+1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 14 times this week
+2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 13 times this week
 3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 12 times this week
 4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 11 times this week
 5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 10 times this week
