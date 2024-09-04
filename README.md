@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 14 times this week
-2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 13 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 12 times this week
-4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 11 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 10 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 29 times this week
+2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 19 times this week
+3. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 18 times this week
+4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 18 times this week
+5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 16 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (4 plays in the last 30 days)
+* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
