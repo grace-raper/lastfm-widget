@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Post Malone](https://www.last.fm/music/Post+Malone) - listened to 42 times this week
-2. [Ashe](https://www.last.fm/music/Ashe) - listened to 30 times this week
-3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 27 times this week
-4. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 24 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 24 times this week
+2. [Ashe](https://www.last.fm/music/Ashe) - listened to 32 times this week
+3. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 28 times this week
+4. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 28 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 26 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (8 plays in the last 30 days)
+* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (10 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
