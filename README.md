@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Ashe](https://www.last.fm/music/Ashe) - listened to 77 times this week
-2. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 40 times this week
-3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 28 times this week
+2. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 57 times this week
+3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 34 times this week
 4. [Laura Mvula](https://www.last.fm/music/Laura+Mvula) - listened to 28 times this week
-5. [Post Malone](https://www.last.fm/music/Post+Malone) - listened to 17 times this week
+5. [Hozier](https://www.last.fm/music/Hozier) - listened to 21 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
