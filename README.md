@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 75 times this week
-2. [Ashe](https://www.last.fm/music/Ashe) - listened to 50 times this week
-3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 32 times this week
-4. [Laura Mvula](https://www.last.fm/music/Laura+Mvula) - listened to 28 times this week
-5. [Hozier](https://www.last.fm/music/Hozier) - listened to 22 times this week
+1. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 65 times this week
+2. [Ashe](https://www.last.fm/music/Ashe) - listened to 48 times this week
+3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 31 times this week
+4. [Laura Mvula](https://www.last.fm/music/Laura+Mvula) - listened to 27 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 21 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Running Out Of Time](https://www.last.fm/music/Ashe/_/Running+Out+Of+Time) - Ashe (6 plays in the last 30 days)
+* [Castle](https://www.last.fm/music/Ashe/_/Castle) - Ashe (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
