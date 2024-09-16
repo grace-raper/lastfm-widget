@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 65 times this week
-2. [Ashe](https://www.last.fm/music/Ashe) - listened to 48 times this week
-3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 31 times this week
-4. [Laura Mvula](https://www.last.fm/music/Laura+Mvula) - listened to 27 times this week
-5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 21 times this week
+1. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 84 times this week
+2. [Post Malone](https://www.last.fm/music/Post+Malone) - listened to 76 times this week
+3. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 68 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 61 times this week
+5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 60 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Castle](https://www.last.fm/music/Ashe/_/Castle) - Ashe (4 plays in the last 30 days)
+* [Please Please Please](https://www.last.fm/music/Sabrina+Carpenter/_/Please+Please+Please) - Sabrina Carpenter (45 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
