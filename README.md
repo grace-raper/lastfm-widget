@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 84 times this week
-2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 62 times this week
-3. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 57 times this week
-4. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 55 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 52 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 58 times this week
+3. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 52 times this week
+4. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 41 times this week
+5. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 37 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Please Please Please](https://www.last.fm/music/Sabrina+Carpenter/_/Please+Please+Please) - Sabrina Carpenter (44 plays in the last 30 days)
+* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (37 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
