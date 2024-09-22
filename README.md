@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 67 times this week
+1. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 64 times this week
 2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 58 times this week
 3. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 52 times this week
-4. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 39 times this week
+4. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 37 times this week
 5. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 37 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (37 plays in the last 30 days)
+* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (35 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
