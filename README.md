@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 64 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 58 times this week
-3. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 52 times this week
-4. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 37 times this week
-5. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 37 times this week
+1. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 37 times this week
+2. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 33 times this week
+3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 26 times this week
+4. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 25 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 20 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [For Cryin' Out Loud!](https://www.last.fm/music/FINNEAS/_/For+Cryin%27+Out+Loud!) - FINNEAS (35 plays in the last 30 days)
+* [BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER) - Billie Eilish (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
