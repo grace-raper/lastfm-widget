@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 138 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 48 times this week
-3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 26 times this week
-4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 18 times this week
-5. [Hozier](https://www.last.fm/music/Hozier) - listened to 17 times this week
+1. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 176 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 47 times this week
+3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 24 times this week
+4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 24 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 23 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Born and Raised](https://www.last.fm/music/John+Mayer/_/Born+and+Raised) - John Mayer (5 plays in the last 30 days)
+* [Born and Raised](https://www.last.fm/music/John+Mayer/_/Born+and+Raised) - John Mayer (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
