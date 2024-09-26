@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 176 times this week
-2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 47 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 24 times this week
-4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 24 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 23 times this week
+2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 44 times this week
+3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 35 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 29 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 23 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
