@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 150 times this week
+1. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 149 times this week
 2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 32 times this week
 3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 28 times this week
 4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 22 times this week
