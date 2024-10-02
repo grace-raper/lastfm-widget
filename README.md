@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [John Mayer](https://www.last.fm/music/John+Mayer) - listened to 46 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 27 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 21 times this week
-4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 14 times this week
-5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 14 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 21 times this week
+2. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 12 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 10 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 9 times this week
+5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 9 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [bellyache](https://www.last.fm/music/Billie+Eilish/_/bellyache) - Billie Eilish (3 plays in the last 30 days)
+* [Break My Heart](https://www.last.fm/music/Dua+Lipa/_/Break+My+Heart) - Dua Lipa (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
