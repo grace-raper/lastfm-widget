@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 21 times this week
-2. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 12 times this week
-3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 10 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 9 times this week
-5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 9 times this week
+1. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 9 times this week
+2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 9 times this week
+3. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 8 times this week
+4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 7 times this week
+5. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Break My Heart](https://www.last.fm/music/Dua+Lipa/_/Break+My+Heart) - Dua Lipa (3 plays in the last 30 days)
+* [Sound & Color](https://www.last.fm/music/Alabama+Shakes/_/Sound+&+Color) - Alabama Shakes (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
