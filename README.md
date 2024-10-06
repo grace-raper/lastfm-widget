@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 8 times this week
-2. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 8 times this week
+1. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 2 times this week
+2. [twenty one pilots](https://www.last.fm/music/twenty+one+pilots) - listened to 1 times this week
 3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 7 times this week
 4. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 7 times this week
 5. [Frank Ocean](https://www.last.fm/music/Frank+Ocean) - listened to 7 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Break My Heart](https://www.last.fm/music/Dua+Lipa/_/Break+My+Heart) - Dua Lipa (2 plays in the last 30 days)
+* [Family Feud](https://www.last.fm/music/FINNEAS/_/Family+Feud) - FINNEAS (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
