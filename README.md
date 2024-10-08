@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 2 times this week
-2. [twenty one pilots](https://www.last.fm/music/twenty+one+pilots) - listened to 1 times this week
-3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 7 times this week
-4. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 7 times this week
-5. [Frank Ocean](https://www.last.fm/music/Frank+Ocean) - listened to 7 times this week
+1. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 21 times this week
+2. [Ashe](https://www.last.fm/music/Ashe) - listened to 3 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 3 times this week
+4. [Lauv](https://www.last.fm/music/Lauv) - listened to 3 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Family Feud](https://www.last.fm/music/FINNEAS/_/Family+Feud) - FINNEAS (1 plays in the last 30 days)
+* [Family Feud](https://www.last.fm/music/FINNEAS/_/Family+Feud) - FINNEAS (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
