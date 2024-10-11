@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 33 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 26 times this week
-3. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 21 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 9 times this week
-5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 8 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 47 times this week
+2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 35 times this week
+3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 32 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 28 times this week
+5. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 28 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Family Feud](https://www.last.fm/music/FINNEAS/_/Family+Feud) - FINNEAS (3 plays in the last 30 days)
+* [LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH) - Billie Eilish (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
