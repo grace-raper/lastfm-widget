@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 62 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 47 times this week
-3. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 47 times this week
-4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 32 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 30 times this week
+1. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 58 times this week
+2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 58 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 28 times this week
+4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 27 times this week
+5. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 22 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [I Love You, I'm Sorry](https://www.last.fm/music/Gracie+Abrams/_/I+Love+You,+I%27m+Sorry) - Gracie Abrams (8 plays in the last 30 days)
+* [I Love You, I'm Sorry](https://www.last.fm/music/Gracie+Abrams/_/I+Love+You,+I%27m+Sorry) - Gracie Abrams (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
