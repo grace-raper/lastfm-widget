@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 30 times this week
 3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 30 times this week
 4. [Lisa](https://www.last.fm/music/Lisa) - listened to 19 times this week
-5. [FINNEAS](https://www.last.fm/music/FINNEAS) - listened to 16 times this week
+5. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
