@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 73 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 45 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 29 times this week
-4. [Lisa](https://www.last.fm/music/Lisa) - listened to 18 times this week
-5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 17 times this week
+2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 52 times this week
+3. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 38 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 26 times this week
+5. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 21 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Good Luck, Babe!](https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe!) - Chappell Roan (6 plays in the last 30 days)
+* [I Love You, I'm Sorry](https://www.last.fm/music/Gracie+Abrams/_/I+Love+You,+I%27m+Sorry) - Gracie Abrams (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
