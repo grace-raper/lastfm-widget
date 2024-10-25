@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 73 times this week
-2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 56 times this week
-3. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 44 times this week
+1. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 89 times this week
+2. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 73 times this week
+3. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 64 times this week
 4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 38 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 24 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [I Love You, I'm Sorry](https://www.last.fm/music/Gracie+Abrams/_/I+Love+You,+I%27m+Sorry) - Gracie Abrams (6 plays in the last 30 days)
+* [I Love You, I'm Sorry](https://www.last.fm/music/Gracie+Abrams/_/I+Love+You,+I%27m+Sorry) - Gracie Abrams (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
