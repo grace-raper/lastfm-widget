@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 150 times this week
-2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 87 times this week
+1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 155 times this week
+2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 88 times this week
 3. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 70 times this week
 4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 34 times this week
-5. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 12 times this week
+5. [Florence + The Machine & Jules Buckley](https://www.last.fm/music/Florence+%252B+The+Machine+&+Jules+Buckley) - listened to 18 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [If Now Was Then](https://www.last.fm/music/Maggie+Rogers/_/If+Now+Was+Then) - Maggie Rogers (8 plays in the last 30 days)
+* [I Love You, I'm Sorry](https://www.last.fm/music/Gracie+Abrams/_/I+Love+You,+I%27m+Sorry) - Gracie Abrams (8 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
