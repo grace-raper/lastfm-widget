@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 155 times this week
+1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 154 times this week
 2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 88 times this week
 3. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 70 times this week
 4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 34 times this week
