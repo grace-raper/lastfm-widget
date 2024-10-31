@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 120 times this week
-2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 70 times this week
-3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 64 times this week
-4. [Florence + The Machine & Jules Buckley](https://www.last.fm/music/Florence+%252B+The+Machine+&+Jules+Buckley) - listened to 18 times this week
-5. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 8 times this week
+1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 121 times this week
+2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 55 times this week
+3. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 30 times this week
+4. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 26 times this week
+5. [Florence + The Machine & Jules Buckley](https://www.last.fm/music/Florence+%252B+The+Machine+&+Jules+Buckley) - listened to 18 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [I Love You, I'm Sorry](https://www.last.fm/music/Gracie+Abrams/_/I+Love+You,+I%27m+Sorry) - Gracie Abrams (6 plays in the last 30 days)
+* [The Kill](https://www.last.fm/music/Maggie+Rogers/_/The+Kill) - Maggie Rogers (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
