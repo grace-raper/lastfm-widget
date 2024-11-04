@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 55 times this week
 3. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 46 times this week
 4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 35 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 22 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 20 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
