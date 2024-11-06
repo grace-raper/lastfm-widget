@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 123 times this week
+1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 104 times this week
 2. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 47 times this week
 3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 38 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 33 times this week
-5. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 20 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 15 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste) - Sabrina Carpenter (17 plays in the last 30 days)
+* [I Still Do](https://www.last.fm/music/Maggie+Rogers/_/I+Still+Do) - Maggie Rogers (8 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
