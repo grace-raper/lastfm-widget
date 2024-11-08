@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 77 times this week
-2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 38 times this week
-3. [RAYE](https://www.last.fm/music/RAYE) - listened to 7 times this week
-4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 4 times this week
-5. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 3 times this week
+2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 16 times this week
+3. [RAYE](https://www.last.fm/music/RAYE) - listened to 14 times this week
+4. [Maggie Rogers & L'Impératrice](https://www.last.fm/music/Maggie+Rogers+&+L%27Imp%C3%A9ratrice) - listened to 2 times this week
+5. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [I Love You, I'm Sorry](https://www.last.fm/music/Gracie+Abrams/_/I+Love+You,+I%27m+Sorry) - Gracie Abrams (4 plays in the last 30 days)
+* [Past Life](https://www.last.fm/music/Maggie+Rogers/_/Past+Life) - Maggie Rogers (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
