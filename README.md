@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 77 times this week
-2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 16 times this week
-3. [RAYE](https://www.last.fm/music/RAYE) - listened to 14 times this week
-4. [Maggie Rogers & L'Impératrice](https://www.last.fm/music/Maggie+Rogers+&+L%27Imp%C3%A9ratrice) - listened to 2 times this week
-5. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 2 times this week
+1. [RAYE](https://www.last.fm/music/RAYE) - listened to 14 times this week
+2. [Anne-Marie](https://www.last.fm/music/Anne-Marie) - listened to 1 times this week
+3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 1 times this week
+4. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 1 times this week
+5. [Doja Cat](https://www.last.fm/music/Doja+Cat) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Past Life](https://www.last.fm/music/Maggie+Rogers/_/Past+Life) - Maggie Rogers (4 plays in the last 30 days)
+* [Escapism. (Live at Montreux Jazz Festival)](https://www.last.fm/music/RAYE/_/Escapism.+(Live+at+Montreux+Jazz+Festival)) - RAYE (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
