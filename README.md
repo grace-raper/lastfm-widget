@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [RAYE](https://www.last.fm/music/RAYE) - listened to 14 times this week
-2. [Anne-Marie](https://www.last.fm/music/Anne-Marie) - listened to 1 times this week
+1. [RAYE](https://www.last.fm/music/RAYE) - listened to 7 times this week
+2. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 1 times this week
 3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 1 times this week
 4. [Beyoncé](https://www.last.fm/music/Beyonc%C3%A9) - listened to 1 times this week
 5. [Doja Cat](https://www.last.fm/music/Doja+Cat) - listened to 1 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Escapism. (Live at Montreux Jazz Festival)](https://www.last.fm/music/RAYE/_/Escapism.+(Live+at+Montreux+Jazz+Festival)) - RAYE (2 plays in the last 30 days)
+* [Break My Heart](https://www.last.fm/music/Dua+Lipa/_/Break+My+Heart) - Dua Lipa (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
