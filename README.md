@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Addison Rae & Arca](https://www.last.fm/music/Addison+Rae+&+Arca) - listened to 1 times this week
-2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 1 times this week
-3. [James TW](https://www.last.fm/music/James+TW) - listened to 1 times this week
-4. [Jeremy Zucker & Chelsea Cutler](https://www.last.fm/music/Jeremy+Zucker+&+Chelsea+Cutler) - listened to 1 times this week
-5. [Myles Smith & James Bay](https://www.last.fm/music/Myles+Smith+&+James+Bay) - listened to 1 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 7 times this week
+2. [Glass Animals](https://www.last.fm/music/Glass+Animals) - listened to 7 times this week
+3. [Satellite For The Moon](https://www.last.fm/music/Satellite+For+The+Moon) - listened to 7 times this week
+4. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 6 times this week
+5. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Aquamarine / Arcamarine](https://www.last.fm/music/Addison+Rae+&+Arca/_/Aquamarine+%2F+Arcamarine) - Addison Rae & Arca (1 plays in the last 30 days)
+* [CHIHIRO (KhoMha Remix) [Mixed]](https://www.last.fm/music/Billie+Eilish/_/CHIHIRO+(KhoMha+Remix)+%5BMixed%5D) - Billie Eilish (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
