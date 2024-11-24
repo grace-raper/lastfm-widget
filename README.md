@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 7 times this week
-2. [Glass Animals](https://www.last.fm/music/Glass+Animals) - listened to 7 times this week
-3. [Satellite For The Moon](https://www.last.fm/music/Satellite+For+The+Moon) - listened to 7 times this week
-4. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 6 times this week
-5. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 6 times this week
+1. [Satellite For The Moon](https://www.last.fm/music/Satellite+For+The+Moon) - listened to 18 times this week
+2. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 17 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 17 times this week
+4. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 17 times this week
+5. [Coin](https://www.last.fm/music/Coin) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [CHIHIRO (KhoMha Remix) [Mixed]](https://www.last.fm/music/Billie+Eilish/_/CHIHIRO+(KhoMha+Remix)+%5BMixed%5D) - Billie Eilish (7 plays in the last 30 days)
+* [Bubbles](https://www.last.fm/music/Satellite+For+The+Moon/_/Bubbles) - Satellite For The Moon (18 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
