@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Satellite For The Moon](https://www.last.fm/music/Satellite+For+The+Moon) - listened to 18 times this week
-2. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 17 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 17 times this week
-4. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 17 times this week
-5. [Coin](https://www.last.fm/music/Coin) - listened to 17 times this week
+1. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 21 times this week
+2. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 21 times this week
+3. [Lauv](https://www.last.fm/music/Lauv) - listened to 21 times this week
+4. [mary in the junkyard](https://www.last.fm/music/mary+in+the+junkyard) - listened to 21 times this week
+5. [Nelly Furtado](https://www.last.fm/music/Nelly+Furtado) - listened to 21 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Bubbles](https://www.last.fm/music/Satellite+For+The+Moon/_/Bubbles) - Satellite For The Moon (18 plays in the last 30 days)
+* [Undone](https://www.last.fm/music/Bishop+Briggs/_/Undone) - Bishop Briggs (21 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
