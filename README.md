@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 21 times this week
-2. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 21 times this week
-3. [Lauv](https://www.last.fm/music/Lauv) - listened to 21 times this week
-4. [mary in the junkyard](https://www.last.fm/music/mary+in+the+junkyard) - listened to 21 times this week
-5. [Nelly Furtado](https://www.last.fm/music/Nelly+Furtado) - listened to 21 times this week
+1. [RAYE & The Heritage Orchestra](https://www.last.fm/music/RAYE+&+The+Heritage+Orchestra) - listened to 28 times this week
+2. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 27 times this week
+3. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 27 times this week
+4. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 21 times this week
+5. [Frances Whitney](https://www.last.fm/music/Frances+Whitney) - listened to 21 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
