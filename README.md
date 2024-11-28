@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 29 times this week
-2. [RAYE & The Heritage Orchestra](https://www.last.fm/music/RAYE+&+The+Heritage+Orchestra) - listened to 28 times this week
-3. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 27 times this week
-4. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 23 times this week
-5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 22 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 36 times this week
+2. [Zach Bryan](https://www.last.fm/music/Zach+Bryan) - listened to 33 times this week
+3. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 29 times this week
+4. [Coin](https://www.last.fm/music/Coin) - listened to 28 times this week
+5. [Frances Whitney](https://www.last.fm/music/Frances+Whitney) - listened to 28 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Undone](https://www.last.fm/music/Bishop+Briggs/_/Undone) - Bishop Briggs (21 plays in the last 30 days)
+* [Past Life](https://www.last.fm/music/Frances+Whitney/_/Past+Life) - Frances Whitney (28 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
