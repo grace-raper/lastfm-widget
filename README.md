@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 36 times this week
-2. [Coin](https://www.last.fm/music/Coin) - listened to 36 times this week
-3. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 36 times this week
-4. [Glass Animals](https://www.last.fm/music/Glass+Animals) - listened to 35 times this week
-5. [Nelly Furtado](https://www.last.fm/music/Nelly+Furtado) - listened to 35 times this week
+1. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 37 times this week
+2. [Glass Animals](https://www.last.fm/music/Glass+Animals) - listened to 35 times this week
+3. [Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine) - listened to 35 times this week
+4. [Nelly Furtado](https://www.last.fm/music/Nelly+Furtado) - listened to 35 times this week
+5. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 34 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
