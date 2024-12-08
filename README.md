@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Beatles](https://www.last.fm/music/The+Beatles) - listened to 96 times this week
-2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 56 times this week
+1. [The Beatles](https://www.last.fm/music/The+Beatles) - listened to 99 times this week
+2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 59 times this week
 3. [RAYE & The Heritage Orchestra](https://www.last.fm/music/RAYE+&+The+Heritage+Orchestra) - listened to 48 times this week
 4. [Shania Twain](https://www.last.fm/music/Shania+Twain) - listened to 40 times this week
 5. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 33 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [You Got The Thing (feat. Blanco)](https://www.last.fm/music/Grace+Carter/_/You+Got+The+Thing+(feat.+Blanco)) - Grace Carter (24 plays in the last 30 days)
+* [Five Star Hotels. (Live at the Royal Albert Hall)](https://www.last.fm/music/RAYE+&+The+Heritage+Orchestra/_/Five+Star+Hotels.+(Live+at+the+Royal+Albert+Hall)) - RAYE & The Heritage Orchestra (13 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
