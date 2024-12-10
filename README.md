@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Beatles](https://www.last.fm/music/The+Beatles) - listened to 99 times this week
-2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 59 times this week
-3. [RAYE & The Heritage Orchestra](https://www.last.fm/music/RAYE+&+The+Heritage+Orchestra) - listened to 48 times this week
-4. [Shania Twain](https://www.last.fm/music/Shania+Twain) - listened to 40 times this week
-5. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 33 times this week
+1. [The Beatles](https://www.last.fm/music/The+Beatles) - listened to 100 times this week
+2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 60 times this week
+3. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 49 times this week
+4. [RAYE & The Heritage Orchestra](https://www.last.fm/music/RAYE+&+The+Heritage+Orchestra) - listened to 48 times this week
+5. [Shania Twain](https://www.last.fm/music/Shania+Twain) - listened to 40 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
