@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Beatles](https://www.last.fm/music/The+Beatles) - listened to 100 times this week
-2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 60 times this week
-3. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 49 times this week
-4. [RAYE & The Heritage Orchestra](https://www.last.fm/music/RAYE+&+The+Heritage+Orchestra) - listened to 48 times this week
-5. [Shania Twain](https://www.last.fm/music/Shania+Twain) - listened to 40 times this week
+1. [The Beatles](https://www.last.fm/music/The+Beatles) - listened to 104 times this week
+2. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 68 times this week
+3. [Elton John](https://www.last.fm/music/Elton+John) - listened to 66 times this week
+4. [Nectar Woode](https://www.last.fm/music/Nectar+Woode) - listened to 46 times this week
+5. [Sam Cooke](https://www.last.fm/music/Sam+Cooke) - listened to 37 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Five Star Hotels. (Live at the Royal Albert Hall)](https://www.last.fm/music/RAYE+&+The+Heritage+Orchestra/_/Five+Star+Hotels.+(Live+at+the+Royal+Albert+Hall)) - RAYE & The Heritage Orchestra (13 plays in the last 30 days)
+* [God Talks Back](https://www.last.fm/music/Nectar+Woode/_/God+Talks+Back) - Nectar Woode (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
