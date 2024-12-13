@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Shania Twain](https://www.last.fm/music/Shania+Twain) - listened to 139 times this week
-2. [The Beatles](https://www.last.fm/music/The+Beatles) - listened to 104 times this week
-3. [Nectar Woode](https://www.last.fm/music/Nectar+Woode) - listened to 69 times this week
-4. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 67 times this week
-5. [Sam Cooke](https://www.last.fm/music/Sam+Cooke) - listened to 37 times this week
+2. [Nectar Woode](https://www.last.fm/music/Nectar+Woode) - listened to 71 times this week
+3. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 66 times this week
+4. [The Beatles](https://www.last.fm/music/The+Beatles) - listened to 64 times this week
+5. [Michelle](https://www.last.fm/music/Michelle) - listened to 40 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [I'm Holdin' on to Love (To Save My Life)](https://www.last.fm/music/Shania+Twain/_/I%27m+Holdin%27+on+to+Love+(To+Save+My+Life)) - Shania Twain (7 plays in the last 30 days)
+* [Blissing](https://www.last.fm/music/Michelle/_/Blissing) - Michelle (10 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
