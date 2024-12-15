@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Shania Twain](https://www.last.fm/music/Shania+Twain) - listened to 139 times this week
 2. [Nectar Woode](https://www.last.fm/music/Nectar+Woode) - listened to 71 times this week
-3. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 60 times this week
-4. [Michelle](https://www.last.fm/music/Michelle) - listened to 43 times this week
-5. [Sam Cooke](https://www.last.fm/music/Sam+Cooke) - listened to 37 times this week
+3. [Michelle](https://www.last.fm/music/Michelle) - listened to 43 times this week
+4. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 39 times this week
+5. [Sam Cooke](https://www.last.fm/music/Sam+Cooke) - listened to 27 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
