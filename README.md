@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Shania Twain](https://www.last.fm/music/Shania+Twain) - listened to 139 times this week
-2. [Nectar Woode](https://www.last.fm/music/Nectar+Woode) - listened to 71 times this week
-3. [Michelle](https://www.last.fm/music/Michelle) - listened to 43 times this week
-4. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 30 times this week
-5. [Sam Cooke](https://www.last.fm/music/Sam+Cooke) - listened to 30 times this week
+2. [Michelle](https://www.last.fm/music/Michelle) - listened to 32 times this week
+3. [Nectar Woode](https://www.last.fm/music/Nectar+Woode) - listened to 25 times this week
+4. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 24 times this week
+5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 23 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Blissing](https://www.last.fm/music/Michelle/_/Blissing) - Michelle (13 plays in the last 30 days)
+* [Blissing](https://www.last.fm/music/Michelle/_/Blissing) - Michelle (12 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
