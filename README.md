@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 44 times this week
+1. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 42 times this week
 2. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 30 times this week
 3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 25 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 23 times this week
-5. [Khalid](https://www.last.fm/music/Khalid) - listened to 22 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 21 times this week
+5. [Khalid](https://www.last.fm/music/Khalid) - listened to 21 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [New Rules](https://www.last.fm/music/Dua+Lipa/_/New+Rules) - Dua Lipa (6 plays in the last 30 days)
+* [Escapism.](https://www.last.fm/music/RAYE+&+070+Shake/_/Escapism.) - RAYE & 070 Shake (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
