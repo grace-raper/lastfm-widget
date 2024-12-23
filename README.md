@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 30 times this week
 3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 25 times this week
 4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 21 times this week
-5. [Khalid](https://www.last.fm/music/Khalid) - listened to 21 times this week
+5. [Khalid](https://www.last.fm/music/Khalid) - listened to 20 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
