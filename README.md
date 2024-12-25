@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) - listened to 33 times this week
-2. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 30 times this week
-3. [Lola Young](https://www.last.fm/music/Lola+Young) - listened to 19 times this week
-4. [Two Door Cinema Club](https://www.last.fm/music/Two+Door+Cinema+Club) - listened to 18 times this week
-5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 16 times this week
+1. [LEO BHANJI](https://www.last.fm/music/LEO+BHANJI) - listened to 28 times this week
+2. [Michigander](https://www.last.fm/music/Michigander) - listened to 28 times this week
+3. [Bat for Lashes & Lara Somogyi](https://www.last.fm/music/Bat+for+Lashes+&+Lara+Somogyi) - listened to 27 times this week
+4. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 27 times this week
+5. [Coldplay](https://www.last.fm/music/Coldplay) - listened to 27 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [The Invisibles](https://www.last.fm/music/LEO+BHANJI/_/The+Invisibles) - LEO BHANJI (11 plays in the last 30 days)
+* [The Invisibles](https://www.last.fm/music/LEO+BHANJI/_/The+Invisibles) - LEO BHANJI (28 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
