@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [LEO BHANJI](https://www.last.fm/music/LEO+BHANJI) - listened to 28 times this week
-2. [Michigander](https://www.last.fm/music/Michigander) - listened to 28 times this week
-3. [Bat for Lashes & Lara Somogyi](https://www.last.fm/music/Bat+for+Lashes+&+Lara+Somogyi) - listened to 27 times this week
-4. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 27 times this week
-5. [Coldplay](https://www.last.fm/music/Coldplay) - listened to 27 times this week
+1. [Grace Enger](https://www.last.fm/music/Grace+Enger) - listened to 45 times this week
+2. [Jean Valery](https://www.last.fm/music/Jean+Valery) - listened to 45 times this week
+3. [LEO BHANJI](https://www.last.fm/music/LEO+BHANJI) - listened to 45 times this week
+4. [Michigander](https://www.last.fm/music/Michigander) - listened to 45 times this week
+5. [Bat for Lashes & Lara Somogyi](https://www.last.fm/music/Bat+for+Lashes+&+Lara+Somogyi) - listened to 44 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [The Invisibles](https://www.last.fm/music/LEO+BHANJI/_/The+Invisibles) - LEO BHANJI (28 plays in the last 30 days)
+* [The Alchemist](https://www.last.fm/music/Grace+Enger/_/The+Alchemist) - Grace Enger (45 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
