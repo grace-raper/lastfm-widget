@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Michigander](https://www.last.fm/music/Michigander) - listened to 63 times this week
-2. [Grace Enger](https://www.last.fm/music/Grace+Enger) - listened to 62 times this week
-3. [Jean Valery](https://www.last.fm/music/Jean+Valery) - listened to 62 times this week
-4. [LEO BHANJI](https://www.last.fm/music/LEO+BHANJI) - listened to 62 times this week
-5. [Bat for Lashes & Lara Somogyi](https://www.last.fm/music/Bat+for+Lashes+&+Lara+Somogyi) - listened to 61 times this week
+1. [Jean Valery](https://www.last.fm/music/Jean+Valery) - listened to 71 times this week
+2. [Michigander](https://www.last.fm/music/Michigander) - listened to 71 times this week
+3. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 70 times this week
+4. [Blossoms](https://www.last.fm/music/Blossoms) - listened to 70 times this week
+5. [Coldplay](https://www.last.fm/music/Coldplay) - listened to 70 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Peace Of Mind](https://www.last.fm/music/Michigander/_/Peace+Of+Mind) - Michigander (63 plays in the last 30 days)
+* [BRING ME BACK](https://www.last.fm/music/Jean+Valery/_/BRING+ME+BACK) - Jean Valery (71 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
