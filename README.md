@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Grace Enger](https://www.last.fm/music/Grace+Enger) - listened to 70 times this week
-2. [Jean Valery](https://www.last.fm/music/Jean+Valery) - listened to 70 times this week
-3. [Michigander](https://www.last.fm/music/Michigander) - listened to 70 times this week
-4. [Asiris](https://www.last.fm/music/Asiris) - listened to 69 times this week
-5. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 69 times this week
+1. [Grace Enger](https://www.last.fm/music/Grace+Enger) - listened to 64 times this week
+2. [Jean Valery](https://www.last.fm/music/Jean+Valery) - listened to 64 times this week
+3. [Asiris](https://www.last.fm/music/Asiris) - listened to 63 times this week
+4. [Blossoms](https://www.last.fm/music/Blossoms) - listened to 63 times this week
+5. [Coldplay](https://www.last.fm/music/Coldplay) - listened to 63 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [The Alchemist](https://www.last.fm/music/Grace+Enger/_/The+Alchemist) - Grace Enger (70 plays in the last 30 days)
+* [The Alchemist](https://www.last.fm/music/Grace+Enger/_/The+Alchemist) - Grace Enger (64 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
