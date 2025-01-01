@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Grace Enger](https://www.last.fm/music/Grace+Enger) - listened to 64 times this week
-2. [Jean Valery](https://www.last.fm/music/Jean+Valery) - listened to 64 times this week
-3. [Asiris](https://www.last.fm/music/Asiris) - listened to 63 times this week
-4. [Blossoms](https://www.last.fm/music/Blossoms) - listened to 63 times this week
-5. [Coldplay](https://www.last.fm/music/Coldplay) - listened to 63 times this week
+1. ['King mental](https://www.last.fm/music/%27King+mental) - listened to 56 times this week
+2. [Michael Marcagi](https://www.last.fm/music/Michael+Marcagi) - listened to 56 times this week
+3. [ROSÉ](https://www.last.fm/music/ROS%C3%89) - listened to 56 times this week
+4. [U2](https://www.last.fm/music/U2) - listened to 56 times this week
+5. [Andy Grammer](https://www.last.fm/music/Andy+Grammer) - listened to 55 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [The Alchemist](https://www.last.fm/music/Grace+Enger/_/The+Alchemist) - Grace Enger (64 plays in the last 30 days)
+* [Yeah M**********r](https://www.last.fm/music/%27King+mental/_/Yeah+M**********r) - 'King mental (56 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
