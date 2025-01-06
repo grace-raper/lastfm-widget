@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. ['King mental](https://www.last.fm/music/%27King+mental) - listened to 36 times this week
-2. [U2](https://www.last.fm/music/U2) - listened to 36 times this week
-3. [ROSÉ](https://www.last.fm/music/ROS%C3%89) - listened to 35 times this week
-4. [Kronik Leila](https://www.last.fm/music/Kronik+Leila) - listened to 34 times this week
-5. [Madison Bailey](https://www.last.fm/music/Madison+Bailey) - listened to 34 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 22 times this week
+2. ['King mental](https://www.last.fm/music/%27King+mental) - listened to 19 times this week
+3. [U2](https://www.last.fm/music/U2) - listened to 19 times this week
+4. [Madison Bailey](https://www.last.fm/music/Madison+Bailey) - listened to 18 times this week
+5. [Myles Smith](https://www.last.fm/music/Myles+Smith) - listened to 18 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Yeah M**********r](https://www.last.fm/music/%27King+mental/_/Yeah+M**********r) - 'King mental (36 plays in the last 30 days)
+* [Yeah M**********r](https://www.last.fm/music/%27King+mental/_/Yeah+M**********r) - 'King mental (19 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
