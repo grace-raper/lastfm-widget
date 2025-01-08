@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 45 times this week
-2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 33 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 17 times this week
-4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 17 times this week
+2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 34 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 19 times this week
+4. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 19 times this week
 5. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER) - Billie Eilish (6 plays in the last 30 days)
+* [BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER) - Billie Eilish (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
