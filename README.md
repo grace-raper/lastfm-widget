@@ -9,14 +9,14 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 22 times this week
 2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 12 times this week
-3. [SZA](https://www.last.fm/music/SZA) - listened to 9 times this week
+3. [SZA](https://www.last.fm/music/SZA) - listened to 8 times this week
 4. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 6 times this week
 5. [Florence + the Machine](https://www.last.fm/music/Florence+%252B+the+Machine) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [She Calls Me Back](https://www.last.fm/music/Noah+Kahan/_/She+Calls+Me+Back) - Noah Kahan (4 plays in the last 30 days)
+* [Messy (Stripped)](https://www.last.fm/music/Lola+Young/_/Messy+(Stripped)) - Lola Young (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
