@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 22 times this week
-2. [SZA](https://www.last.fm/music/SZA) - listened to 5 times this week
-3. [Lola Young](https://www.last.fm/music/Lola+Young) - listened to 4 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 3 times this week
-5. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 3 times this week
+1. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 14 times this week
+2. [FLO & GloRilla](https://www.last.fm/music/FLO+&+GloRilla) - listened to 4 times this week
+3. [Khalid](https://www.last.fm/music/Khalid) - listened to 4 times this week
+4. [Lola Young](https://www.last.fm/music/Lola+Young) - listened to 4 times this week
+5. [Prima Queen](https://www.last.fm/music/Prima+Queen) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Messy (Stripped)](https://www.last.fm/music/Lola+Young/_/Messy+(Stripped)) - Lola Young (4 plays in the last 30 days)
+* [In My Bag](https://www.last.fm/music/FLO+&+GloRilla/_/In+My+Bag) - FLO & GloRilla (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
