@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 14 times this week
-2. [FLO & GloRilla](https://www.last.fm/music/FLO+&+GloRilla) - listened to 9 times this week
-3. [Khalid](https://www.last.fm/music/Khalid) - listened to 9 times this week
-4. [Lola Young](https://www.last.fm/music/Lola+Young) - listened to 9 times this week
-5. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 8 times this week
+1. [FLO & GloRilla](https://www.last.fm/music/FLO+&+GloRilla) - listened to 9 times this week
+2. [Du Blonde & Laura Jane Grace](https://www.last.fm/music/Du+Blonde+&+Laura+Jane+Grace) - listened to 8 times this week
+3. [Khalid](https://www.last.fm/music/Khalid) - listened to 8 times this week
+4. [Lola Young](https://www.last.fm/music/Lola+Young) - listened to 8 times this week
+5. [Baby Said](https://www.last.fm/music/Baby+Said) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
