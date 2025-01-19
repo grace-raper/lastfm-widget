@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [FLO & GloRilla](https://www.last.fm/music/FLO+&+GloRilla) - listened to 9 times this week
-2. [Du Blonde & Laura Jane Grace](https://www.last.fm/music/Du+Blonde+&+Laura+Jane+Grace) - listened to 8 times this week
-3. [Khalid](https://www.last.fm/music/Khalid) - listened to 8 times this week
-4. [Lola Young](https://www.last.fm/music/Lola+Young) - listened to 8 times this week
-5. [Baby Said](https://www.last.fm/music/Baby+Said) - listened to 7 times this week
+1. [FLO & GloRilla](https://www.last.fm/music/FLO+&+GloRilla) - listened to 7 times this week
+2. [Baby Said](https://www.last.fm/music/Baby+Said) - listened to 6 times this week
+3. [BBY](https://www.last.fm/music/BBY) - listened to 6 times this week
+4. [Bizzy](https://www.last.fm/music/Bizzy) - listened to 6 times this week
+5. [Du Blonde & Laura Jane Grace](https://www.last.fm/music/Du+Blonde+&+Laura+Jane+Grace) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [In My Bag](https://www.last.fm/music/FLO+&+GloRilla/_/In+My+Bag) - FLO & GloRilla (9 plays in the last 30 days)
+* [In My Bag](https://www.last.fm/music/FLO+&+GloRilla/_/In+My+Bag) - FLO & GloRilla (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
