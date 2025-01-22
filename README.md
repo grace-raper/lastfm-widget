@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Baby Said](https://www.last.fm/music/Baby+Said) - listened to 6 times this week
-2. [BBY](https://www.last.fm/music/BBY) - listened to 6 times this week
-3. [Bizzy](https://www.last.fm/music/Bizzy) - listened to 6 times this week
-4. [FLO & GloRilla](https://www.last.fm/music/FLO+&+GloRilla) - listened to 6 times this week
-5. [Khalid](https://www.last.fm/music/Khalid) - listened to 6 times this week
+1. [Baby Said](https://www.last.fm/music/Baby+Said) - listened to 5 times this week
+2. [BBY](https://www.last.fm/music/BBY) - listened to 5 times this week
+3. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 5 times this week
+4. [Bizzy](https://www.last.fm/music/Bizzy) - listened to 5 times this week
+5. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [123](https://www.last.fm/music/Baby+Said/_/123) - Baby Said (6 plays in the last 30 days)
+* [123](https://www.last.fm/music/Baby+Said/_/123) - Baby Said (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
