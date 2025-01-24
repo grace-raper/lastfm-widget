@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Baby Said](https://www.last.fm/music/Baby+Said) - listened to 5 times this week
-2. [BBY](https://www.last.fm/music/BBY) - listened to 5 times this week
-3. [Bishop Briggs](https://www.last.fm/music/Bishop+Briggs) - listened to 5 times this week
-4. [Bizzy](https://www.last.fm/music/Bizzy) - listened to 5 times this week
+1. [Catie Turner](https://www.last.fm/music/Catie+Turner) - listened to 1 times this week
+2. [girlpuppy](https://www.last.fm/music/girlpuppy) - listened to 1 times this week
+3. [ILLIT](https://www.last.fm/music/ILLIT) - listened to 1 times this week
+4. [Mac Miller](https://www.last.fm/music/Mac+Miller) - listened to 1 times this week
 5. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [123](https://www.last.fm/music/Baby+Said/_/123) - Baby Said (5 plays in the last 30 days)
+* [Last Name](https://www.last.fm/music/Catie+Turner/_/Last+Name) - Catie Turner (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
