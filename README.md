@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Catie Turner](https://www.last.fm/music/Catie+Turner) - listened to 1 times this week
-2. [girlpuppy](https://www.last.fm/music/girlpuppy) - listened to 1 times this week
-3. [ILLIT](https://www.last.fm/music/ILLIT) - listened to 1 times this week
-4. [Mac Miller](https://www.last.fm/music/Mac+Miller) - listened to 1 times this week
-5. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 5 times this week
+2. [Déyyess](https://www.last.fm/music/D%C3%A9yyess) - listened to 1 times this week
+3. [girlpuppy](https://www.last.fm/music/girlpuppy) - listened to 1 times this week
+4. [ILLIT](https://www.last.fm/music/ILLIT) - listened to 1 times this week
+5. [Mac Miller](https://www.last.fm/music/Mac+Miller) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
