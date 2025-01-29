@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Catie Turner](https://www.last.fm/music/Catie+Turner) - listened to 1 times this week
-2. [Déyyess](https://www.last.fm/music/D%C3%A9yyess) - listened to 1 times this week
-3. [girlpuppy](https://www.last.fm/music/girlpuppy) - listened to 1 times this week
-4. [ILLIT](https://www.last.fm/music/ILLIT) - listened to 1 times this week
-5. [Mac Miller](https://www.last.fm/music/Mac+Miller) - listened to 1 times this week
+1. [Déyyess](https://www.last.fm/music/D%C3%A9yyess) - listened to 2 times this week
+2. [Milk & Bone](https://www.last.fm/music/Milk+&+Bone) - listened to 2 times this week
+3. [Sipper & sipper2](https://www.last.fm/music/Sipper+&+sipper2) - listened to 2 times this week
+4. [Asiris](https://www.last.fm/music/Asiris) - listened to 1 times this week
+5. [Baby Said](https://www.last.fm/music/Baby+Said) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Last Name](https://www.last.fm/music/Catie+Turner/_/Last+Name) - Catie Turner (1 plays in the last 30 days)
+* [if i was ur boy](https://www.last.fm/music/D%C3%A9yyess/_/if+i+was+ur+boy) - Déyyess (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
