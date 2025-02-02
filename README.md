@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Asiris](https://www.last.fm/music/Asiris) - listened to 2 times this week
-2. [Déyyess](https://www.last.fm/music/D%C3%A9yyess) - listened to 2 times this week
-3. [Findlay & Miles Kane](https://www.last.fm/music/Findlay+&+Miles+Kane) - listened to 2 times this week
-4. [Milk & Bone](https://www.last.fm/music/Milk+&+Bone) - listened to 2 times this week
-5. [Sipper & sipper2](https://www.last.fm/music/Sipper+&+sipper2) - listened to 2 times this week
+1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 139 times this week
+2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 24 times this week
+3. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 19 times this week
+4. [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen) - listened to 6 times this week
+5. [Teddy Swims & Givēon](https://www.last.fm/music/Teddy+Swims+&+Giv%C4%93on) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [driveway](https://www.last.fm/music/Asiris/_/driveway) - Asiris (2 plays in the last 30 days)
+* [American Money](https://www.last.fm/music/B%C3%98RNS/_/American+Money) - BØRNS (33 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
