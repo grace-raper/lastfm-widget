@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 139 times this week
+1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 120 times this week
 2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 24 times this week
 3. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 19 times this week
 4. [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen) - listened to 6 times this week
