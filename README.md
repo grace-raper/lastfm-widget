@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 24 times this week
 3. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 19 times this week
 4. [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen) - listened to 6 times this week
-5. [Teddy Swims & Givēon](https://www.last.fm/music/Teddy+Swims+&+Giv%C4%93on) - listened to 5 times this week
+5. [Teddy Swims & Givēon](https://www.last.fm/music/Teddy+Swims+&+Giv%C4%93on) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
