@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 120 times this week
-2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 24 times this week
-3. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 19 times this week
-4. [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen) - listened to 6 times this week
-5. [Teddy Swims & Givēon](https://www.last.fm/music/Teddy+Swims+&+Giv%C4%93on) - listened to 4 times this week
+1. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 24 times this week
+2. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 19 times this week
+3. [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen) - listened to 6 times this week
+4. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 3 times this week
+5. [Teddy Swims & Givēon](https://www.last.fm/music/Teddy+Swims+&+Giv%C4%93on) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [American Money](https://www.last.fm/music/B%C3%98RNS/_/American+Money) - BØRNS (33 plays in the last 30 days)
+* [Cut to the Feeling](https://www.last.fm/music/Carly+Rae+Jepsen/_/Cut+to+the+Feeling) - Carly Rae Jepsen (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
