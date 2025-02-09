@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 30 times this week
-2. [The Last Dinner Party](https://www.last.fm/music/The+Last+Dinner+Party) - listened to 24 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 15 times this week
-4. [SZA](https://www.last.fm/music/SZA) - listened to 15 times this week
-5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 14 times this week
+2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 15 times this week
+3. [SZA](https://www.last.fm/music/SZA) - listened to 15 times this week
+4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 14 times this week
+5. [Hozier](https://www.last.fm/music/Hozier) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
