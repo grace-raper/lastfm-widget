@@ -8,7 +8,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 30 times this week
-2. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 17 times this week
+2. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 21 times this week
 3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 15 times this week
 4. [SZA](https://www.last.fm/music/SZA) - listened to 15 times this week
 5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 14 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Focus](https://www.last.fm/music/Aqyila/_/Focus) - Aqyila (5 plays in the last 30 days)
+* [Work Bitch / Challengers: Match Point (Mixed)](https://www.last.fm/music/Britney+Spears+&+Trent+Reznor+&+Atticus+Ross/_/Work+Bitch+%2F+Challengers:+Match+Point+(Mixed)) - Britney Spears & Trent Reznor & Atticus Ross (9 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
