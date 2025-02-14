@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 30 times this week
-2. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 27 times this week
-3. [Britney Spears & Trent Reznor & Atticus Ross](https://www.last.fm/music/Britney+Spears+&+Trent+Reznor+&+Atticus+Ross) - listened to 16 times this week
-4. [Kevin Atwater](https://www.last.fm/music/Kevin+Atwater) - listened to 16 times this week
-5. [Aqyila](https://www.last.fm/music/Aqyila) - listened to 15 times this week
+1. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 26 times this week
+2. [Kevin Atwater](https://www.last.fm/music/Kevin+Atwater) - listened to 21 times this week
+3. [Aqyila](https://www.last.fm/music/Aqyila) - listened to 20 times this week
+4. [Britney Spears & Trent Reznor & Atticus Ross](https://www.last.fm/music/Britney+Spears+&+Trent+Reznor+&+Atticus+Ross) - listened to 20 times this week
+5. [Cameron Whitcomb](https://www.last.fm/music/Cameron+Whitcomb) - listened to 20 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Work Bitch / Challengers: Match Point (Mixed)](https://www.last.fm/music/Britney+Spears+&+Trent+Reznor+&+Atticus+Ross/_/Work+Bitch+%2F+Challengers:+Match+Point+(Mixed)) - Britney Spears & Trent Reznor & Atticus Ross (16 plays in the last 30 days)
+* [the cage](https://www.last.fm/music/Kevin+Atwater/_/the+cage) - Kevin Atwater (21 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
