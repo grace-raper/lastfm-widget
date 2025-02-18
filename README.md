@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Chappell Roan, Benny Benassi & Charli xcx](https://www.last.fm/music/Chappell+Roan,+Benny+Benassi+&+Charli+xcx) - listened to 19 times this week
-2. [Inhaler](https://www.last.fm/music/Inhaler) - listened to 19 times this week
-3. [Kevin Atwater](https://www.last.fm/music/Kevin+Atwater) - listened to 19 times this week
-4. [Sabrina Carpenter & Disclosure](https://www.last.fm/music/Sabrina+Carpenter+&+Disclosure) - listened to 19 times this week
-5. [Addison Rae & Cascada](https://www.last.fm/music/Addison+Rae+&+Cascada) - listened to 18 times this week
+1. [Inhaler](https://www.last.fm/music/Inhaler) - listened to 17 times this week
+2. [Addison Rae & Cascada](https://www.last.fm/music/Addison+Rae+&+Cascada) - listened to 16 times this week
+3. [Chappell Roan, Benny Benassi & Charli xcx](https://www.last.fm/music/Chappell+Roan,+Benny+Benassi+&+Charli+xcx) - listened to 16 times this week
+4. [Jack Van Cleaf & Zach Bryan](https://www.last.fm/music/Jack+Van+Cleaf+&+Zach+Bryan) - listened to 16 times this week
+5. [Kevin Atwater](https://www.last.fm/music/Kevin+Atwater) - listened to 16 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Femininomenon / 365 / Satisfaction (Mixed)](https://www.last.fm/music/Chappell+Roan,+Benny+Benassi+&+Charli+xcx/_/Femininomenon+%2F+365+%2F+Satisfaction+(Mixed)) - Chappell Roan, Benny Benassi & Charli xcx (19 plays in the last 30 days)
+* [A Question Of You](https://www.last.fm/music/Inhaler/_/A+Question+Of+You) - Inhaler (17 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
