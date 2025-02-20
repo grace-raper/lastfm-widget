@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Inhaler](https://www.last.fm/music/Inhaler) - listened to 13 times this week
-2. [Addison Rae & Cascada](https://www.last.fm/music/Addison+Rae+&+Cascada) - listened to 12 times this week
-3. [Aqyila](https://www.last.fm/music/Aqyila) - listened to 12 times this week
-4. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 12 times this week
-5. [Cameron Whitcomb](https://www.last.fm/music/Cameron+Whitcomb) - listened to 12 times this week
+1. [Cameron Whitcomb](https://www.last.fm/music/Cameron+Whitcomb) - listened to 6 times this week
+2. [Chappell Roan, Benny Benassi & Charli xcx](https://www.last.fm/music/Chappell+Roan,+Benny+Benassi+&+Charli+xcx) - listened to 6 times this week
+3. [Dua Lipa, Beyoncé & Lady Gaga](https://www.last.fm/music/Dua+Lipa,+Beyonc%C3%A9+&+Lady+Gaga) - listened to 6 times this week
+4. [Inhaler](https://www.last.fm/music/Inhaler) - listened to 6 times this week
+5. [M83 & Billie Eilish](https://www.last.fm/music/M83+&+Billie+Eilish) - listened to 6 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [A Question Of You](https://www.last.fm/music/Inhaler/_/A+Question+Of+You) - Inhaler (13 plays in the last 30 days)
+* [Hundred Mile High](https://www.last.fm/music/Cameron+Whitcomb/_/Hundred+Mile+High) - Cameron Whitcomb (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
