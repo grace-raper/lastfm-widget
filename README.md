@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Cameron Whitcomb](https://www.last.fm/music/Cameron+Whitcomb) - listened to 6 times this week
-2. [Chappell Roan, Benny Benassi & Charli xcx](https://www.last.fm/music/Chappell+Roan,+Benny+Benassi+&+Charli+xcx) - listened to 6 times this week
-3. [Dua Lipa, Beyoncé & Lady Gaga](https://www.last.fm/music/Dua+Lipa,+Beyonc%C3%A9+&+Lady+Gaga) - listened to 6 times this week
-4. [Inhaler](https://www.last.fm/music/Inhaler) - listened to 6 times this week
-5. [M83 & Billie Eilish](https://www.last.fm/music/M83+&+Billie+Eilish) - listened to 6 times this week
+1. [Yuneki](https://www.last.fm/music/Yuneki) - listened to 3 times this week
+2. [Dexter and The Moonrocks](https://www.last.fm/music/Dexter+and+The+Moonrocks) - listened to 2 times this week
+3. [Harper O'Neill](https://www.last.fm/music/Harper+O%27Neill) - listened to 2 times this week
+4. [JC Stewart](https://www.last.fm/music/JC+Stewart) - listened to 2 times this week
+5. [Jonah Kagen](https://www.last.fm/music/Jonah+Kagen) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Hundred Mile High](https://www.last.fm/music/Cameron+Whitcomb/_/Hundred+Mile+High) - Cameron Whitcomb (6 plays in the last 30 days)
+* [When Will This Body Be Mine?](https://www.last.fm/music/Yuneki/_/When+Will+This+Body+Be+Mine%3F) - Yuneki (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
