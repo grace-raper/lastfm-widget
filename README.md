@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Yuneki](https://www.last.fm/music/Yuneki) - listened to 3 times this week
-2. [Dexter and The Moonrocks](https://www.last.fm/music/Dexter+and+The+Moonrocks) - listened to 2 times this week
-3. [Harper O'Neill](https://www.last.fm/music/Harper+O%27Neill) - listened to 2 times this week
-4. [JC Stewart](https://www.last.fm/music/JC+Stewart) - listened to 2 times this week
-5. [Jonah Kagen](https://www.last.fm/music/Jonah+Kagen) - listened to 2 times this week
+1. [DYLYN](https://www.last.fm/music/DYLYN) - listened to 6 times this week
+2. [Humane The Moon](https://www.last.fm/music/Humane+The+Moon) - listened to 6 times this week
+3. [Landon Gamble](https://www.last.fm/music/Landon+Gamble) - listened to 6 times this week
+4. [Aqyila](https://www.last.fm/music/Aqyila) - listened to 5 times this week
+5. [BBY](https://www.last.fm/music/BBY) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [When Will This Body Be Mine?](https://www.last.fm/music/Yuneki/_/When+Will+This+Body+Be+Mine%3F) - Yuneki (3 plays in the last 30 days)
+* [Change Me](https://www.last.fm/music/DYLYN/_/Change+Me) - DYLYN (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
