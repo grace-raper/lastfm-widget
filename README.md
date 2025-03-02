@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [BBY](https://www.last.fm/music/BBY) - listened to 9 times this week
-2. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 9 times this week
-3. [DYLYN](https://www.last.fm/music/DYLYN) - listened to 9 times this week
-4. [Chalk](https://www.last.fm/music/Chalk) - listened to 8 times this week
-5. [Humane The Moon](https://www.last.fm/music/Humane+The+Moon) - listened to 8 times this week
+1. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 5 times this week
+2. [BBY](https://www.last.fm/music/BBY) - listened to 4 times this week
+3. [Khalid](https://www.last.fm/music/Khalid) - listened to 4 times this week
+4. [MØ](https://www.last.fm/music/M%C3%98) - listened to 4 times this week
+5. [Alba](https://www.last.fm/music/Alba) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Too High, Pt. 2 (feat. BigBoi0101)](https://www.last.fm/music/BBY/_/Too+High,+Pt.+2+(feat.+BigBoi0101)) - BBY (9 plays in the last 30 days)
+* [Two Times](https://www.last.fm/music/Blondshell/_/Two+Times) - Blondshell (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
