@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 5 times this week
-2. [BBY](https://www.last.fm/music/BBY) - listened to 4 times this week
-3. [Khalid](https://www.last.fm/music/Khalid) - listened to 4 times this week
-4. [MØ](https://www.last.fm/music/M%C3%98) - listened to 4 times this week
-5. [Alba](https://www.last.fm/music/Alba) - listened to 3 times this week
+1. [WARLUNG](https://www.last.fm/music/WARLUNG) - listened to 2 times this week
+2. [Brown Horse](https://www.last.fm/music/Brown+Horse) - listened to 1 times this week
+3. [CVC](https://www.last.fm/music/CVC) - listened to 1 times this week
+4. [Didier dlb](https://www.last.fm/music/Didier+dlb) - listened to 1 times this week
+5. [Halsey](https://www.last.fm/music/Halsey) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Two Times](https://www.last.fm/music/Blondshell/_/Two+Times) - Blondshell (5 plays in the last 30 days)
+* [Digital Smoke](https://www.last.fm/music/WARLUNG/_/Digital+Smoke) - WARLUNG (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
