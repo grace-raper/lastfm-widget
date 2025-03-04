@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [WARLUNG](https://www.last.fm/music/WARLUNG) - listened to 2 times this week
-2. [Brown Horse](https://www.last.fm/music/Brown+Horse) - listened to 1 times this week
-3. [CVC](https://www.last.fm/music/CVC) - listened to 1 times this week
-4. [Didier dlb](https://www.last.fm/music/Didier+dlb) - listened to 1 times this week
-5. [Halsey](https://www.last.fm/music/Halsey) - listened to 1 times this week
+1. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 82 times this week
+2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 71 times this week
+3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 67 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 53 times this week
+5. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 43 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Digital Smoke](https://www.last.fm/music/WARLUNG/_/Digital+Smoke) - WARLUNG (2 plays in the last 30 days)
+* [Diet Pepsi / Everytime We Touch (Mixed)](https://www.last.fm/music/Addison+Rae+&+Cascada/_/Diet+Pepsi+%2F+Everytime+We+Touch+(Mixed)) - Addison Rae & Cascada (17 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
