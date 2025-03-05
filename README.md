@@ -10,8 +10,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 1. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 82 times this week
 2. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 71 times this week
 3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 67 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 53 times this week
-5. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 43 times this week
+4. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 43 times this week
+5. [Hanni El Khatib](https://www.last.fm/music/Hanni+El+Khatib) - listened to 35 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
