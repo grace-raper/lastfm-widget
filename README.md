@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 71 times this week
-2. [Hanni El Khatib](https://www.last.fm/music/Hanni+El+Khatib) - listened to 35 times this week
-3. [Lenny Kravitz](https://www.last.fm/music/Lenny+Kravitz) - listened to 34 times this week
-4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 32 times this week
-5. [Mothé](https://www.last.fm/music/Moth%C3%A9) - listened to 25 times this week
+1. [Hanni El Khatib](https://www.last.fm/music/Hanni+El+Khatib) - listened to 35 times this week
+2. [Lenny Kravitz](https://www.last.fm/music/Lenny+Kravitz) - listened to 34 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 25 times this week
+4. [Mothé](https://www.last.fm/music/Moth%C3%A9) - listened to 25 times this week
+5. [Addison Rae & Cascada](https://www.last.fm/music/Addison+Rae+&+Cascada) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
