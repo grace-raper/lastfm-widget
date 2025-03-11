@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Lenny Kravitz](https://www.last.fm/music/Lenny+Kravitz) - listened to 34 times this week
-2. [Hanni El Khatib](https://www.last.fm/music/Hanni+El+Khatib) - listened to 32 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 25 times this week
-4. [Mothé](https://www.last.fm/music/Moth%C3%A9) - listened to 25 times this week
-5. [Addison Rae & Cascada](https://www.last.fm/music/Addison+Rae+&+Cascada) - listened to 17 times this week
+1. [Elton John](https://www.last.fm/music/Elton+John) - listened to 32 times this week
+2. [Hope Tala](https://www.last.fm/music/Hope+Tala) - listened to 16 times this week
+3. [Lenny Kravitz](https://www.last.fm/music/Lenny+Kravitz) - listened to 16 times this week
+4. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 14 times this week
+5. [Mothé](https://www.last.fm/music/Moth%C3%A9) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Diet Pepsi / Everytime We Touch (Mixed)](https://www.last.fm/music/Addison+Rae+&+Cascada/_/Diet+Pepsi+%2F+Everytime+We+Touch+(Mixed)) - Addison Rae & Cascada (17 plays in the last 30 days)
+* [American Woman](https://www.last.fm/music/Lenny+Kravitz/_/American+Woman) - Lenny Kravitz (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
