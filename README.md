@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Elton John](https://www.last.fm/music/Elton+John) - listened to 32 times this week
-2. [Hope Tala](https://www.last.fm/music/Hope+Tala) - listened to 16 times this week
-3. [Lenny Kravitz](https://www.last.fm/music/Lenny+Kravitz) - listened to 16 times this week
-4. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 14 times this week
-5. [Mothé](https://www.last.fm/music/Moth%C3%A9) - listened to 12 times this week
+2. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 24 times this week
+3. [Ashe](https://www.last.fm/music/Ashe) - listened to 23 times this week
+4. [Lenny Kravitz](https://www.last.fm/music/Lenny+Kravitz) - listened to 16 times this week
+5. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [American Woman](https://www.last.fm/music/Lenny+Kravitz/_/American+Woman) - Lenny Kravitz (3 plays in the last 30 days)
+* [So Sick of Dreaming](https://www.last.fm/music/Maggie+Rogers/_/So+Sick+of+Dreaming) - Maggie Rogers (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
