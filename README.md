@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Elton John](https://www.last.fm/music/Elton+John) - listened to 32 times this week
-2. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 24 times this week
-3. [Ashe](https://www.last.fm/music/Ashe) - listened to 23 times this week
-4. [Lenny Kravitz](https://www.last.fm/music/Lenny+Kravitz) - listened to 16 times this week
+1. [Ashe](https://www.last.fm/music/Ashe) - listened to 35 times this week
+2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 31 times this week
+3. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 24 times this week
+4. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 20 times this week
 5. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 14 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [So Sick of Dreaming](https://www.last.fm/music/Maggie+Rogers/_/So+Sick+of+Dreaming) - Maggie Rogers (4 plays in the last 30 days)
+* [SKINNY](https://www.last.fm/music/Billie+Eilish/_/SKINNY) - Billie Eilish (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
