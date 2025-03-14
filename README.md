@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Ashe](https://www.last.fm/music/Ashe) - listened to 35 times this week
 2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 31 times this week
-3. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 24 times this week
-4. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 20 times this week
-5. [Lady Gaga](https://www.last.fm/music/Lady+Gaga) - listened to 14 times this week
+3. [Britney Spears](https://www.last.fm/music/Britney+Spears) - listened to 24 times this week
+4. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 24 times this week
+5. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 20 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
