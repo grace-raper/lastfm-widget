@@ -8,9 +8,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Britney Spears](https://www.last.fm/music/Britney+Spears) - listened to 26 times this week
-2. [Ashe](https://www.last.fm/music/Ashe) - listened to 24 times this week
-3. [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac) - listened to 20 times this week
-4. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 12 times this week
+2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 16 times this week
+3. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 12 times this week
+4. [Ashe](https://www.last.fm/music/Ashe) - listened to 12 times this week
 5. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
