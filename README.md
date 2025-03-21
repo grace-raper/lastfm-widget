@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Britney Spears](https://www.last.fm/music/Britney+Spears) - listened to 26 times this week
-2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 16 times this week
-3. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 12 times this week
-4. [Ashe](https://www.last.fm/music/Ashe) - listened to 12 times this week
-5. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 12 times this week
+1. [Elton John](https://www.last.fm/music/Elton+John) - listened to 16 times this week
+2. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 12 times this week
+3. [Ashe](https://www.last.fm/music/Ashe) - listened to 12 times this week
+4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 12 times this week
+5. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Sweet Pea](https://www.last.fm/music/Camino+Gold/_/Sweet+Pea) - Camino Gold (3 plays in the last 30 days)
+* [American Bitch](https://www.last.fm/music/Between+Friends/_/American+Bitch) - Between Friends (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
