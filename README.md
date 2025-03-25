@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Elton John](https://www.last.fm/music/Elton+John) - listened to 16 times this week
-2. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 12 times this week
-3. [Ashe](https://www.last.fm/music/Ashe) - listened to 12 times this week
-4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 12 times this week
-5. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 10 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 27 times this week
+2. [Elton John](https://www.last.fm/music/Elton+John) - listened to 16 times this week
+3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 13 times this week
+4. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 12 times this week
+5. [Ashe](https://www.last.fm/music/Ashe) - listened to 12 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Good Ass Movie](https://www.last.fm/music/Annie+DiRusso/_/Good+Ass+Movie) - Annie DiRusso (5 plays in the last 30 days)
+* [Good Ass Movie](https://www.last.fm/music/Annie+DiRusso/_/Good+Ass+Movie) - Annie DiRusso (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
