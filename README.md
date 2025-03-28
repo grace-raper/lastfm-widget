@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 54 times this week
-2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 8 times this week
-3. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 7 times this week
-4. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 7 times this week
-5. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 7 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 58 times this week
+2. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 18 times this week
+3. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 13 times this week
+4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 11 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
