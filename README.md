@@ -10,13 +10,13 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 58 times this week
 2. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 18 times this week
 3. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 13 times this week
-4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 11 times this week
+4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 12 times this week
 5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Good Ass Movie](https://www.last.fm/music/Annie+DiRusso/_/Good+Ass+Movie) - Annie DiRusso (6 plays in the last 30 days)
+* [Good Ass Movie](https://www.last.fm/music/Annie+DiRusso/_/Good+Ass+Movie) - Annie DiRusso (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
