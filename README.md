@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 58 times this week
-2. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 18 times this week
-3. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 13 times this week
-4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 13 times this week
-5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 12 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 35 times this week
+2. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 26 times this week
+3. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 18 times this week
+4. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 18 times this week
+5. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 18 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Garden of Eden](https://www.last.fm/music/Lady+Gaga/_/Garden+of+Eden) - Lady Gaga (3 plays in the last 30 days)
+* [Growing Sideways](https://www.last.fm/music/Noah+Kahan/_/Growing+Sideways) - Noah Kahan (9 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
