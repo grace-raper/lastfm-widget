@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 26 times this week
+1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 22 times this week
 2. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 18 times this week
-3. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 18 times this week
-4. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 18 times this week
-5. [Cage the Elephant](https://www.last.fm/music/Cage+the+Elephant) - listened to 17 times this week
+3. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 18 times this week
+4. [Cage the Elephant](https://www.last.fm/music/Cage+the+Elephant) - listened to 17 times this week
+5. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 17 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
