@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 18 times this week
-2. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 18 times this week
-3. [Cage the Elephant](https://www.last.fm/music/Cage+the+Elephant) - listened to 17 times this week
-4. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 17 times this week
-5. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 17 times this week
+1. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 14 times this week
+2. [Cage the Elephant](https://www.last.fm/music/Cage+the+Elephant) - listened to 13 times this week
+3. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 13 times this week
+4. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 13 times this week
+5. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Growing Sideways](https://www.last.fm/music/Noah+Kahan/_/Growing+Sideways) - Noah Kahan (8 plays in the last 30 days)
+* [Growing Sideways](https://www.last.fm/music/Noah+Kahan/_/Growing+Sideways) - Noah Kahan (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
