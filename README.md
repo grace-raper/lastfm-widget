@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 14 times this week
-2. [Cage the Elephant](https://www.last.fm/music/Cage+the+Elephant) - listened to 13 times this week
-3. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 13 times this week
-4. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 13 times this week
-5. [The Head and the Heart](https://www.last.fm/music/The+Head+and+the+Heart) - listened to 13 times this week
+1. [Lucy Dacus](https://www.last.fm/music/Lucy+Dacus) - listened to 2 times this week
+2. [pictoria vark](https://www.last.fm/music/pictoria+vark) - listened to 2 times this week
+3. [Andy Grammer](https://www.last.fm/music/Andy+Grammer) - listened to 1 times this week
+4. [Black Map](https://www.last.fm/music/Black+Map) - listened to 1 times this week
+5. [David Kushner](https://www.last.fm/music/David+Kushner) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Growing Sideways](https://www.last.fm/music/Noah+Kahan/_/Growing+Sideways) - Noah Kahan (6 plays in the last 30 days)
+* [Limerence](https://www.last.fm/music/Lucy+Dacus/_/Limerence) - Lucy Dacus (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
