@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Lucy Dacus](https://www.last.fm/music/Lucy+Dacus) - listened to 2 times this week
-2. [pictoria vark](https://www.last.fm/music/pictoria+vark) - listened to 2 times this week
-3. [Andy Grammer](https://www.last.fm/music/Andy+Grammer) - listened to 1 times this week
-4. [Black Map](https://www.last.fm/music/Black+Map) - listened to 1 times this week
-5. [David Kushner](https://www.last.fm/music/David+Kushner) - listened to 1 times this week
+1. [Lucy Dacus](https://www.last.fm/music/Lucy+Dacus) - listened to 3 times this week
+2. [pictoria vark](https://www.last.fm/music/pictoria+vark) - listened to 3 times this week
+3. [Black Map](https://www.last.fm/music/Black+Map) - listened to 2 times this week
+4. [Kinlaw](https://www.last.fm/music/Kinlaw) - listened to 2 times this week
+5. [Annie-dog](https://www.last.fm/music/Annie-dog) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Limerence](https://www.last.fm/music/Lucy+Dacus/_/Limerence) - Lucy Dacus (2 plays in the last 30 days)
+* [Limerence](https://www.last.fm/music/Lucy+Dacus/_/Limerence) - Lucy Dacus (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
