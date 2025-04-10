@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [pictoria vark](https://www.last.fm/music/pictoria+vark) - listened to 3 times this week
 3. [Black Map](https://www.last.fm/music/Black+Map) - listened to 2 times this week
 4. [Kinlaw](https://www.last.fm/music/Kinlaw) - listened to 2 times this week
-5. [Annie-dog](https://www.last.fm/music/Annie-dog) - listened to 1 times this week
+5. [Mia Wray](https://www.last.fm/music/Mia+Wray) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
