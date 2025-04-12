@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [pictoria vark](https://www.last.fm/music/pictoria+vark) - listened to 10 times this week
-2. [Kinlaw](https://www.last.fm/music/Kinlaw) - listened to 9 times this week
-3. [Lucy Dacus](https://www.last.fm/music/Lucy+Dacus) - listened to 9 times this week
-4. [Annie-dog](https://www.last.fm/music/Annie-dog) - listened to 8 times this week
-5. [Black Map](https://www.last.fm/music/Black+Map) - listened to 8 times this week
+1. [Lucy Dacus](https://www.last.fm/music/Lucy+Dacus) - listened to 19 times this week
+2. [pictoria vark](https://www.last.fm/music/pictoria+vark) - listened to 19 times this week
+3. [Annie-dog](https://www.last.fm/music/Annie-dog) - listened to 18 times this week
+4. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 18 times this week
+5. [Divorce](https://www.last.fm/music/Divorce) - listened to 18 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Make Me A Sword](https://www.last.fm/music/pictoria+vark/_/Make+Me+A+Sword) - pictoria vark (10 plays in the last 30 days)
+* [Limerence](https://www.last.fm/music/Lucy+Dacus/_/Limerence) - Lucy Dacus (19 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
