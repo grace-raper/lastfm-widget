@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Claire Rosinkranz](https://www.last.fm/music/Claire+Rosinkranz) - listened to 25 times this week
-2. [Debby Friday](https://www.last.fm/music/Debby+Friday) - listened to 25 times this week
-3. [Evening Elephants](https://www.last.fm/music/Evening+Elephants) - listened to 25 times this week
-4. [Gwen Stefani](https://www.last.fm/music/Gwen+Stefani) - listened to 25 times this week
-5. [Hot Milk](https://www.last.fm/music/Hot+Milk) - listened to 25 times this week
+1. [Claire Rosinkranz](https://www.last.fm/music/Claire+Rosinkranz) - listened to 41 times this week
+2. [Debby Friday](https://www.last.fm/music/Debby+Friday) - listened to 41 times this week
+3. [Evening Elephants](https://www.last.fm/music/Evening+Elephants) - listened to 41 times this week
+4. [Hot Milk](https://www.last.fm/music/Hot+Milk) - listened to 41 times this week
+5. [The Murder Capital](https://www.last.fm/music/The+Murder+Capital) - listened to 41 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Lucy](https://www.last.fm/music/Claire+Rosinkranz/_/Lucy) - Claire Rosinkranz (25 plays in the last 30 days)
+* [Lucy](https://www.last.fm/music/Claire+Rosinkranz/_/Lucy) - Claire Rosinkranz (41 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
