@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Debby Friday](https://www.last.fm/music/Debby+Friday) - listened to 44 times this week
 2. [Evening Elephants](https://www.last.fm/music/Evening+Elephants) - listened to 44 times this week
-3. [The Murder Capital](https://www.last.fm/music/The+Murder+Capital) - listened to 44 times this week
-4. [Brittany Broski](https://www.last.fm/music/Brittany+Broski) - listened to 43 times this week
-5. [Calvin Harris](https://www.last.fm/music/Calvin+Harris) - listened to 43 times this week
+3. [Hot Milk](https://www.last.fm/music/Hot+Milk) - listened to 44 times this week
+4. [Presley Regier](https://www.last.fm/music/Presley+Regier) - listened to 44 times this week
+5. [The Murder Capital](https://www.last.fm/music/The+Murder+Capital) - listened to 44 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
