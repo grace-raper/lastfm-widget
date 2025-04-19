@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Debby Friday](https://www.last.fm/music/Debby+Friday) - listened to 44 times this week
-2. [Evening Elephants](https://www.last.fm/music/Evening+Elephants) - listened to 44 times this week
-3. [Hot Milk](https://www.last.fm/music/Hot+Milk) - listened to 44 times this week
-4. [Presley Regier](https://www.last.fm/music/Presley+Regier) - listened to 44 times this week
-5. [The Murder Capital](https://www.last.fm/music/The+Murder+Capital) - listened to 44 times this week
+1. [Debby Friday](https://www.last.fm/music/Debby+Friday) - listened to 37 times this week
+2. [Evening Elephants](https://www.last.fm/music/Evening+Elephants) - listened to 37 times this week
+3. [HAIM](https://www.last.fm/music/HAIM) - listened to 37 times this week
+4. [Hot Milk](https://www.last.fm/music/Hot+Milk) - listened to 37 times this week
+5. [Inhaler](https://www.last.fm/music/Inhaler) - listened to 37 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [1/17](https://www.last.fm/music/Debby+Friday/_/1%2F17) - Debby Friday (44 plays in the last 30 days)
+* [1/17](https://www.last.fm/music/Debby+Friday/_/1%2F17) - Debby Friday (37 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
