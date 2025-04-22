@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Inhaler](https://www.last.fm/music/Inhaler) - listened to 4 times this week
-2. [Presley Regier](https://www.last.fm/music/Presley+Regier) - listened to 4 times this week
-3. [Brittany Broski](https://www.last.fm/music/Brittany+Broski) - listened to 3 times this week
-4. [Brown Horse](https://www.last.fm/music/Brown+Horse) - listened to 3 times this week
+1. [Addison Rae](https://www.last.fm/music/Addison+Rae) - listened to 1 times this week
+2. [Hot Milk](https://www.last.fm/music/Hot+Milk) - listened to 1 times this week
+3. [Michigander](https://www.last.fm/music/Michigander) - listened to 1 times this week
+4. [Presley Regier](https://www.last.fm/music/Presley+Regier) - listened to 1 times this week
 5. [Calvin Harris](https://www.last.fm/music/Calvin+Harris) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Even Though](https://www.last.fm/music/Inhaler/_/Even+Though) - Inhaler (4 plays in the last 30 days)
+* [Headphones On](https://www.last.fm/music/Addison+Rae/_/Headphones+On) - Addison Rae (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
