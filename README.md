@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Addison Rae](https://www.last.fm/music/Addison+Rae) - listened to 1 times this week
-2. [Hot Milk](https://www.last.fm/music/Hot+Milk) - listened to 1 times this week
-3. [Michigander](https://www.last.fm/music/Michigander) - listened to 1 times this week
-4. [Presley Regier](https://www.last.fm/music/Presley+Regier) - listened to 1 times this week
-5. [Calvin Harris](https://www.last.fm/music/Calvin+Harris) - listened to 3 times this week
+2. [Good Neighbours](https://www.last.fm/music/Good+Neighbours) - listened to 1 times this week
+3. [Hot Milk](https://www.last.fm/music/Hot+Milk) - listened to 1 times this week
+4. [Keo](https://www.last.fm/music/Keo) - listened to 1 times this week
+5. [Michigander](https://www.last.fm/music/Michigander) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
