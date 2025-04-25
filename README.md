@@ -9,9 +9,9 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Addison Rae](https://www.last.fm/music/Addison+Rae) - listened to 1 times this week
 2. [Good Neighbours](https://www.last.fm/music/Good+Neighbours) - listened to 1 times this week
-3. [Hot Milk](https://www.last.fm/music/Hot+Milk) - listened to 1 times this week
-4. [Keo](https://www.last.fm/music/Keo) - listened to 1 times this week
-5. [Michigander](https://www.last.fm/music/Michigander) - listened to 1 times this week
+3. [Keo](https://www.last.fm/music/Keo) - listened to 1 times this week
+4. [Michigander](https://www.last.fm/music/Michigander) - listened to 1 times this week
+5. [The Lathums](https://www.last.fm/music/The+Lathums) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
