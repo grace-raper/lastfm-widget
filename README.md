@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Addison Rae](https://www.last.fm/music/Addison+Rae) - listened to 1 times this week
-2. [Good Neighbours](https://www.last.fm/music/Good+Neighbours) - listened to 1 times this week
-3. [Keo](https://www.last.fm/music/Keo) - listened to 1 times this week
+1. [Good Neighbours](https://www.last.fm/music/Good+Neighbours) - listened to 1 times this week
+2. [Keo](https://www.last.fm/music/Keo) - listened to 1 times this week
+3. [The Lathums](https://www.last.fm/music/The+Lathums) - listened to 1 times this week
 4. [Michigander](https://www.last.fm/music/Michigander) - listened to 1 times this week
 5. [The Lathums](https://www.last.fm/music/The+Lathums) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Headphones On](https://www.last.fm/music/Addison+Rae/_/Headphones+On) - Addison Rae (1 plays in the last 30 days)
+* [Ripple (Apple Music Session)](https://www.last.fm/music/Good+Neighbours/_/Ripple+(Apple+Music+Session)) - Good Neighbours (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
