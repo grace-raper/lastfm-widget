@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Sun Child](https://www.last.fm/music/Sun+Child) - listened to 1 times this week
-2. [Keo](https://www.last.fm/music/Keo) - listened to 1 times this week
-3. [The Lathums](https://www.last.fm/music/The+Lathums) - listened to 1 times this week
-4. [Michigander](https://www.last.fm/music/Michigander) - listened to 1 times this week
-5. [The Lathums](https://www.last.fm/music/The+Lathums) - listened to 1 times this week
+1. [Andy Grammer](https://www.last.fm/music/Andy+Grammer) - listened to 7 times this week
+2. [Bayli](https://www.last.fm/music/Bayli) - listened to 7 times this week
+3. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 7 times this week
+4. [Calamity Cowboy](https://www.last.fm/music/Calamity+Cowboy) - listened to 7 times this week
+5. [Cleopatrick](https://www.last.fm/music/Cleopatrick) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Snooze](https://www.last.fm/music/Sun+Child/_/Snooze) - Sun Child (1 plays in the last 30 days)
+* [Fresh Eyes (Stripped)](https://www.last.fm/music/Andy+Grammer/_/Fresh+Eyes+(Stripped)) - Andy Grammer (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
