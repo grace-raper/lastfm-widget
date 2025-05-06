@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Andy Grammer](https://www.last.fm/music/Andy+Grammer) - listened to 7 times this week
-2. [Bayli](https://www.last.fm/music/Bayli) - listened to 7 times this week
-3. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 7 times this week
-4. [Calamity Cowboy](https://www.last.fm/music/Calamity+Cowboy) - listened to 7 times this week
-5. [Cleopatrick](https://www.last.fm/music/Cleopatrick) - listened to 7 times this week
+1. [Andy Grammer](https://www.last.fm/music/Andy+Grammer) - listened to 9 times this week
+2. [Malcolm Todd](https://www.last.fm/music/Malcolm+Todd) - listened to 9 times this week
+3. [Mumford & Sons](https://www.last.fm/music/Mumford+&+Sons) - listened to 9 times this week
+4. [Bayli](https://www.last.fm/music/Bayli) - listened to 8 times this week
+5. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 8 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Fresh Eyes (Stripped)](https://www.last.fm/music/Andy+Grammer/_/Fresh+Eyes+(Stripped)) - Andy Grammer (7 plays in the last 30 days)
+* [Fresh Eyes (Stripped)](https://www.last.fm/music/Andy+Grammer/_/Fresh+Eyes+(Stripped)) - Andy Grammer (9 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
