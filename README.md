@@ -11,7 +11,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 2. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 13 times this week
 3. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 13 times this week
 4. [d4vd](https://www.last.fm/music/d4vd) - listened to 13 times this week
-5. [girlpuppy](https://www.last.fm/music/girlpuppy) - listened to 13 times this week
+5. [Gigi Perez](https://www.last.fm/music/Gigi+Perez) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
