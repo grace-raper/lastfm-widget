@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Malcolm Todd](https://www.last.fm/music/Malcolm+Todd) - listened to 14 times this week
-2. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 13 times this week
-3. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 13 times this week
-4. [d4vd](https://www.last.fm/music/d4vd) - listened to 13 times this week
-5. [Gigi Perez](https://www.last.fm/music/Gigi+Perez) - listened to 13 times this week
+1. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 8 times this week
+2. [Malcolm Todd](https://www.last.fm/music/Malcolm+Todd) - listened to 8 times this week
+3. [Tidal Volume](https://www.last.fm/music/Tidal+Volume) - listened to 8 times this week
+4. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 7 times this week
+5. [Gigi Perez](https://www.last.fm/music/Gigi+Perez) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Cheer Me On](https://www.last.fm/music/Malcolm+Todd/_/Cheer+Me+On) - Malcolm Todd (14 plays in the last 30 days)
+* [Event of a Fire](https://www.last.fm/music/Blondshell/_/Event+of+a+Fire) - Blondshell (8 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
