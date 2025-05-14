@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 6 times this week
-2. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 6 times this week
-3. [Gigi Perez](https://www.last.fm/music/Gigi+Perez) - listened to 6 times this week
-4. [Good Neighbours](https://www.last.fm/music/Good+Neighbours) - listened to 6 times this week
-5. [Malcolm Todd](https://www.last.fm/music/Malcolm+Todd) - listened to 6 times this week
+1. [Bayli](https://www.last.fm/music/Bayli) - listened to 3 times this week
+2. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 3 times this week
+3. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 3 times this week
+4. [Gigi Perez](https://www.last.fm/music/Gigi+Perez) - listened to 3 times this week
+5. [Malcolm Todd](https://www.last.fm/music/Malcolm+Todd) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Feel Something](https://www.last.fm/music/Bleach+Lab/_/Feel+Something) - Bleach Lab (6 plays in the last 30 days)
+* [SUGARCOAT](https://www.last.fm/music/Bayli/_/SUGARCOAT) - Bayli (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
