@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Bayli](https://www.last.fm/music/Bayli) - listened to 3 times this week
-2. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 3 times this week
-3. [Blondshell](https://www.last.fm/music/Blondshell) - listened to 3 times this week
-4. [Gigi Perez](https://www.last.fm/music/Gigi+Perez) - listened to 3 times this week
-5. [Malcolm Todd](https://www.last.fm/music/Malcolm+Todd) - listened to 3 times this week
+1. [Gigi Perez](https://www.last.fm/music/Gigi+Perez) - listened to 2 times this week
+2. [Miley Cyrus](https://www.last.fm/music/Miley+Cyrus) - listened to 2 times this week
+3. [Samia](https://www.last.fm/music/Samia) - listened to 2 times this week
+4. [Tidal Volume](https://www.last.fm/music/Tidal+Volume) - listened to 2 times this week
+5. [Bayli](https://www.last.fm/music/Bayli) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [SUGARCOAT](https://www.last.fm/music/Bayli/_/SUGARCOAT) - Bayli (3 plays in the last 30 days)
+* [At The Beach, In Every Life](https://www.last.fm/music/Gigi+Perez/_/At+The+Beach,+In+Every+Life) - Gigi Perez (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
