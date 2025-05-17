@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Samia](https://www.last.fm/music/Samia) - listened to 2 times this week
-2. [Bayli](https://www.last.fm/music/Bayli) - listened to 1 times this week
-3. [Beeson](https://www.last.fm/music/Beeson) - listened to 1 times this week
-4. [Betty Who](https://www.last.fm/music/Betty+Who) - listened to 1 times this week
-5. [Bleach Lab](https://www.last.fm/music/Bleach+Lab) - listened to 1 times this week
+1. [Samia](https://www.last.fm/music/Samia) - listened to 1 times this week
+2. [Selena Gomez & benny blanco](https://www.last.fm/music/Selena+Gomez+&+benny+blanco) - listened to 1 times this week
+3. [The Cheap Thrills](https://www.last.fm/music/The+Cheap+Thrills) - listened to 1 times this week
+4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 1 times this week
+5. [The Marías](https://www.last.fm/music/The+Mar%C3%ADas) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [North Poles](https://www.last.fm/music/Samia/_/North+Poles) - Samia (2 plays in the last 30 days)
+* [North Poles](https://www.last.fm/music/Samia/_/North+Poles) - Samia (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
