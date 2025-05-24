@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Samia](https://www.last.fm/music/Samia) - listened to 1 times this week
-2. [Selena Gomez & benny blanco](https://www.last.fm/music/Selena+Gomez+&+benny+blanco) - listened to 1 times this week
-3. [The Cheap Thrills](https://www.last.fm/music/The+Cheap+Thrills) - listened to 1 times this week
-4. [The Lumineers](https://www.last.fm/music/The+Lumineers) - listened to 1 times this week
-5. [The Marías](https://www.last.fm/music/The+Mar%C3%ADas) - listened to 1 times this week
+1. [Alex Warren](https://www.last.fm/music/Alex+Warren) - listened to 1 times this week
+2. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 1 times this week
+3. [Divorce](https://www.last.fm/music/Divorce) - listened to 1 times this week
+4. [Sydney Sprague](https://www.last.fm/music/Sydney+Sprague) - listened to 1 times this week
+5. [The Divine Comedy](https://www.last.fm/music/The+Divine+Comedy) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [North Poles](https://www.last.fm/music/Samia/_/North+Poles) - Samia (1 plays in the last 30 days)
+* [Bloodline (with Jelly Roll)](https://www.last.fm/music/Alex+Warren/_/Bloodline+(with+Jelly+Roll)) - Alex Warren (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
