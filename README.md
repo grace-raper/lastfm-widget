@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Alex Warren](https://www.last.fm/music/Alex+Warren) - listened to 1 times this week
-2. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 1 times this week
-3. [Divorce](https://www.last.fm/music/Divorce) - listened to 1 times this week
-4. [Sydney Sprague](https://www.last.fm/music/Sydney+Sprague) - listened to 1 times this week
-5. [The Divine Comedy](https://www.last.fm/music/The+Divine+Comedy) - listened to 1 times this week
+1. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 2 times this week
+2. [Divorce](https://www.last.fm/music/Divorce) - listened to 2 times this week
+3. [Alex Warren](https://www.last.fm/music/Alex+Warren) - listened to 1 times this week
+4. [Beeson](https://www.last.fm/music/Beeson) - listened to 1 times this week
+5. [Debbii Dawson](https://www.last.fm/music/Debbii+Dawson) - listened to 1 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Bloodline (with Jelly Roll)](https://www.last.fm/music/Alex+Warren/_/Bloodline+(with+Jelly+Roll)) - Alex Warren (1 plays in the last 30 days)
+* [Us Three](https://www.last.fm/music/Charlotte+Lawrence/_/Us+Three) - Charlotte Lawrence (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
