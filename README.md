@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Divorce](https://www.last.fm/music/Divorce) - listened to 4 times this week
-2. [Alex Warren](https://www.last.fm/music/Alex+Warren) - listened to 3 times this week
-3. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 3 times this week
-4. [Beeson](https://www.last.fm/music/Beeson) - listened to 2 times this week
-5. [Debbii Dawson](https://www.last.fm/music/Debbii+Dawson) - listened to 2 times this week
+1. [Divorce](https://www.last.fm/music/Divorce) - listened to 6 times this week
+2. [Alex Warren](https://www.last.fm/music/Alex+Warren) - listened to 5 times this week
+3. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 5 times this week
+4. [Turnstile](https://www.last.fm/music/Turnstile) - listened to 5 times this week
+5. [Beeson](https://www.last.fm/music/Beeson) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Hangman](https://www.last.fm/music/Divorce/_/Hangman) - Divorce (4 plays in the last 30 days)
+* [Hangman](https://www.last.fm/music/Divorce/_/Hangman) - Divorce (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
