@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 8 times this week
-2. [Divorce](https://www.last.fm/music/Divorce) - listened to 8 times this week
-3. [Debbii Dawson](https://www.last.fm/music/Debbii+Dawson) - listened to 7 times this week
+1. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 7 times this week
+2. [Debbii Dawson](https://www.last.fm/music/Debbii+Dawson) - listened to 7 times this week
+3. [Divorce](https://www.last.fm/music/Divorce) - listened to 7 times this week
 4. [The Technicolors](https://www.last.fm/music/The+Technicolors) - listened to 7 times this week
 5. [Turnstile](https://www.last.fm/music/Turnstile) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Us Three](https://www.last.fm/music/Charlotte+Lawrence/_/Us+Three) - Charlotte Lawrence (8 plays in the last 30 days)
+* [Us Three](https://www.last.fm/music/Charlotte+Lawrence/_/Us+Three) - Charlotte Lawrence (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
