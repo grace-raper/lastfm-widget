@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 5 times this week
-2. [Debbii Dawson](https://www.last.fm/music/Debbii+Dawson) - listened to 5 times this week
-3. [The Technicolors](https://www.last.fm/music/The+Technicolors) - listened to 5 times this week
-4. [Turnstile](https://www.last.fm/music/Turnstile) - listened to 5 times this week
-5. [Bon Iver](https://www.last.fm/music/Bon+Iver) - listened to 4 times this week
+1. [Andy Grammer](https://www.last.fm/music/Andy+Grammer) - listened to 3 times this week
+2. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 3 times this week
+3. [Chitra](https://www.last.fm/music/Chitra) - listened to 3 times this week
+4. [d4vd](https://www.last.fm/music/d4vd) - listened to 3 times this week
+5. [Debbii Dawson](https://www.last.fm/music/Debbii+Dawson) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Us Three](https://www.last.fm/music/Charlotte+Lawrence/_/Us+Three) - Charlotte Lawrence (5 plays in the last 30 days)
+* [Magic (Stripped)](https://www.last.fm/music/Andy+Grammer/_/Magic+(Stripped)) - Andy Grammer (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
