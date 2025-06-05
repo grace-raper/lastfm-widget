@@ -8,10 +8,10 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Andy Grammer](https://www.last.fm/music/Andy+Grammer) - listened to 3 times this week
-2. [Charlotte Lawrence](https://www.last.fm/music/Charlotte+Lawrence) - listened to 3 times this week
-3. [Chitra](https://www.last.fm/music/Chitra) - listened to 3 times this week
-4. [d4vd](https://www.last.fm/music/d4vd) - listened to 3 times this week
-5. [Debbii Dawson](https://www.last.fm/music/Debbii+Dawson) - listened to 3 times this week
+2. [Chitra](https://www.last.fm/music/Chitra) - listened to 3 times this week
+3. [d4vd](https://www.last.fm/music/d4vd) - listened to 3 times this week
+4. [Demise of Love](https://www.last.fm/music/Demise+of+Love) - listened to 3 times this week
+5. [Destin Conrad](https://www.last.fm/music/Destin+Conrad) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
