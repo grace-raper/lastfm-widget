@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Andy Grammer](https://www.last.fm/music/Andy+Grammer) - listened to 3 times this week
-2. [Chitra](https://www.last.fm/music/Chitra) - listened to 3 times this week
-3. [d4vd](https://www.last.fm/music/d4vd) - listened to 3 times this week
-4. [Demise of Love](https://www.last.fm/music/Demise+of+Love) - listened to 3 times this week
-5. [Destin Conrad](https://www.last.fm/music/Destin+Conrad) - listened to 3 times this week
+1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 52 times this week
+2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 37 times this week
+3. [The Beaches](https://www.last.fm/music/The+Beaches) - listened to 28 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 23 times this week
+5. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 23 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Magic (Stripped)](https://www.last.fm/music/Andy+Grammer/_/Magic+(Stripped)) - Andy Grammer (3 plays in the last 30 days)
+* [The Kill](https://www.last.fm/music/Maggie+Rogers/_/The+Kill) - Maggie Rogers (23 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
