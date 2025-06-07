@@ -8,7 +8,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 52 times this week
-2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 37 times this week
+2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 30 times this week
 3. [The Beaches](https://www.last.fm/music/The+Beaches) - listened to 28 times this week
 4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 23 times this week
 5. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 23 times this week
