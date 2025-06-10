@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 53 times this week
-2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 31 times this week
-3. [The Beaches](https://www.last.fm/music/The+Beaches) - listened to 28 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 24 times this week
-5. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 23 times this week
+2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 28 times this week
+3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 24 times this week
+4. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 13 times this week
+5. [Kashus Culpepper](https://www.last.fm/music/Kashus+Culpepper) - listened to 11 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [The Kill](https://www.last.fm/music/Maggie+Rogers/_/The+Kill) - Maggie Rogers (23 plays in the last 30 days)
+* [WILDFLOWER](https://www.last.fm/music/Billie+Eilish/_/WILDFLOWER) - Billie Eilish (22 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
