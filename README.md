@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 53 times this week
-2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 39 times this week
-3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 28 times this week
-4. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 20 times this week
-5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 17 times this week
+2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 36 times this week
+3. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 32 times this week
+4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 25 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 21 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [WILDFLOWER](https://www.last.fm/music/Billie+Eilish/_/WILDFLOWER) - Billie Eilish (23 plays in the last 30 days)
+* [Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste) - Sabrina Carpenter (13 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
