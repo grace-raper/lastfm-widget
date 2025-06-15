@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [DON'T WANNA GO HOME](https://www.last.fm/music/Adrien+Nunez/_/DON%27T+WANNA+GO+HOME) - Adrien Nunez (9 plays in the last 30 days)
+* [DON'T WANNA GO HOME](https://www.last.fm/music/Adrien+Nunez/_/DON%27T+WANNA+GO+HOME) - Adrien Nunez (8 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
