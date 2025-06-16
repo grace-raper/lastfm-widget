@@ -8,15 +8,15 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 32 times this week
-2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 25 times this week
-3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 24 times this week
-4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 21 times this week
-5. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 21 times this week
+2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 24 times this week
+3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 23 times this week
+4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 21 times this week
+5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 19 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [DON'T WANNA GO HOME](https://www.last.fm/music/Adrien+Nunez/_/DON%27T+WANNA+GO+HOME) - Adrien Nunez (8 plays in the last 30 days)
+* [DON'T WANNA GO HOME](https://www.last.fm/music/Adrien+Nunez/_/DON%27T+WANNA+GO+HOME) - Adrien Nunez (7 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
