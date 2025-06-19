@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 15 times this week
-2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 8 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 7 times this week
-4. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 7 times this week
-5. [Post Malone](https://www.last.fm/music/Post+Malone) - listened to 7 times this week
+1. [Kneecap](https://www.last.fm/music/Kneecap) - listened to 4 times this week
+2. [Elmiene](https://www.last.fm/music/Elmiene) - listened to 3 times this week
+3. [Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C.) - listened to 3 times this week
+4. [Honey Bxby](https://www.last.fm/music/Honey+Bxby) - listened to 3 times this week
+5. [Margo Price](https://www.last.fm/music/Margo+Price) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Seven Weeks In County](https://www.last.fm/music/Billy+Strings/_/Seven+Weeks+In+County) - Billy Strings (3 plays in the last 30 days)
+* [Laying In His Bed](https://www.last.fm/music/Honey+Bxby/_/Laying+In+His+Bed) - Honey Bxby (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
