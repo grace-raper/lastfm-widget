@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Kneecap](https://www.last.fm/music/Kneecap) - listened to 4 times this week
-2. [Elmiene](https://www.last.fm/music/Elmiene) - listened to 3 times this week
-3. [Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C.) - listened to 3 times this week
-4. [Honey Bxby](https://www.last.fm/music/Honey+Bxby) - listened to 3 times this week
-5. [Margo Price](https://www.last.fm/music/Margo+Price) - listened to 3 times this week
+1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 4 times this week
+2. [Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex) - listened to 4 times this week
+3. [Elmiene](https://www.last.fm/music/Elmiene) - listened to 4 times this week
+4. [Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C.) - listened to 4 times this week
+5. [Kneecap](https://www.last.fm/music/Kneecap) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
