@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Laying In His Bed](https://www.last.fm/music/Honey+Bxby/_/Laying+In+His+Bed) - Honey Bxby (3 plays in the last 30 days)
+* [High Speed Chasing](https://www.last.fm/music/B%C3%98RNS/_/High+Speed+Chasing) - BØRNS (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
