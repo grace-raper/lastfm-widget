@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 4 times this week
-2. [Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex) - listened to 4 times this week
-3. [Elmiene](https://www.last.fm/music/Elmiene) - listened to 4 times this week
-4. [Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C.) - listened to 4 times this week
-5. [Kneecap](https://www.last.fm/music/Kneecap) - listened to 4 times this week
+1. [Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex) - listened to 4 times this week
+2. [Allison Ponthier](https://www.last.fm/music/Allison+Ponthier) - listened to 3 times this week
+3. [Cat Burns](https://www.last.fm/music/Cat+Burns) - listened to 3 times this week
+4. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 3 times this week
+5. [Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C.) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [High Speed Chasing](https://www.last.fm/music/B%C3%98RNS/_/High+Speed+Chasing) - BØRNS (2 plays in the last 30 days)
+* [Neon Pill](https://www.last.fm/music/Cage+the+Elephant/_/Neon+Pill) - Cage the Elephant (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
