@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex) - listened to 4 times this week
-2. [Allison Ponthier](https://www.last.fm/music/Allison+Ponthier) - listened to 3 times this week
-3. [Cat Burns](https://www.last.fm/music/Cat+Burns) - listened to 3 times this week
-4. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 3 times this week
-5. [Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C.) - listened to 3 times this week
+1. [The Black Keys](https://www.last.fm/music/The+Black+Keys) - listened to 3 times this week
+2. [Yard Act](https://www.last.fm/music/Yard+Act) - listened to 3 times this week
+3. [Alicia Creti](https://www.last.fm/music/Alicia+Creti) - listened to 2 times this week
+4. [Allison Ponthier](https://www.last.fm/music/Allison+Ponthier) - listened to 2 times this week
+5. [Berwyn](https://www.last.fm/music/Berwyn) - listened to 2 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
