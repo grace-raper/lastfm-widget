@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Black Keys](https://www.last.fm/music/The+Black+Keys) - listened to 3 times this week
+1. [HAIM](https://www.last.fm/music/HAIM) - listened to 2 times this week
 2. [Yard Act](https://www.last.fm/music/Yard+Act) - listened to 3 times this week
 3. [Alicia Creti](https://www.last.fm/music/Alicia+Creti) - listened to 2 times this week
 4. [Allison Ponthier](https://www.last.fm/music/Allison+Ponthier) - listened to 2 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Neon Pill](https://www.last.fm/music/Cage+the+Elephant/_/Neon+Pill) - Cage the Elephant (2 plays in the last 30 days)
+* [All Over Me](https://www.last.fm/music/HAIM/_/All+Over+Me) - HAIM (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
