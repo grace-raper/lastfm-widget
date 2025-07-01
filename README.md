@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [HAIM](https://www.last.fm/music/HAIM) - listened to 2 times this week
-2. [Yard Act](https://www.last.fm/music/Yard+Act) - listened to 3 times this week
-3. [Alicia Creti](https://www.last.fm/music/Alicia+Creti) - listened to 2 times this week
-4. [Allison Ponthier](https://www.last.fm/music/Allison+Ponthier) - listened to 2 times this week
-5. [Berwyn](https://www.last.fm/music/Berwyn) - listened to 2 times this week
+1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 51 times this week
+2. [Aidan Bissett](https://www.last.fm/music/Aidan+Bissett) - listened to 23 times this week
+3. [Sam Fender & Olivia Dean](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean) - listened to 23 times this week
+4. [Dayglow](https://www.last.fm/music/Dayglow) - listened to 20 times this week
+5. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 15 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [All Over Me](https://www.last.fm/music/HAIM/_/All+Over+Me) - HAIM (1 plays in the last 30 days)
+* [Rein Me In](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean/_/Rein+Me+In) - Sam Fender & Olivia Dean (23 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
