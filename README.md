@@ -7,11 +7,11 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 51 times this week
-2. [Aidan Bissett](https://www.last.fm/music/Aidan+Bissett) - listened to 23 times this week
-3. [Sam Fender & Olivia Dean](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean) - listened to 23 times this week
-4. [Dayglow](https://www.last.fm/music/Dayglow) - listened to 20 times this week
-5. [ROLE MODEL](https://www.last.fm/music/ROLE+MODEL) - listened to 15 times this week
+1. [Sam Fender & Olivia Dean](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean) - listened to 23 times this week
+2. [Aidan Bissett](https://www.last.fm/music/Aidan+Bissett) - listened to 20 times this week
+3. [Dayglow](https://www.last.fm/music/Dayglow) - listened to 20 times this week
+4. [Sam Fender](https://www.last.fm/music/Sam+Fender) - listened to 15 times this week
+5. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
