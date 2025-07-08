@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Aidan Bissett](https://www.last.fm/music/Aidan+Bissett) - listened to 20 times this week
-2. [Dayglow](https://www.last.fm/music/Dayglow) - listened to 20 times this week
-3. [Sam Fender & Olivia Dean](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean) - listened to 16 times this week
-4. [The Driver Era](https://www.last.fm/music/The+Driver+Era) - listened to 13 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 5 times this week
+1. [Tucker Wetmore](https://www.last.fm/music/Tucker+Wetmore) - listened to 23 times this week
+2. [Bailey Zimmerman](https://www.last.fm/music/Bailey+Zimmerman) - listened to 3 times this week
+3. [Luke Combs](https://www.last.fm/music/Luke+Combs) - listened to 3 times this week
+4. [Morgan Wallen](https://www.last.fm/music/Morgan+Wallen) - listened to 3 times this week
+5. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Rein Me In](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean/_/Rein+Me+In) - Sam Fender & Olivia Dean (16 plays in the last 30 days)
+* [Young Dumb & Broke](https://www.last.fm/music/Khalid/_/Young+Dumb+&+Broke) - Khalid (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
