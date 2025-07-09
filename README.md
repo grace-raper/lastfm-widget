@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Young Dumb & Broke](https://www.last.fm/music/Khalid/_/Young+Dumb+&+Broke) - Khalid (2 plays in the last 30 days)
+* [Mister Miss Her](https://www.last.fm/music/Tucker+Wetmore/_/Mister+Miss+Her) - Tucker Wetmore (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
