@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Tucker Wetmore](https://www.last.fm/music/Tucker+Wetmore) - listened to 23 times this week
-2. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 12 times this week
-3. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 5 times this week
-4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 4 times this week
-5. [Sam Fender & Olivia Dean](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean) - listened to 4 times this week
+1. [Reneé Rapp](https://www.last.fm/music/Rene%C3%A9+Rapp) - listened to 12 times this week
+2. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 10 times this week
+3. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 9 times this week
+4. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 8 times this week
+5. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Rein Me In](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean/_/Rein+Me+In) - Sam Fender & Olivia Dean (4 plays in the last 30 days)
+* [same mouth](https://www.last.fm/music/Alessi+Rose/_/same+mouth) - Alessi Rose (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
