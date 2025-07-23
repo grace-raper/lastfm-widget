@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 12 times this week
-2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 10 times this week
-3. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 10 times this week
-4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 9 times this week
-5. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 9 times this week
+1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 13 times this week
+2. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 12 times this week
+3. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 11 times this week
+4. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 10 times this week
+5. [Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo) - listened to 10 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Rein Me In](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean/_/Rein+Me+In) - Sam Fender & Olivia Dean (5 plays in the last 30 days)
+* [New Rules](https://www.last.fm/music/Dua+Lipa/_/New+Rules) - Dua Lipa (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
