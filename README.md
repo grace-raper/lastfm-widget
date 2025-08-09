@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) - listened to 7 times this week
-2. [Tate McRae](https://www.last.fm/music/Tate+McRae) - listened to 7 times this week
-3. [Alessi Rose](https://www.last.fm/music/Alessi+Rose) - listened to 6 times this week
+1. [Amy Winehouse](https://www.last.fm/music/Amy+Winehouse) - listened to 29 times this week
+2. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 12 times this week
+3. [Sam Fender & Olivia Dean](https://www.last.fm/music/Sam+Fender+&+Olivia+Dean) - listened to 1 times this week
 4. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 6 times this week
 5. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 5 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Good Luck, Babe!](https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe!) - Chappell Roan (2 plays in the last 30 days)
+* [Best Friends, Right? (Live At The Leicester Summer Sundae / 2004)](https://www.last.fm/music/Amy+Winehouse/_/Best+Friends,+Right%3F+(Live+At+The+Leicester+Summer+Sundae+%2F+2004)) - Amy Winehouse (1 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
