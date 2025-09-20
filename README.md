@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 15 times this week
-2. [Lola Young](https://www.last.fm/music/Lola+Young) - listened to 5 times this week
-3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 4 times this week
+1. [The Favors, FINNEAS & Ashe](https://www.last.fm/music/The+Favors,+FINNEAS+&+Ashe) - listened to 18 times this week
+2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 1 times this week
+3. [The Favors, FINNEAS, Ashe & Marinelli](https://www.last.fm/music/The+Favors,+FINNEAS,+Ashe+&+Marinelli) - listened to 1 times this week
 4. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 4 times this week
 5. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 4 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Man I Need](https://www.last.fm/music/Olivia+Dean/_/Man+I+Need) - Olivia Dean (3 plays in the last 30 days)
+* [Moonshine](https://www.last.fm/music/The+Favors,+FINNEAS+&+Ashe/_/Moonshine) - The Favors, FINNEAS & Ashe (2 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
