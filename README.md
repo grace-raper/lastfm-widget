@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [The Favors, FINNEAS & Ashe](https://www.last.fm/music/The+Favors,+FINNEAS+&+Ashe) - listened to 11 times this week
-2. [The Favors, FINNEAS, Ashe & Marinelli](https://www.last.fm/music/The+Favors,+FINNEAS,+Ashe+&+Marinelli) - listened to 1 times this week
+1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 48 times this week
+2. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 1 times this week
 3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 1 times this week
 4. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 4 times this week
 5. [Teddy Swims](https://www.last.fm/music/Teddy+Swims) - listened to 4 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [David's Brother](https://www.last.fm/music/The+Favors,+FINNEAS+&+Ashe/_/David%27s+Brother) - The Favors, FINNEAS & Ashe (1 plays in the last 30 days)
+* [CANCELLED!](https://www.last.fm/music/Taylor+Swift/_/CANCELLED!) - Taylor Swift (5 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
