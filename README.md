@@ -8,7 +8,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
 1. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 98 times this week
-2. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 13 times this week
+2. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 22 times this week
 3. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 3 times this week
 4. [Lorde](https://www.last.fm/music/Lorde) - listened to 2 times this week
 5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) - listened to 1 times this week
