@@ -7,7 +7,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 22 times this week
+1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 21 times this week
 2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 18 times this week
 3. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 1 times this week
 4. [Doja Cat](https://www.last.fm/music/Doja+Cat) - listened to 1 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Just In Case I Love You](https://www.last.fm/music/B%C3%98RNS/_/Just+In+Case+I+Love+You) - BØRNS (7 plays in the last 30 days)
+* [Just In Case I Love You](https://www.last.fm/music/B%C3%98RNS/_/Just+In+Case+I+Love+You) - BØRNS (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
