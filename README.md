@@ -7,16 +7,16 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 20 times this week
-2. [Hozier](https://www.last.fm/music/Hozier) - listened to 20 times this week
-3. [Lorde](https://www.last.fm/music/Lorde) - listened to 19 times this week
-4. [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys) - listened to 18 times this week
-5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 18 times this week
+1. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 15 times this week
+2. [Hozier](https://www.last.fm/music/Hozier) - listened to 15 times this week
+3. [Lorde](https://www.last.fm/music/Lorde) - listened to 15 times this week
+4. [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys) - listened to 14 times this week
+5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 13 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [when the party's over](https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over) - Billie Eilish (4 plays in the last 30 days)
+* [Eat Your Young](https://www.last.fm/music/Hozier/_/Eat+Your+Young) - Hozier (4 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
