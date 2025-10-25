@@ -7,8 +7,8 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 ## Sample Output: 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Harry Styles](https://www.last.fm/music/Harry+Styles) - listened to 15 times this week
-2. [Hozier](https://www.last.fm/music/Hozier) - listened to 15 times this week
+1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 3 times this week
+2. [Doja Cat](https://www.last.fm/music/Doja+Cat) - listened to 1 times this week
 3. [Lorde](https://www.last.fm/music/Lorde) - listened to 15 times this week
 4. [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys) - listened to 14 times this week
 5. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 13 times this week
@@ -16,7 +16,7 @@ This is a fork of [melipass/lastfm-to-markdown](https://github.com/melipass/last
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Eat Your Young](https://www.last.fm/music/Hozier/_/Eat+Your+Young) - Hozier (4 plays in the last 30 days)
+* [Just In Case I Love You](https://www.last.fm/music/B%C3%98RNS/_/Just+In+Case+I+Love+You) - BØRNS (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 
